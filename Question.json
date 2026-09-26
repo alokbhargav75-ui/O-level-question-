@@ -1,230 +1,602 @@
-{
-  "module": "M1-R5 (IT Tools & Network Basics)",
-  "topics": [
-    {
-      "topic": "Introduction to Computer",
-      "questions": [
-        {"question": "कंप्यूटर के मुख्य भाग (Basic Components) कौन-कौन से हैं?", "options": ["Input, Output, CPU, Memory", "Only CPU", "Only Monitor", "Only Keyboard"], "answer": "Input, Output, CPU, Memory"},
-        {"question": "CPU का पूरा नाम क्या है?", "options": ["Central Processing Unit", "Computer Personal Unit", "Central Program Unit", "Central Processor Utility"], "answer": "Central Processing Unit"},
-        {"question": "कंप्यूटर की स्थायी मेमोरी कौन सी है?", "options": ["ROM", "RAM", "Cache", "Register"], "answer": "ROM"},
-        {"question": "RAM का पूरा नाम क्या है?", "options": ["Random Access Memory", "Read Access Memory", "Random Active Memory", "Read Active Memory"], "answer": "Random Access Memory"},
-        {"question": "निम्न में से कौन सा Input Device है?", "options": ["Keyboard", "Monitor", "Printer", "Speaker"], "answer": "Keyboard"},
-        {"question": "निम्न में से कौन सा Output Device है?", "options": ["Monitor", "Mouse", "Scanner", "Keyboard"], "answer": "Monitor"},
-        {"question": "1 Byte में कितने Bits होते हैं?", "options": ["8", "4", "16", "2"], "answer": "8"},
-        {"question": "कंप्यूटर की गति मापने की इकाई क्या है?", "options": ["Hertz", "Byte", "Pixel", "Watt"], "answer": "Hertz"},
-        {"question": "किसे कंप्यूटर का 'Brain' कहा जाता है?", "options": ["CPU", "Monitor", "Keyboard", "Mouse"], "answer": "CPU"},
-        {"question": "Hardware का उदाहरण कौन सा है?", "options": ["Mouse", "MS Word", "Windows", "Antivirus"], "answer": "Mouse"},
-        {"question": "Software का उदाहरण कौन सा है?", "options": ["MS Word", "Printer", "Mouse", "Keyboard"], "answer": "MS Word"},
-        {"question": "1 KB (Kilobyte) में कितने Bytes होते हैं?", "options": ["1024", "1000", "100", "10"], "answer": "1024"},
-        {"question": "Secondary Storage Device का उदाहरण क्या है?", "options": ["Hard Disk", "RAM", "Cache Memory", "Register"], "answer": "Hard Disk"},
-        {"question": "System Software का उदाहरण कौन सा है?", "options": ["Operating System", "MS Excel", "Photoshop", "Tally"], "answer": "Operating System"},
-        {"question": "Application Software का उदाहरण कौन सा है?", "options": ["MS Paint", "Windows 10", "Linux", "BIOS"], "answer": "MS Paint"},
-        {"question": "USB का पूरा नाम क्या है?", "options": ["Universal Serial Bus", "United Serial Bus", "Universal System Bus", "United System Bus"], "answer": "Universal Serial Bus"},
-        {"question": "कंप्यूटर में डेटा को स्थायी रूप से किसमें संग्रहित किया जाता है?", "options": ["Hard Disk", "RAM", "Cache", "Register"], "answer": "Hard Disk"},
-        {"question": "Motherboard किसे जोड़ता है?", "options": ["सभी Hardware Components को", "केवल Monitor को", "केवल Keyboard को", "केवल Mouse को"], "answer": "सभी Hardware Components को"},
-        {"question": "निम्न में से कौन Pointing Device है?", "options": ["Mouse", "Keyboard", "Scanner", "Printer"], "answer": "Mouse"},
-        {"question": "कंप्यूटर की पीढ़ी (Generation) कितनी मानी जाती है?", "options": ["5", "3", "4", "6"], "answer": "5"}
-      ]
+[
+  {
+    "id": 233,
+    "topic": "Computer और उसके Latest IT Gadgets",
+    "question": "Smartwatch किस प्रकार का IT Gadget है?",
+    "options": {
+      "A": "केवल Input Device",
+      "B": "Wearable Smart Device",
+      "C": "केवल Storage Device",
+      "D": "केवल Output Device"
     },
-    {
-      "topic": "GUI Based OS",
-      "questions": [
-        {"question": "GUI का पूरा नाम क्या है?", "options": ["Graphical User Interface", "General User Interface", "Graphical Unit Interface", "General Unit Interface"], "answer": "Graphical User Interface"},
-        {"question": "निम्न में से कौन सा GUI Based Operating System है?", "options": ["Windows", "DOS", "COBOL", "FORTRAN"], "answer": "Windows"},
-        {"question": "Desktop पर छोटे चित्रों को क्या कहते हैं?", "options": ["Icons", "Files", "Folders", "Taskbar"], "answer": "Icons"},
-        {"question": "Windows में सबसे नीचे की पट्टी को क्या कहते हैं?", "options": ["Taskbar", "Desktop", "Start Menu", "Toolbar"], "answer": "Taskbar"},
-        {"question": "फाइलों को व्यवस्थित रखने के लिए किसका उपयोग करते हैं?", "options": ["Folder", "Icon", "Taskbar", "Cursor"], "answer": "Folder"},
-        {"question": "Windows Start करने की प्रक्रिया को क्या कहते हैं?", "options": ["Booting", "Shutdown", "Restart", "Logging"], "answer": "Booting"},
-        {"question": "किसी File को Delete करने पर वह कहाँ जाती है?", "options": ["Recycle Bin", "My Computer", "Control Panel", "Desktop"], "answer": "Recycle Bin"},
-        {"question": "Control Panel का उपयोग किसके लिए होता है?", "options": ["System Settings बदलने के लिए", "File बनाने के लिए", "Internet चलाने के लिए", "Print करने के लिए"], "answer": "System Settings बदलने के लिए"},
-        {"question": "एक साथ कई Programs को Open रखने की सुविधा क्या कहलाती है?", "options": ["Multitasking", "Multiprocessing", "Single tasking", "Booting"], "answer": "Multitasking"},
-        {"question": "Windows में File Search करने के लिए किसका उपयोग करते हैं?", "options": ["Search Box", "Recycle Bin", "Control Panel", "Taskbar"], "answer": "Search Box"},
-        {"question": "किसी Program को Close करने के लिए Window के किस Button का प्रयोग करते हैं?", "options": ["Close Button (X)", "Minimize Button", "Maximize Button", "Start Button"], "answer": "Close Button (X)"},
-        {"question": "File Explorer/Windows Explorer का उपयोग किसके लिए होता है?", "options": ["Files और Folders देखने के लिए", "Internet चलाने के लिए", "Print करने के लिए", "Email भेजने के लिए"], "answer": "Files और Folders देखने के लिए"},
-        {"question": "Right Click करने पर क्या दिखाई देता है?", "options": ["Context Menu", "Start Menu", "Taskbar", "Desktop"], "answer": "Context Menu"},
-        {"question": "Copy करने की Shortcut Key क्या है?", "options": ["Ctrl+C", "Ctrl+V", "Ctrl+X", "Ctrl+Z"], "answer": "Ctrl+C"},
-        {"question": "Paste करने की Shortcut Key क्या है?", "options": ["Ctrl+V", "Ctrl+C", "Ctrl+X", "Ctrl+Z"], "answer": "Ctrl+V"},
-        {"question": "किसी Window को छोटा करने के लिए किस Button का प्रयोग करते हैं?", "options": ["Minimize", "Maximize", "Close", "Restore"], "answer": "Minimize"},
-        {"question": "Windows का Latest GUI OS Version कौन सा है?", "options": ["Windows 11", "DOS", "Windows 3.1", "MS-DOS 6.0"], "answer": "Windows 11"},
-        {"question": "File का नाम बदलने की प्रक्रिया क्या कहलाती है?", "options": ["Rename", "Delete", "Copy", "Move"], "answer": "Rename"},
-        {"question": "Recycle Bin खाली करने पर क्या होता है?", "options": ["Files स्थायी रूप से Delete हो जाती हैं", "Files Save हो जाती हैं", "Files Copy हो जाती हैं", "कुछ नहीं होता"], "answer": "Files स्थायी रूप से Delete हो जाती हैं"},
-        {"question": "Start Button किसमें स्थित होता है?", "options": ["Taskbar", "Desktop", "Recycle Bin", "Control Panel"], "answer": "Taskbar"}
-      ]
+    "answer": "B"
+  },
+  {
+    "id": 234,
+    "topic": "Hardware और Software की मूल बातें",
+    "question": "Computer का कौन-सा भाग Hardware का उदाहरण है?",
+    "options": {
+      "A": "Windows",
+      "B": "MS Word",
+      "C": "Keyboard",
+      "D": "Antivirus"
     },
-    {
-      "topic": "LibreOffice Writer",
-      "questions": [
-        {"question": "LibreOffice Writer किस प्रकार का Software है?", "options": ["Word Processing Software", "Spreadsheet Software", "Presentation Software", "Database Software"], "answer": "Word Processing Software"},
-        {"question": "LibreOffice Writer की फाइल एक्सटेंशन क्या है?", "options": [".odt", ".ods", ".odp", ".doc"], "answer": ".odt"},
-        {"question": "नई File बनाने की Shortcut Key क्या है?", "options": ["Ctrl+N", "Ctrl+O", "Ctrl+S", "Ctrl+P"], "answer": "Ctrl+N"},
-        {"question": "File को Save करने की Shortcut Key क्या है?", "options": ["Ctrl+S", "Ctrl+N", "Ctrl+O", "Ctrl+P"], "answer": "Ctrl+S"},
-        {"question": "Text को Bold करने की Shortcut Key क्या है?", "options": ["Ctrl+B", "Ctrl+I", "Ctrl+U", "Ctrl+N"], "answer": "Ctrl+B"},
-        {"question": "Text को Italic करने की Shortcut Key क्या है?", "options": ["Ctrl+I", "Ctrl+B", "Ctrl+U", "Ctrl+N"], "answer": "Ctrl+I"},
-        {"question": "Spelling Check करने के लिए किस Key का प्रयोग करते हैं?", "options": ["F7", "F1", "F5", "F2"], "answer": "F7"},
-        {"question": "Text को Underline करने की Shortcut Key क्या है?", "options": ["Ctrl+U", "Ctrl+B", "Ctrl+I", "Ctrl+N"], "answer": "Ctrl+U"},
-        {"question": "Document Print करने की Shortcut Key क्या है?", "options": ["Ctrl+P", "Ctrl+S", "Ctrl+N", "Ctrl+O"], "answer": "Ctrl+P"},
-        {"question": "Mail Merge का उपयोग किसके लिए होता है?", "options": ["एक साथ कई लोगों को Personalized Letter भेजने के लिए", "Photo Insert करने के लिए", "Table बनाने के लिए", "Spelling Check करने के लिए"], "answer": "एक साथ कई लोगों को Personalized Letter भेजने के लिए"},
-        {"question": "Undo करने की Shortcut Key क्या है?", "options": ["Ctrl+Z", "Ctrl+Y", "Ctrl+X", "Ctrl+C"], "answer": "Ctrl+Z"},
-        {"question": "Redo करने की Shortcut Key क्या है?", "options": ["Ctrl+Y", "Ctrl+Z", "Ctrl+X", "Ctrl+C"], "answer": "Ctrl+Y"},
-        {"question": "Table Insert करने के लिए किस Menu का उपयोग करते हैं?", "options": ["Table Menu", "Insert Menu", "Format Menu", "File Menu"], "answer": "Table Menu"},
-        {"question": "Header और Footer किस Menu में मिलते हैं?", "options": ["Insert Menu", "File Menu", "Edit Menu", "Tools Menu"], "answer": "Insert Menu"},
-        {"question": "Text Alignment के प्रकार कौन-कौन से हैं?", "options": ["Left, Right, Center, Justify", "Bold, Italic, Underline", "Cut, Copy, Paste", "New, Open, Save"], "answer": "Left, Right, Center, Justify"},
-        {"question": "Font Size बदलने के लिए किस Toolbar का उपयोग करते हैं?", "options": ["Formatting Toolbar", "Standard Toolbar", "Drawing Toolbar", "Status Bar"], "answer": "Formatting Toolbar"},
-        {"question": "Word Count देखने के लिए किस Menu का उपयोग करते हैं?", "options": ["Tools Menu", "File Menu", "Edit Menu", "Insert Menu"], "answer": "Tools Menu"},
-        {"question": "PDF के रूप में Document Save करने के लिए क्या करते हैं?", "options": ["Export as PDF", "Save As Word", "Print Preview", "Print"], "answer": "Export as PDF"},
-        {"question": "Page Orientation में कौन-कौन से Options होते हैं?", "options": ["Portrait और Landscape", "Left और Right", "Top और Bottom", "Bold और Italic"], "answer": "Portrait और Landscape"},
-        {"question": "Find and Replace करने की Shortcut Key क्या है?", "options": ["Ctrl+H", "Ctrl+F", "Ctrl+R", "Ctrl+E"], "answer": "Ctrl+H"}
-      ]
+    "answer": "C"
+  },
+  {
+    "id": 235,
+    "topic": "Central Processing Unit (CPU) और Input/Output Devices",
+    "question": "CPU का कौन-सा भाग Arithmetic और Logical Operations करता है?",
+    "options": {
+      "A": "ALU",
+      "B": "CU",
+      "C": "Register",
+      "D": "Cache"
     },
-    {
-      "topic": "LibreOffice Calc",
-      "questions": [
-        {"question": "LibreOffice Calc किस प्रकार का Software है?", "options": ["Spreadsheet Software", "Word Processing Software", "Presentation Software", "Database Software"], "answer": "Spreadsheet Software"},
-        {"question": "LibreOffice Calc की फाइल एक्सटेंशन क्या है?", "options": [".ods", ".odt", ".odp", ".xls"], "answer": ".ods"},
-        {"question": "Row और Column के मिलन बिंदु को क्या कहते हैं?", "options": ["Cell", "Sheet", "Workbook", "Range"], "answer": "Cell"},
-        {"question": "योग (Sum) निकालने के लिए कौन सा Function उपयोग होता है?", "options": ["SUM", "AVERAGE", "COUNT", "MAX"], "answer": "SUM"},
-        {"question": "औसत निकालने के लिए कौन सा Function उपयोग होता है?", "options": ["AVERAGE", "SUM", "COUNT", "MIN"], "answer": "AVERAGE"},
-        {"question": "सबसे बड़ा मान निकालने के लिए कौन सा Function उपयोग होता है?", "options": ["MAX", "MIN", "SUM", "COUNT"], "answer": "MAX"},
-        {"question": "सबसे छोटा मान निकालने के लिए कौन सा Function उपयोग होता है?", "options": ["MIN", "MAX", "SUM", "AVERAGE"], "answer": "MIN"},
-        {"question": "Formula हमेशा किस चिह्न से शुरू होता है?", "options": ["=", "+", "@", "#"], "answer": "="},
-        {"question": "Cell Address का उदाहरण कौन सा है?", "options": ["A1", "Sheet1", "Cell1", "Row1"], "answer": "A1"},
-        {"question": "एक Workbook में कई Sheets को क्या कहते हैं?", "options": ["Worksheets", "Cells", "Rows", "Columns"], "answer": "Worksheets"},
-        {"question": "Data को छोटे से बड़े क्रम में लगाना क्या कहलाता है?", "options": ["Sorting", "Filtering", "Formatting", "Merging"], "answer": "Sorting"},
-        {"question": "विशेष Data को छाँटने की प्रक्रिया क्या कहलाती है?", "options": ["Filtering", "Sorting", "Formatting", "Charting"], "answer": "Filtering"},
-        {"question": "Chart बनाने के लिए किस Menu का उपयोग करते हैं?", "options": ["Insert Menu", "Format Menu", "Tools Menu", "Data Menu"], "answer": "Insert Menu"},
-        {"question": "गिनती (Count) करने के लिए कौन सा Function उपयोग होता है?", "options": ["COUNT", "SUM", "AVERAGE", "MAX"], "answer": "COUNT"},
-        {"question": "किसी Cell में Number Format Currency करने के लिए क्या करते हैं?", "options": ["Format Cells > Currency", "Insert > Currency", "Data > Currency", "Tools > Currency"], "answer": "Format Cells > Currency"},
-        {"question": "Cell Reference Lock करने के लिए किस चिह्न का उपयोग होता है?", "options": ["$", "#", "@", "%"], "answer": "$"},
-        {"question": "एक Sheet में अधिकतम Rows की संख्या लगभग कितनी होती है?", "options": ["10 लाख से अधिक", "100", "1000", "10000"], "answer": "10 लाख से अधिक"},
-        {"question": "किसी Range का चयन करने के लिए किस Symbol का उपयोग करते हैं?", "options": [":", ";", ",", "-"], "answer": ":"},
-        {"question": "IF Function का उपयोग किसलिए किया जाता है?", "options": ["शर्त (Condition) के आधार पर परिणाम देने के लिए", "जोड़ करने के लिए", "घटाना करने के लिए", "Sort करने के लिए"], "answer": "शर्त (Condition) के आधार पर परिणाम देने के लिए"},
-        {"question": "Freeze Panes का उपयोग किसलिए होता है?", "options": ["Rows/Columns को स्थिर रखने के लिए", "Data Delete करने के लिए", "Chart बनाने के लिए", "Sheet Copy करने के लिए"], "answer": "Rows/Columns को स्थिर रखने के लिए"}
-      ]
+    "answer": "A"
+  },
+  {
+    "id": 236,
+    "topic": "Computer Memory और Storage",
+    "question": "RAM की मुख्य विशेषता क्या है?",
+    "options": {
+      "A": "यह Permanent Memory है",
+      "B": "यह केवल Read होती है",
+      "C": "Power बंद होने पर Data बना रहता है",
+      "D": "यह Volatile Memory है"
     },
-    {
-      "topic": "LibreOffice Impress",
-      "questions": [
-        {"question": "LibreOffice Impress किस प्रकार का Software है?", "options": ["Presentation Software", "Word Processing Software", "Spreadsheet Software", "Database Software"], "answer": "Presentation Software"},
-        {"question": "LibreOffice Impress की फाइल एक्सटेंशन क्या है?", "options": [".odp", ".odt", ".ods", ".ppt"], "answer": ".odp"},
-        {"question": "Presentation में हर पेज को क्या कहते हैं?", "options": ["Slide", "Sheet", "Page", "Cell"], "answer": "Slide"},
-        {"question": "नई Slide Insert करने के लिए किस Menu का उपयोग करते हैं?", "options": ["Slide Menu", "Insert Menu", "Format Menu", "View Menu"], "answer": "Slide Menu"},
-        {"question": "Slide Show शुरू करने की Shortcut Key क्या है?", "options": ["F5", "F1", "F7", "F2"], "answer": "F5"},
-        {"question": "Slide के बीच होने वाले प्रभाव को क्या कहते हैं?", "options": ["Transition", "Animation", "Design", "Layout"], "answer": "Transition"},
-        {"question": "किसी Object पर लगने वाले प्रभाव को क्या कहते हैं?", "options": ["Animation", "Transition", "Theme", "Master Slide"], "answer": "Animation"},
-        {"question": "Slide का Background/Theme बदलने के लिए क्या करते हैं?", "options": ["Slide Design/Master Slide का उपयोग", "Slide Show का उपयोग", "Animation का उपयोग", "Print का उपयोग"], "answer": "Slide Design/Master Slide का उपयोग"},
-        {"question": "Presentation में Text डालने के लिए किसका उपयोग करते हैं?", "options": ["Text Box", "Cell", "Sheet", "Row"], "answer": "Text Box"},
-        {"question": "Slide Sorter View का उपयोग किसलिए होता है?", "options": ["सभी Slides को छोटे रूप में देखने के लिए", "एक Slide को बड़ा देखने के लिए", "Print करने के लिए", "Sound डालने के लिए"], "answer": "सभी Slides को छोटे रूप में देखने के लिए"},
-        {"question": "Slide में Image Insert करने के लिए किस Menu का उपयोग करते हैं?", "options": ["Insert Menu", "Format Menu", "View Menu", "Tools Menu"], "answer": "Insert Menu"},
-        {"question": "Master Slide का उपयोग किसलिए किया जाता है?", "options": ["सभी Slides में समान Design लागू करने के लिए", "एक Slide Delete करने के लिए", "Slide Show रोकने के लिए", "Text Delete करने के लिए"], "answer": "सभी Slides में समान Design लागू करने के लिए"},
-        {"question": "Notes Page View का उपयोग किसलिए होता है?", "options": ["Speaker Notes जोड़ने के लिए", "Slide Delete करने के लिए", "Image Insert करने के लिए", "Table बनाने के लिए"], "answer": "Speaker Notes जोड़ने के लिए"},
-        {"question": "Slide में Audio/Video Insert करने के लिए किस Menu का उपयोग करते हैं?", "options": ["Insert Menu", "Slide Menu", "Format Menu", "Tools Menu"], "answer": "Insert Menu"},
-        {"question": "Presentation को Save करने की Shortcut Key क्या है?", "options": ["Ctrl+S", "Ctrl+N", "Ctrl+P", "Ctrl+O"], "answer": "Ctrl+S"},
-        {"question": "Slide Layout में क्या शामिल होता है?", "options": ["Title और Content की व्यवस्था", "केवल Color", "केवल Font", "केवल Animation"], "answer": "Title और Content की व्यवस्था"},
-        {"question": "किसी Slide को Duplicate करने का उद्देश्य क्या है?", "options": ["उसी Slide की एक और प्रति बनाना", "Slide Delete करना", "Slide Print करना", "Slide Hide करना"], "answer": "उसी Slide की एक और प्रति बनाना"},
-        {"question": "Slide Show के दौरान अगली Slide पर जाने के लिए किस Key का उपयोग करते हैं?", "options": ["Enter/Spacebar", "Esc", "Ctrl", "Alt"], "answer": "Enter/Spacebar"},
-        {"question": "Slide Show को बीच में रोकने के लिए किस Key का उपयोग करते हैं?", "options": ["Esc", "Enter", "F5", "Tab"], "answer": "Esc"},
-        {"question": "Outline View का उपयोग किसलिए होता है?", "options": ["Presentation का Text/Structure देखने के लिए", "Image Edit करने के लिए", "Sound जोड़ने के लिए", "Slide Print करने के लिए"], "answer": "Presentation का Text/Structure देखने के लिए"}
-      ]
+    "answer": "D"
+  },
+  {
+    "id": 237,
+    "topic": "Application Software, System Software और Utility Software",
+    "question": "Windows किस प्रकार का Software है?",
+    "options": {
+      "A": "Application Software",
+      "B": "System Software",
+      "C": "Utility Software",
+      "D": "Programming Language"
     },
-    {
-      "topic": "Internet & WWW",
-      "questions": [
-        {"question": "WWW का पूरा नाम क्या है?", "options": ["World Wide Web", "World Wide Wire", "Wide World Web", "World Web Wide"], "answer": "World Wide Web"},
-        {"question": "Internet का जनक (Father) किसे कहा जाता है?", "options": ["Vint Cerf", "Bill Gates", "Steve Jobs", "Tim Berners-Lee"], "answer": "Vint Cerf"},
-        {"question": "Web Browser का उदाहरण कौन सा है?", "options": ["Google Chrome", "MS Word", "MS Excel", "LibreOffice"], "answer": "Google Chrome"},
-        {"question": "Website के पते को क्या कहते हैं?", "options": ["URL", "IP Address", "MAC Address", "Domain"], "answer": "URL"},
-        {"question": "URL का पूरा नाम क्या है?", "options": ["Uniform Resource Locator", "Universal Resource Locator", "Uniform Reference Locator", "Universal Reference Locator"], "answer": "Uniform Resource Locator"},
-        {"question": "HTTP का पूरा नाम क्या है?", "options": ["Hyper Text Transfer Protocol", "High Text Transfer Protocol", "Hyper Transfer Text Protocol", "High Transfer Text Protocol"], "answer": "Hyper Text Transfer Protocol"},
-        {"question": "Search Engine का उदाहरण कौन सा है?", "options": ["Google", "Chrome", "Firefox", "Edge"], "answer": "Google"},
-        {"question": "ISP का पूरा नाम क्या है?", "options": ["Internet Service Provider", "Internal Service Provider", "Internet System Provider", "Internal System Provider"], "answer": "Internet Service Provider"},
-        {"question": "Wi-Fi का पूरा नाम क्या है?", "options": ["Wireless Fidelity", "Wireless Field", "Wired Fidelity", "Wireless Frequency"], "answer": "Wireless Fidelity"},
-        {"question": "Website का Homepage क्या होता है?", "options": ["Website का मुख्य पृष्ठ", "Website का अंतिम पृष्ठ", "Website का Login पृष्ठ", "Website का Contact पृष्ठ"], "answer": "Website का मुख्य पृष्ठ"},
-        {"question": "Hyperlink का उपयोग किसलिए होता है?", "options": ["एक Page से दूसरे Page पर जाने के लिए", "Text Bold करने के लिए", "File Save करने के लिए", "Print करने के लिए"], "answer": "एक Page से दूसरे Page पर जाने के लिए"},
-        {"question": "Web Page बनाने की भाषा कौन सी है?", "options": ["HTML", "Python", "Java", "C++"], "answer": "HTML"},
-        {"question": "Domain Name का उदाहरण कौन सा है?", "options": ["www.google.com", "192.168.1.1", "user@gmail.com", "Wi-Fi"], "answer": "www.google.com"},
-        {"question": "Download का अर्थ क्या है?", "options": ["Internet से File अपने Computer में लाना", "अपने Computer से File Internet पर भेजना", "File Delete करना", "File Print करना"], "answer": "Internet से File अपने Computer में लाना"},
-        {"question": "Upload का अर्थ क्या है?", "options": ["अपने Computer से File Internet पर भेजना", "Internet से File अपने Computer में लाना", "File Delete करना", "File Print करना"], "answer": "अपने Computer से File Internet पर भेजना"},
-        {"question": "Modem का कार्य क्या है?", "options": ["Digital और Analog Signal में बदलाव करना", "Print करना", "Scan करना", "Data Store करना"], "answer": "Digital और Analog Signal में बदलाव करना"},
-        {"question": "Browser History का उपयोग किसलिए होता है?", "options": ["पहले Visit की गई Websites देखने के लिए", "File Save करने के लिए", "Email भेजने के लिए", "Password बदलने के लिए"], "answer": "पहले Visit की गई Websites देखने के लिए"},
-        {"question": "Bookmark का उपयोग किसलिए होता है?", "options": ["पसंदीदा Website को Save करने के लिए", "File Delete करने के लिए", "Password Save करने के लिए", "Email भेजने के लिए"], "answer": "पसंदीदा Website को Save करने के लिए"},
-        {"question": "IP Address का उपयोग किसलिए होता है?", "options": ["Computer/Device की पहचान के लिए", "File Print करने के लिए", "Password बनाने के लिए", "Email भेजने के लिए"], "answer": "Computer/Device की पहचान के लिए"},
-        {"question": "www.rkcl.in में .in क्या दर्शाता है?", "options": ["Country Domain (India)", "Website Name", "Password", "IP Address"], "answer": "Country Domain (India)"}
-      ]
+    "answer": "B"
+  },
+  {
+    "id": 238,
+    "topic": "Open Source और Proprietary Software",
+    "question": "Open Source Software की प्रमुख विशेषता क्या है?",
+    "options": {
+      "A": "Source Code उपलब्ध हो सकता है",
+      "B": "यह हमेशा Paid होता है",
+      "C": "इसे केवल एक कंपनी उपयोग कर सकती है",
+      "D": "इसमें Source Code कभी उपलब्ध नहीं होता"
     },
-    {
-      "topic": "E-mail, Social & e-Gov",
-      "questions": [
-        {"question": "E-mail का पूरा नाम क्या है?", "options": ["Electronic Mail", "Electric Mail", "Email Line", "Express Mail"], "answer": "Electronic Mail"},
-        {"question": "E-mail भेजते समय Carbon Copy को क्या कहते हैं?", "options": ["CC", "BCC", "To", "Subject"], "answer": "CC"},
-        {"question": "E-mail में छुपी हुई Copy को क्या कहते हैं?", "options": ["BCC", "CC", "To", "Subject"], "answer": "BCC"},
-        {"question": "E-mail के साथ File जोड़ने को क्या कहते हैं?", "options": ["Attachment", "Signature", "Draft", "Spam"], "answer": "Attachment"},
-        {"question": "अवांछित E-mail को क्या कहते हैं?", "options": ["Spam", "Inbox", "Draft", "Sent"], "answer": "Spam"},
-        {"question": "Gmail किसकी सेवा है?", "options": ["Google", "Microsoft", "Yahoo", "Facebook"], "answer": "Google"},
-        {"question": "Social Media का उदाहरण कौन सा है?", "options": ["Facebook", "Gmail", "MS Word", "Tally"], "answer": "Facebook"},
-        {"question": "e-Governance का अर्थ क्या है?", "options": ["सरकारी सेवाओं को Internet के माध्यम से उपलब्ध कराना", "केवल Email भेजना", "केवल Social Media उपयोग करना", "केवल Printing करना"], "answer": "सरकारी सेवाओं को Internet के माध्यम से उपलब्ध कराना"},
-        {"question": "राजस्थान की e-Governance सेवा कौन सी है?", "options": ["e-Mitra", "Gmail", "WhatsApp", "Facebook"], "answer": "e-Mitra"},
-        {"question": "Digital India Portal किसके द्वारा चलाया जाता है?", "options": ["भारत सरकार", "Google", "Microsoft", "Facebook"], "answer": "भारत सरकार"},
-        {"question": "E-mail Account बनाने के लिए क्या आवश्यक है?", "options": ["Username और Password", "Aadhaar Card", "Voter ID", "Driving License"], "answer": "Username और Password"},
-        {"question": "Draft Folder में क्या होता है?", "options": ["अधूरे लिखे हुए Emails", "भेजे गए Emails", "प्राप्त Emails", "Delete किए गए Emails"], "answer": "अधूरे लिखे हुए Emails"},
-        {"question": "Inbox में क्या होता है?", "options": ["प्राप्त हुए Emails", "भेजे गए Emails", "Draft Emails", "Spam Emails"], "answer": "प्राप्त हुए Emails"},
-        {"question": "Sent Items Folder में क्या होता है?", "options": ["भेजे गए Emails", "प्राप्त Emails", "Draft Emails", "Delete किए गए Emails"], "answer": "भेजे गए Emails"},
-        {"question": "WhatsApp किस प्रकार का Application है?", "options": ["Instant Messaging App", "Word Processing App", "Spreadsheet App", "Presentation App"], "answer": "Instant Messaging App"},
-        {"question": "e-Mitra से कौन सी सेवा प्राप्त की जा सकती है?", "options": ["बिजली/पानी बिल भुगतान, प्रमाण पत्र आदि", "केवल Games खेलना", "केवल Video देखना", "केवल Song सुनना"], "answer": "बिजली/पानी बिल भुगतान, प्रमाण पत्र आदि"},
-        {"question": "Password सुरक्षित रखने के लिए क्या करना चाहिए?", "options": ["Strong Password बनाना और किसी से Share नहीं करना", "Password सभी को बताना", "Password नहीं बनाना", "Simple Password रखना"], "answer": "Strong Password बनाना और किसी से Share नहीं करना"},
-        {"question": "Digital Signature का उपयोग किसलिए होता है?", "options": ["Document की प्रामाणिकता सत्यापित करने के लिए", "Photo Edit करने के लिए", "Video बनाने के लिए", "Game खेलने के लिए"], "answer": "Document की प्रामाणिकता सत्यापित करने के लिए"},
-        {"question": "Social Media पर Privacy Settings का उद्देश्य क्या है?", "options": ["अपनी जानकारी को नियंत्रित करना", "सभी को Password देना", "Account Delete करना", "Photo Upload करना"], "answer": "अपनी जानकारी को नियंत्रित करना"},
-        {"question": "Emojis का उपयोग किसलिए किया जाता है?", "options": ["भावनाएं व्यक्त करने के लिए", "File Save करने के लिए", "Password बनाने के लिए", "Internet बंद करने के लिए"], "answer": "भावनाएं व्यक्त करने के लिए"}
-      ]
+    "answer": "A"
+  },
+  {
+    "id": 239,
+    "topic": "Mobile Apps",
+    "question": "Android में Apps सामान्यतः कहाँ से Download किए जाते हैं?",
+    "options": {
+      "A": "BIOS",
+      "B": "Control Panel",
+      "C": "Google Play Store",
+      "D": "Task Manager"
     },
-    {
-      "topic": "Digital Financial Tools",
-      "questions": [
-        {"question": "UPI का पूरा नाम क्या है?", "options": ["Unified Payments Interface", "United Payment Interface", "Unified Payment Institution", "United Payments Institution"], "answer": "Unified Payments Interface"},
-        {"question": "UPI का उदाहरण कौन सा है?", "options": ["Google Pay", "MS Word", "LibreOffice", "Windows"], "answer": "Google Pay"},
-        {"question": "Net Banking का उपयोग किसलिए होता है?", "options": ["Internet के माध्यम से Bank सेवाएं उपयोग करने के लिए", "File Print करने के लिए", "Video देखने के लिए", "Photo Edit करने के लिए"], "answer": "Internet के माध्यम से Bank सेवाएं उपयोग करने के लिए"},
-        {"question": "ATM का पूरा नाम क्या है?", "options": ["Automated Teller Machine", "Automatic Teller Machine", "Automated Transfer Machine", "Automatic Transfer Machine"], "answer": "Automated Teller Machine"},
-        {"question": "Debit Card और Credit Card में मुख्य अंतर क्या है?", "options": ["Debit Card अपने खाते के पैसों से चलता है, Credit Card उधार पर", "दोनों एक जैसे हैं", "Debit Card उधार पर चलता है", "Credit Card में पैसे नहीं लगते"], "answer": "Debit Card अपने खाते के पैसों से चलता है, Credit Card उधार पर"},
-        {"question": "OTP का पूरा नाम क्या है?", "options": ["One Time Password", "Online Transfer Password", "One Transfer Process", "Online Time Password"], "answer": "One Time Password"},
-        {"question": "QR Code का उपयोग किसलिए होता है?", "options": ["Digital Payment के लिए स्कैन करना", "Photo खींचने के लिए", "Video बनाने के लिए", "Game खेलने के लिए"], "answer": "Digital Payment के लिए स्कैन करना"},
-        {"question": "Mobile Wallet का उदाहरण कौन सा है?", "options": ["Paytm", "MS Excel", "Windows", "Chrome"], "answer": "Paytm"},
-        {"question": "IMPS का पूरा नाम क्या है?", "options": ["Immediate Payment Service", "Internet Money Payment Service", "Immediate Money Process", "Internet Payment Money Service"], "answer": "Immediate Payment Service"},
-        {"question": "NEFT का पूरा नाम क्या है?", "options": ["National Electronic Funds Transfer", "National Electric Fund Transfer", "New Electronic Fund Transfer", "New Electric Funds Transfer"], "answer": "National Electronic Funds Transfer"},
-        {"question": "RTGS का पूरा नाम क्या है?", "options": ["Real Time Gross Settlement", "Real Time Gross System", "Rapid Time Gross Settlement", "Real Transfer Gross Settlement"], "answer": "Real Time Gross Settlement"},
-        {"question": "PIN का पूरा नाम क्या है?", "options": ["Personal Identification Number", "Private Identification Number", "Personal Internet Number", "Private Internet Number"], "answer": "Personal Identification Number"},
-        {"question": "CVV का उपयोग किसलिए होता है?", "options": ["Card के Online Transaction को सत्यापित करने के लिए", "Password Reset करने के लिए", "Bank Balance देखने के लिए", "ATM Card Block करने के लिए"], "answer": "Card के Online Transaction को सत्यापित करने के लिए"},
-        {"question": "Aadhaar Enabled Payment System को क्या कहते हैं?", "options": ["AEPS", "UPI", "NEFT", "RTGS"], "answer": "AEPS"},
-        {"question": "Digital Payment करते समय किससे सावधान रहना चाहिए?", "options": ["OTP/PIN किसी से Share न करें", "Password सबको बताएं", "Link पर तुरंत Click करें", "Unknown Call से पैसे भेजें"], "answer": "OTP/PIN किसी से Share न करें"},
-        {"question": "Bank Account से Mobile Number जोड़ने का लाभ क्या है?", "options": ["SMS Alert और OTP प्राप्त होना", "Internet तेज़ होना", "Photo Edit करना", "Video देखना"], "answer": "SMS Alert और OTP प्राप्त होना"},
-        {"question": "Point of Sale (POS) Machine का उपयोग कहाँ होता है?", "options": ["दुकानों पर Card से भुगतान के लिए", "घर पर Photo Print के लिए", "School में Attendance के लिए", "Bank में Cheque Print के लिए"], "answer": "दुकानों पर Card से भुगतान के लिए"},
-        {"question": "BHIM App किसके द्वारा बनाया गया है?", "options": ["भारत सरकार (NPCI)", "Google", "Facebook", "Microsoft"], "answer": "भारत सरकार (NPCI)"},
-        {"question": "Fraud Call से बचने के लिए क्या करना चाहिए?", "options": ["अनजान Call पर Bank जानकारी न दें", "सभी जानकारी दे दें", "OTP बता दें", "Password Share करें"], "answer": "अनजान Call पर Bank जानकारी न दें"},
-        {"question": "Digital Financial Tools का मुख्य लाभ क्या है?", "options": ["तेज़, सुरक्षित और सुविधाजनक भुगतान", "समय अधिक लगना", "केवल Cash उपयोग", "Bank जाना अनिवार्य"], "answer": "तेज़, सुरक्षित और सुविधाजनक भुगतान"}
-      ]
+    "answer": "C"
+  },
+  {
+    "id": 240,
+    "topic": "Computer और उसके Latest IT Gadgets",
+    "question": "Tablet Computer की प्रमुख विशेषता क्या है?",
+    "options": {
+      "A": "यह केवल Keyboard से चलता है",
+      "B": "यह सामान्यतः Touchscreen आधारित होता है",
+      "C": "इसमें Processor नहीं होता",
+      "D": "यह केवल Printing के लिए होता है"
     },
-    {
-      "topic": "Cyber Security & IT Act",
-      "questions": [
-        {"question": "Cyber Security का अर्थ क्या है?", "options": ["Computer और Network को खतरों से सुरक्षित रखना", "Internet बंद करना", "Password भूल जाना", "File Delete करना"], "answer": "Computer और Network को खतरों से सुरक्षित रखना"},
-        {"question": "Virus किसे कहते हैं?", "options": ["एक हानिकारक Program जो Computer को नुकसान पहुंचाता है", "एक Antivirus Software", "एक Hardware Device", "एक Website"], "answer": "एक हानिकारक Program जो Computer को नुकसान पहुंचाता है"},
-        {"question": "Antivirus का कार्य क्या है?", "options": ["Virus से Computer को सुरक्षित रखना", "Internet चलाना", "File Print करना", "Video Edit करना"], "answer": "Virus से Computer को सुरक्षित रखना"},
-        {"question": "Phishing क्या है?", "options": ["नकली Website/Email से जानकारी चुराने की कोशिश", "एक Antivirus", "एक Game", "एक Browser"], "answer": "नकली Website/Email से जानकारी चुराने की कोशिश"},
-        {"question": "भारत का IT Act कब लागू हुआ था?", "options": ["2000", "1995", "2005", "2010"], "answer": "2000"},
-        {"question": "Hacking किसे कहते हैं?", "options": ["बिना अनुमति किसी Computer/Account में प्रवेश करना", "Computer Repair करना", "Software Install करना", "File Save करना"], "answer": "बिना अनुमति किसी Computer/Account में प्रवेश करना"},
-        {"question": "Strong Password में क्या होना चाहिए?", "options": ["Letters, Numbers और Symbols का मिश्रण", "केवल Name", "केवल Numbers", "केवल जन्मतिथि"], "answer": "Letters, Numbers और Symbols का मिश्रण"},
-        {"question": "Firewall का कार्य क्या है?", "options": ["अनधिकृत पहुंच से Network को सुरक्षित रखना", "File Print करना", "Video Play करना", "Photo Edit करना"], "answer": "अनधिकृत पहुंच से Network को सुरक्षित रखना"},
-        {"question": "Malware का पूरा अर्थ क्या है?", "options": ["Malicious Software", "Mail Software", "Main Software", "Manual Software"], "answer": "Malicious Software"},
-        {"question": "Cyber Bullying किसे कहते हैं?", "options": ["Internet के माध्यम से किसी को परेशान/धमकाना", "Internet से File Download करना", "Email भेजना", "Video Call करना"], "answer": "Internet के माध्यम से किसी को परेशान/धमकाना"},
-        {"question": "IT Act के अंतर्गत Cyber Crime के लिए क्या प्रावधान है?", "options": ["जुर्माना और कारावास (Punishment)", "कोई सजा नहीं", "केवल चेतावनी", "Account Delete"], "answer": "जुर्माना और कारावास (Punishment)"},
-        {"question": "Two-Factor Authentication का उद्देश्य क्या है?", "options": ["Account की सुरक्षा को दोगुना करना", "Password भूलना", "Internet बंद करना", "File Delete करना"], "answer": "Account की सुरक्षा को दोगुना करना"},
-        {"question": "Cyber Crime की शिकायत कहाँ दर्ज कराई जा सकती है?", "options": ["National Cyber Crime Reporting Portal", "Gmail", "Facebook", "WhatsApp"], "answer": "National Cyber Crime Reporting Portal"},
-        {"question": "Data Privacy का अर्थ क्या है?", "options": ["व्यक्तिगत जानकारी को सुरक्षित रखना", "जानकारी सबको बताना", "File Delete करना", "Password Share करना"], "answer": "व्यक्तिगत जानकारी को सुरक्षित रखना"},
-        {"question": "Public Wi-Fi का उपयोग करते समय क्या सावधानी रखनी चाहिए?", "options": ["संवेदनशील जानकारी (Banking) उपयोग न करें", "सभी Password डाल दें", "Bank Transaction करें", "OTP Share करें"], "answer": "संवेदनशील जानकारी (Banking) उपयोग न करें"},
-        {"question": "Spyware क्या करता है?", "options": ["चुपचाप उपयोगकर्ता की जानकारी चुराता है", "Computer तेज़ करता है", "File Print करता है", "Video बनाता है"], "answer": "चुपचाप उपयोगकर्ता की जानकारी चुराता है"},
-        {"question": "IT Act 2000 का मुख्य उद्देश्य क्या है?", "options": ["Electronic Transactions और Cyber Crime को कानूनी मान्यता व नियंत्रण देना", "केवल Internet Speed बढ़ाना", "केवल Software बनाना", "केवल Hardware बेचना"], "answer": "Electronic Transactions और Cyber Crime को कानूनी मान्यता व नियंत्रण देना"},
-        {"question": "Unknown Link पर Click करने से क्या खतरा हो सकता है?", "options": ["Virus/Malware Computer में आ सकता है", "Computer तेज़ हो जाएगा", "Internet Speed बढ़ेगी", "कुछ नहीं होगा"], "answer": "Virus/Malware Computer में आ सकता है"},
-        {"question": "Digital Signature Certificate किससे संबंधित है?", "options": ["Online Document की प्रामाणिकता से", "Photo Edit से", "Game खेलने से", "Video देखने से"], "answer": "Online Document की प्रामाणिकता से"},
-        {"question": "Ransomware क्या करता है?", "options": ["Data को Lock करके पैसों की मांग करता है", "Computer तेज़ करता है", "File Print करता है", "Photo बनाता है"], "answer": "Data को Lock करके पैसों की मांग करता है"}
-      ]
-    }
-  ]
-}
+    "answer": "B"
+  },
+  {
+    "id": 241,
+    "topic": "Hardware और Software की मूल बातें",
+    "question": "Software का अर्थ क्या है?",
+    "options": {
+      "A": "Computer के Physical Parts",
+      "B": "Computer की Cabinet",
+      "C": "Instructions और Programs का समूह",
+      "D": "केवल Keyboard और Mouse"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 242,
+    "topic": "Central Processing Unit (CPU) और Input/Output Devices",
+    "question": "CPU में Control Unit का मुख्य कार्य क्या है?",
+    "options": {
+      "A": "Computer की विभिन्न गतिविधियों को Control करना",
+      "B": "केवल Data Store करना",
+      "C": "केवल Printing करना",
+      "D": "केवल Audio चलाना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 243,
+    "topic": "Computer Memory और Storage",
+    "question": "ROM का पूरा नाम क्या है?",
+    "options": {
+      "A": "Random Output Memory",
+      "B": "Read Only Memory",
+      "C": "Read Output Module",
+      "D": "Random Only Module"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 244,
+    "topic": "Application Software, System Software और Utility Software",
+    "question": "MS Word किस प्रकार का Software है?",
+    "options": {
+      "A": "System Software",
+      "B": "Utility Software",
+      "C": "Application Software",
+      "D": "Firmware"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 245,
+    "topic": "Open Source और Proprietary Software",
+    "question": "निम्न में से कौन-सा Open Source Operating System है?",
+    "options": {
+      "A": "Linux",
+      "B": "Windows",
+      "C": "iOS",
+      "D": "MS-DOS"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 246,
+    "topic": "Mobile Apps",
+    "question": "Mobile App क्या है?",
+    "options": {
+      "A": "Mobile Device पर चलने वाला Application",
+      "B": "Computer का Hardware",
+      "C": "केवल Network Cable",
+      "D": "केवल Storage Chip"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 247,
+    "topic": "Computer और उसके Latest IT Gadgets",
+    "question": "Smartphone में Internet से जुड़ने के लिए कौन-सी Technology उपयोग की जा सकती है?",
+    "options": {
+      "A": "Wi-Fi",
+      "B": "Floppy Disk",
+      "C": "Plotter",
+      "D": "Scanner"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 248,
+    "topic": "Hardware और Software की मूल बातें",
+    "question": "Mouse किसका उदाहरण है?",
+    "options": {
+      "A": "Software",
+      "B": "Input Hardware",
+      "C": "System Software",
+      "D": "Utility Software"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 249,
+    "topic": "Central Processing Unit (CPU) और Input/Output Devices",
+    "question": "Monitor किस प्रकार का Device है?",
+    "options": {
+      "A": "Input Device",
+      "B": "Storage Device",
+      "C": "Output Device",
+      "D": "Processing Device"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 250,
+    "topic": "Computer Memory और Storage",
+    "question": "SSD का मुख्य लाभ क्या है?",
+    "options": {
+      "A": "इसमें Moving Parts अधिक होते हैं",
+      "B": "यह HDD की तुलना में सामान्यतः तेज होती है",
+      "C": "यह केवल RAM के रूप में काम करती है",
+      "D": "इसमें Data Store नहीं किया जा सकता"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 251,
+    "topic": "Application Software, System Software और Utility Software",
+    "question": "Antivirus Software का मुख्य उद्देश्य क्या है?",
+    "options": {
+      "A": "Malware से सुरक्षा करना",
+      "B": "केवल Video चलाना",
+      "C": "केवल Document बनाना",
+      "D": "केवल Internet Speed बढ़ाना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 252,
+    "topic": "Open Source और Proprietary Software",
+    "question": "Proprietary Software सामान्यतः किसके नियंत्रण में होता है?",
+    "options": {
+      "A": "किसी Developer या Company के",
+      "B": "सभी Users के समान रूप से",
+      "C": "केवल Government के",
+      "D": "किसी के नहीं"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 253,
+    "topic": "Mobile Apps",
+    "question": "Mobile App को Update करने का सामान्य लाभ क्या है?",
+    "options": {
+      "A": "नई सुविधाएँ और Security Improvements मिल सकती हैं",
+      "B": "फोन का Storage हमेशा समाप्त हो जाता है",
+      "C": "SIM Card बदल जाता है",
+      "D": "Battery हमेशा खराब हो जाती है"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 254,
+    "topic": "Computer और उसके Latest IT Gadgets",
+    "question": "Virtual Reality (VR) में User को मुख्य रूप से क्या अनुभव कराया जाता है?",
+    "options": {
+      "A": "एक Computer-generated Environment",
+      "B": "केवल Printed Text",
+      "C": "केवल Audio Recording",
+      "D": "केवल सामान्य Calculator"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 255,
+    "topic": "Hardware और Software की मूल बातें",
+    "question": "Firmware क्या होता है?",
+    "options": {
+      "A": "Hardware में Embedded Software",
+      "B": "केवल Spreadsheet",
+      "C": "केवल Web Browser",
+      "D": "केवल Antivirus"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 256,
+    "topic": "Central Processing Unit (CPU) और Input/Output Devices",
+    "question": "Scanner का उपयोग मुख्यतः किसके लिए किया जाता है?",
+    "options": {
+      "A": "Digital रूप में Image या Document Input करने के लिए",
+      "B": "Audio Output के लिए",
+      "C": "Data Processing के लिए",
+      "D": "Computer को Power देने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 257,
+    "topic": "Computer Memory और Storage",
+    "question": "Cache Memory का उपयोग मुख्यतः क्यों किया जाता है?",
+    "options": {
+      "A": "CPU को Frequently Used Data तेजी से उपलब्ध कराने के लिए",
+      "B": "केवल Files Print करने के लिए",
+      "C": "Internet Connection बनाने के लिए",
+      "D": "Permanent Backup के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 258,
+    "topic": "Application Software, System Software और Utility Software",
+    "question": "Disk Cleanup किस प्रकार की Utility का उदाहरण है?",
+    "options": {
+      "A": "System Utility",
+      "B": "Gaming Software",
+      "C": "Presentation Software",
+      "D": "Programming Language"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 259,
+    "topic": "Open Source और Proprietary Software",
+    "question": "निम्न में से कौन-सा Proprietary Software का उदाहरण है?",
+    "options": {
+      "A": "Linux",
+      "B": "Mozilla Firefox",
+      "C": "Microsoft Windows",
+      "D": "Ubuntu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 260,
+    "topic": "Mobile Apps",
+    "question": "Mobile App में Permission का उद्देश्य क्या होता है?",
+    "options": {
+      "A": "App को कुछ Device Features या Data तक Access देना",
+      "B": "Phone का Processor बदलना",
+      "C": "SIM का Number बदलना",
+      "D": "Screen का Size बदलना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 261,
+    "topic": "Computer और उसके Latest IT Gadgets",
+    "question": "IoT का पूरा नाम क्या है?",
+    "options": {
+      "A": "Internet of Things",
+      "B": "Input of Technology",
+      "C": "Internet of Tools",
+      "D": "Internal Online Technology"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 262,
+    "topic": "Hardware और Software की मूल बातें",
+    "question": "Keyboard किस प्रकार का Device है?",
+    "options": {
+      "A": "Output Device",
+      "B": "Input Device",
+      "C": "Storage Device",
+      "D": "Processing Device"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 263,
+    "topic": "Central Processing Unit (CPU) और Input/Output Devices",
+    "question": "Printer किस प्रकार का Device है?",
+    "options": {
+      "A": "Input Device",
+      "B": "Output Device",
+      "C": "Processing Device",
+      "D": "Memory Device"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 264,
+    "topic": "Computer Memory और Storage",
+    "question": "HDD में Data Store करने के लिए मुख्य रूप से किसका उपयोग होता है?",
+    "options": {
+      "A": "Magnetic Platters",
+      "B": "Touchscreen",
+      "C": "Laser Beam",
+      "D": "Keyboard Keys"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 265,
+    "topic": "Application Software, System Software और Utility Software",
+    "question": "Web Browser किस प्रकार का Software है?",
+    "options": {
+      "A": "Application Software",
+      "B": "Firmware",
+      "C": "System Hardware",
+      "D": "Device Driver"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 266,
+    "topic": "Open Source और Proprietary Software",
+    "question": "Open Source Software में Source Code के साथ क्या किया जा सकता है, License की शर्तों के अनुसार?",
+    "options": {
+      "A": "Code को देखना और Modify करना",
+      "B": "Computer को हमेशा बंद करना",
+      "C": "केवल Print करना",
+      "D": "केवल Video चलाना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 267,
+    "topic": "Mobile Apps",
+    "question": "GPS का उपयोग Mobile में मुख्यतः किसके लिए होता है?",
+    "options": {
+      "A": "Location और Navigation के लिए",
+      "B": "Document Printing के लिए",
+      "C": "RAM बढ़ाने के लिए",
+      "D": "Screen Brightness बढ़ाने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 268,
+    "topic": "Computer और उसके Latest IT Gadgets",
+    "question": "Bluetooth Technology का उपयोग मुख्यतः किसके लिए किया जाता है?",
+    "options": {
+      "A": "Short-range Wireless Communication",
+      "B": "Hard Disk Formatting",
+      "C": "CPU Manufacturing",
+      "D": "Paper Printing Only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 269,
+    "topic": "Hardware और Software की मूल बातें",
+    "question": "Computer Hardware को किस रूप में परिभाषित किया जा सकता है?",
+    "options": {
+      "A": "Computer के Physical Components",
+      "B": "Computer Programs",
+      "C": "Operating System",
+      "D": "Mobile Applications"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 270,
+    "topic": "Central Processing Unit (CPU) और Input/Output Devices",
+    "question": "Speaker किस प्रकार का Device है?",
+    "options": {
+      "A": "Input Device",
+      "B": "Output Device",
+      "C": "Storage Device",
+      "D": "Processing Device"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 271,
+    "topic": "Computer Memory और Storage",
+    "question": "RAM में Stored Data सामान्यतः कब खो जाता है?",
+    "options": {
+      "A": "Computer की Power बंद होने पर",
+      "B": "Mouse हटाने पर",
+      "C": "Printer बंद करने पर",
+      "D": "Monitor बंद करने पर"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 272,
+    "topic": "Application Software, System Software और Utility Software",
+    "question": "Operating System का मुख्य कार्य क्या है?",
+    "options": {
+      "A": "Hardware और Software Resources को Manage करना",
+      "B": "केवल Music चलाना",
+      "C": "केवल Documents Print करना",
+      "D": "केवल Games Install करना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 273,
+    "topic": "Open Source और Proprietary Software",
+    "question": "Ubuntu किससे संबंधित है?",
+    "options": {
+      "A": "Linux-based Operating System",
+      "B": "Proprietary Antivirus",
+      "C": "Graphics Card",
+      "D": "Database Hardware"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 274,
+    "topic": "Mobile Apps",
+    "question": "Mobile App में Push Notification का उपयोग किसलिए किया जाता है?",
+    "options": {
+      "A": "User को App से संबंधित सूचना दिखाने के लिए",
+      "B": "Battery को Physical रूप से Charge करने के लिए",
+      "C": "RAM को बदलने के लिए",
+      "D": "SIM Card को Format करने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 275,
+    "topic": "Computer और उसके Latest IT Gadgets",
+    "question": "Artificial Intelligence आधारित Gadget का उदाहरण कौन-सा हो सकता है?",
+    "options": {
+      "A": "AI Voice Assistant वाला Smart Speaker",
+      "B": "साधारण Paper Notebook",
+      "C": "Mechanical Stapler",
+      "D": "Wooden Table"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 276,
+    "topic": "Hardware और Software की मूल बातें",
+    "question": "Device Driver का मुख्य कार्य क्या है?",
+    "options": {
+      "A": "Operating System को Hardware Device के साथ Communication करने में मदद करना",
+      "B": "केवल Internet Speed बढ़ाना",
+      "C": "केवल Documents बनाना",
+      "D": "केवल Computer Games चलाना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 277,
+    "topic": "Central Processing Unit (CPU) और Input/Output Devices",
+    "question": "Touchscreen किस प्रकार Input और Output दोनों का कार्य कर सकता है?",
+    "options": {
+      "A": "हाँ, यह Touch Input लेता है और Display Output देता है",
+      "B": "नहीं, यह केवल Storage Device है",
+      "C": "नहीं, यह केवल CPU है",
+      "D": "हाँ, लेकिन केवल Printing करता है"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 278,
+    "topic": "Computer Memory और Storage",
+    "question": "निम्न में से कौन-सा Secondary Storage का उदाहरण है?",
+    "options": {
+      "A": "Hard Disk",
+      "B": "RAM",
+      "C": "CPU Register",
+      "D": "Cache"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 279,
+    "topic": "Application Software, System Software और Utility Software",
+    "question": "File Compression Utility का उपयोग किसलिए किया जाता है?",
+    "options": {
+      "A": "Files का Size कम करने के लिए",
+      "B": "CPU की Speed Physically बढ़ाने के लिए",
+      "C": "Monitor की Resolution बदलने के लिए",
+      "D": "Keyboard की Keys बदलने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 280,
+    "topic": "Open Source और Proprietary Software",
+    "question": "Proprietary Software में Source Code के बारे में सामान्यतः क्या होता है?",
+    "options": {
+      "A": "यह मालिक या विक्रेता द्वारा नियंत्रित और अक्सर सार्वजनिक रूप से उपलब्ध नहीं होता",
+      "B": "यह हमेशा सभी के लिए खुला होता है",
+      "C": "यह केवल RAM में रहता है",
+      "D": "इसका कोई License नहीं होता"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 281,
+    "topic": "Mobile Apps",
+    "question": "Mobile App Store का मुख्य उद्देश्य क्या है?",
+    "options": {
+      "A": "Apps को खोजने, Download और Update करने की सुविधा देना",
+      "B": "केवल Photos Print करना",
+      "C": "Computer का CPU बनाना",
+      "D": "Hard Disk Repair करना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 282,
+    "topic": "Computer और उसके Latest IT Gadgets",
+    "question": "Smart TV की प्रमुख विशेषता क्या है?",
+    "options": {
+      "A": "Internet और Apps जैसी Smart Features का Support",
+      "B": "इसमें कोई Display नहीं होता",
+      "C": "यह केवल Calculator की तरह काम करता है",
+      "D": "यह केवल Keyboard से चलता है"
+    },
+    "answer": "A"
+  }
+]
