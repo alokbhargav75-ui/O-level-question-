@@ -1558,7 +1558,1209 @@
     "options": ["Basic Input Output System", "Binary Input Output System", "Basic Integrated Operating System", "Binary Integrated Operating Software"],
     "answer": "Basic Input Output System"
   }
+
+
+
+{
+"id": 1,
+"question": "निम्न में से proprietary software कौन सा है?",
+"options": ["AutoCAD", "Adobe Photoshop", "CorelDRAW", "All of the above"],
+"answer": "d"
+},
+{
+"id": 2,
+"question": "LibreOffice में PowerPoint को किस नाम से जाना जाता है?",
+"options": ["Impress", "Draw", "Calc", "Writer"],
+"answer": "a"
+},
+{
+"id": 3,
+"question": "निम्न में से RAM, CPU, ROM और Expansion card को ____ रखता है?",
+"options": ["Hard Disk", "Floppy Disk", "Mother Board", "None of these"],
+"answer": "c"
+},
+{
+"id": 4,
+"question": "निम्नलिखित में से कौन सी memory data के लिए backup storage provide करती है?",
+"options": ["Internal processor memory", "Primary memory", "Secondary memory", "None of these"],
+"answer": "c"
+},
+{
+"id": 5,
+"question": "Operating system किस तरह का software है?",
+"options": ["Active software", "System software", "Application software", "Interactive software"],
+"answer": "b"
+},
+{
+"id": 6,
+"question": "CD-ROM ___ ?",
+"options": ["Temporary memory", "Permanent memory", "Magnetic memory", "None of these"],
+"answer": "b"
+},
+{
+"id": 7,
+"question": "Information retrieval सबसे fast है?",
+"options": ["Hard Disk", "CD", "SSD", "All of the above"],
+"answer": "c"
+},
+{
+"id": 8,
+"question": "Internet पर किए जाने वाले कार्य को ___ कहा जाता है?",
+"options": ["Surfing", "Gambling", "Both (a) and (b)", "None of these"],
+"answer": "a"
+},
+{
+"id": 9,
+"question": "RAM का अर्थ है ___ ?",
+"options": ["Random access memory", "Read only memory", "Read access memory", "Random also memory"],
+"answer": "a"
+},
+{
+"id": 10,
+"question": "निम्नलिखित में से कौन real security और privacy threats का example है?",
+"options": ["Virus", "Hackers", "Worm", "Spam"],
+"answer": "b"
+},
+{
+"id": 11,
+"question": "निम्न में से कौन सा एक secondary memory device है?",
+"options": ["CD ROM", "RAM", "Both (a) and (b)", "None of these"],
+"answer": "a"
+},
+{
+"id": 12,
+"question": "Network के ___ को बेहतर बनाने के लिए password का use किया जाता है?",
+"options": ["Reliability", "Security", "Performance", "Longevity"],
+"answer": "b"
+},
+{
+"id": 13,
+"question": "Computer को समझने और execute करने वाली language को ___ कहा जाता है?",
+"options": ["Machine language", "High level language", "Both (a) and (b)", "None of these"],
+"answer": "a"
+},
+{
+"id": 14,
+"question": "निम्नलिखित में से कौन एक anti-virus program है?",
+"options": ["K7", "Quick heal", "Norton", "All of the above"],
+"answer": "d"
+},
+{
+"id": 15,
+"question": "निम्नलिखित में से कौन input device नहीं है?",
+"options": ["Microphone", "Mouse", "Scanner", "None of these"],
+"answer": "d"
+},
+{
+"id": 16,
+"question": "Firewall एक प्रकार का है ___ ?",
+"options": ["Security threat", "Worm", "Virus", "None of these"],
+"answer": "d"
+},
+{
+"id": 17,
+"question": "एक E-mail ID में क्या होता है?",
+"options": ["Letters, numbers", "Letter, number, @", "Username", "None of these"],
+"answer": "b"
+},
+{
+"id": 18,
+"question": "Secure Electronic Transaction protocol का उपयोग किया जाता है?",
+"options": ["Credit card payment", "Payment of small amounts for internet services", "Electronic cash payment", "Cheque payment"],
+"answer": "a"
+},
+{
+"id": 19,
+"question": "Crypto currency is a ___ ?",
+"options": ["Plastic money", "Digital payment", "Digital medium of exchange", "None of these"],
+"answer": "c"
+},
+{
+"id": 20,
+"question": "इनमें से कौन सा E-mail medium नहीं है?",
+"options": ["Extranet", "Internet", "Paper", "Internet"],
+"answer": "c"
+},
+{
+"id": 21,
+"question": "Operating system शब्द का अर्थ है?",
+"options": ["Program का एक set जो Computer के work को control करता है", "जिस तरह से Computer operator work करता है", "High level language का Machine level language में conversion", "Floppy disk drive जिस तरह से operate होती है"],
+"answer": "a"
+},
+{
+"id": 22,
+"question": "Instagram किससे related है?",
+"options": ["Facebook", "Microsoft", "Google", "YouTube"],
+"answer": "a"
+},
+{
+"id": 23,
+"question": "IMAP Protocol का उपयोग fraud mailers द्वारा किस purpose के लिए किया जाता है?",
+"options": ["Send spam", "Send fake mails", "Hack e-mail", "All of the above"],
+"answer": "d"
+},
+{
+"id": 24,
+"question": "Computer का operating system users और ___ के बीच एक software interface के रूप में कार्य करता है?",
+"options": ["Memory", "Peripheral", "Hardware", "Screen"],
+"answer": "c"
+},
+{
+"id": 25,
+"question": "Default रूप से Windows 10 अपने आप battery saver feature को चालू कर देता है जब Laptop का battery charge नीचे गिरता है?",
+"options": ["15 %", "20 %", "5 %", "10 %"],
+"answer": "b"
+},
+{
+"id": 26,
+"question": "Screen background और window का main area है जहां आप program open and restrict कर सकते हैं?",
+"options": ["Windows settings", "Desktop", "Application window", "All application"],
+"answer": "c"
+},
+{
+"id": 27,
+"question": "एक application को desktop पर shortcut के जरिए open किया जा सकता है?",
+"options": ["इसके shortcut पर double click करें", "Open option पर right click करें और select करें", "Icon को select करें और Enter key दबाएं", "All of the above"],
+"answer": "d"
+},
+{
+"id": 28,
+"question": "LibreOffice में PowerPoint को किस नाम से जाना जाता है?",
+"options": ["Writer", "Calc", "Impress", "Draw"],
+"answer": "c"
+},
+{
+"id": 29,
+"question": "Printer and Scanner option में एक नया printer कहाँ add किया जा सकता है?",
+"options": ["Settings", "Control Panel", "Devices", "None of these"],
+"answer": "a"
+},
+{
+"id": 30,
+"question": "GUI का उपयोग ___ interface के बीच किया जाता है?",
+"options": ["Hardware and Software", "Human and Machine", "Software and Users", "None of these"],
+"answer": "c"
+},
+{
+"id": 31,
+"question": "Start menu से आप ___ access कर सकते हैं?",
+"options": ["Lock your computer", "Search for Applications, Settings and Files", "Turn off your computer", "All of the above"],
+"answer": "d"
+},
+{
+"id": 32,
+"question": "आप file explorer में अपनी files and folders का उपयोग करके navigate कर सकते हैं?",
+"options": ["Address bar", "Forward and backward button", "Search function", "All of the above"],
+"answer": "d"
+},
+{
+"id": 33,
+"question": "Windows 10 में 'Sleep' का क्या अर्थ है?",
+"options": ["Computer को safe mode में restart करें", "Computer को sleep mode में restart करें", "सभी running applications को end करते हुए Computer को off करें", "चल रहे application को बंद किए बिना Computer को shutdown करें"],
+"answer": "d"
+},
+{
+"id": 34,
+"question": "Operating system का कार्य क्या है?",
+"options": ["Computer के संसाधनों को बहुत कुशलता से प्रतिबंधित करता है", "Execution के लिए Scheduling Job की देखभाल करता है", "Data and instructions के flow का management करता है", "All of the above"],
+"answer": "d"
+},
+{
+"id": 35,
+"question": "MS-Word में gutter margin क्या है?",
+"options": ["Margin जो print करते समय left margin में add किया जाता है", "Margin जो print करते समय page margin के binding side में add किया जाता है", "Margin जो print करते समय right margin में add किया जाता है", "Margin जो print करते समय page के outside में add किया जाता है"],
+"answer": "b"
+},
+{
+"id": 36,
+"question": "निम्नलिखित में से कौन सबसे तेज, सबसे बड़े और सबसे महंगे Computer को संदर्भित करता है?",
+"options": ["Super Computer", "Personal Computer", "Laptop", "Notebook"],
+"answer": "a"
+},
+{
+"id": 37,
+"question": "जब MS-Word load हो जाता है, तो opening screen पर एक document दिखाई देता है जिसका नाम है?",
+"options": ["Document1", "Document2", "Untitled1", "New Document"],
+"answer": "a"
+},
+{
+"id": 38,
+"question": "MS-Word कुछ method provide करता है जिनके द्वारा आप एक document में घूम सकते हैं?",
+"options": ["Scroll करके", "किसी particular page पर जाकर", "Both (a) and (b)", "None of these"],
+"answer": "c"
+},
+{
+"id": 39,
+"question": "MS-Word में right align की shortcut key क्या है?",
+"options": ["Ctrl+E", "Ctrl+L", "Ctrl+R", "None of these"],
+"answer": "c"
+},
+{
+"id": 40,
+"question": "यदि आपका document 200 से अधिक zoom है, तो text area में कितने scroll bar दिखाई देते हैं?",
+"options": ["4", "2", "1", "3"],
+"answer": "b"
+},
+{
+"id": 41,
+"question": "MS-Word में Chart insert करने के लिए आप किस Tab का उपयोग करेंगे?",
+"options": ["View", "References", "Insert", "Page layout"],
+"answer": "c"
+},
+{
+"id": 42,
+"question": "MS-Word में Page margin को बदलने के लिए आप किस Tab का उपयोग करेंगे?",
+"options": ["Page layout", "View", "Insert", "Home"],
+"answer": "a"
+},
+{
+"id": 43,
+"question": "कौन सा Tab Different प्रकार के Font दिखाता है जो उपयोग के लिए available है?",
+"options": ["View", "Page layout", "References", "Home"],
+"answer": "d"
+},
+{
+"id": 44,
+"question": "Print होने पर Document को देखने के लिए आप किस page view का उपयोग कर सकते हैं?",
+"options": ["Outline view", "Draft view", "Read mode", "Print layout"],
+"answer": "d"
+},
+{
+"id": 45,
+"question": "MS-Word 2013 में निम्नलिखित में से कौन सा feature नहीं है?",
+"options": ["Ribbon", "Button", "Chart", "Drop down menu"],
+"answer": "d"
+},
+{
+"id": 46,
+"question": "Top पर स्थित छोटे Toolbar का नाम क्या है जो save disk option दिखता है?",
+"options": ["My document", "Quick access", "Title bar", "None of these"],
+"answer": "b"
+},
+{
+"id": 47,
+"question": "Insert ribbon command कौन सी नहीं है?",
+"options": ["Shape", "Clip art", "Page number", "None of these"],
+"answer": "b"
+},
+{
+"id": 48,
+"question": "Cell में data enter करने के लिए निम्नलिखित में से किस method का उपयोग नहीं किया जा सकता है?",
+"options": ["Press the arrow key", "Press the tab key", "Press the Esc key", "Click on formula bar"],
+"answer": "c"
+},
+{
+"id": 49,
+"question": "Excel file का extension है ___ ?",
+"options": [".TMT", ".XXL", ".xlsx", ".None of these"],
+"answer": "c"
+},
+{
+"id": 50,
+"question": "Excel window में कौन सा area value और formula enter करने की अनुमति देता है?",
+"options": ["Home tab", "Format tab", "Formula bar", "Design tab"],
+"answer": "c"
+},
+{
+"id": 51,
+"question": "Excel में निम्नलिखित में से कौन सा valid data type नहीं है?",
+"options": ["Number", "Character", "Date and time", "None of these"],
+"answer": "b"
+},
+{
+"id": 52,
+"question": "Cell reference B2:B9 को absolute row और column reference में replace करने के लिए निम्नलिखित में से कौन सा सही है?",
+"options": ["B2:B9", "$B$2:$B$9", "B$2:B$9", "None of these"],
+"answer": "b"
+},
+{
+"id": 53,
+"question": "आप daily basis पर share market की progress को track करना चाहते हैं, उसके लिए आपको किस प्रकार के chart का उपयोग करना चाहिए?",
+"options": ["Pie chart", "Line chart", "Column chart", "None of these"],
+"answer": "b"
+},
+{
+"id": 54,
+"question": "निम्नलिखित में से कौन एक financial work नहीं है?",
+"options": ["IPMT()", "SUM()", "NPV()", "PMT()"],
+"answer": "b"
+},
+{
+"id": 55,
+"question": "आप drag and drop method का उपयोग कर सकते हैं ___ ?",
+"options": ["Move cells", "Copy cells", "Both", "None of these"],
+"answer": "d"
+},
+{
+"id": 56,
+"question": "प्रत्येक workbook के bottom में दिखाई देने वाले tab को क्या कहा जाता है?",
+"options": ["Location tab", "Sheet tab", "References tab", "None of these"],
+"answer": "b"
+},
+{
+"id": 57,
+"question": "जब एक formatted number एक cell के भीतर fit नहीं होती है, तो यह display होता है?",
+"options": ["#####", "#DIV@", "#DIV/0", "None of these"],
+"answer": "a"
+},
+{
+"id": 58,
+"question": "Excel में SUM() function के संबंध में निम्नलिखित में से कौन सा syntax सही है?",
+"options": ["=SUM(A1,B1)", "=SUM(A1:B9)", "=SUM(A1:A9,B1:B9)", "All of the above"],
+"answer": "d"
+},
+{
+"id": 59,
+"question": "एक worksheet में कई cells का selection करने के लिए आप hold करते समय cells पर click करेंगे ___ ?",
+"options": ["Alt key", "Ctrl+Shift key", "Shift key", "Ctrl key"],
+"answer": "d"
+},
+{
+"id": 60,
+"question": "New slide insert करने के लिए निम्न में से किस shortcut का उपयोग किया जाता है?",
+"options": ["Ctrl+M", "Ctrl+N", "Ctrl+O", "None of these"],
+"answer": "a"
+},
+{
+"id": 61,
+"question": "Default रूप से PowerPoint document का extension क्या होता है?",
+"options": [".EXT", ".COM", ".ppt", "None of these"],
+"answer": "c"
+},
+{
+"id": 62,
+"question": "Handout master में footer area दिखाई देता है ___ ?",
+"options": ["Top of page", "Bottom of page", "Center of page", "None of these"],
+"answer": "b"
+},
+{
+"id": 63,
+"question": "आप ___ द्वारा slide show के दौरान shortcut menu दिखा सकते हैं?",
+"options": ["Ribbon पर shortcut button पर click करके", "Present slide पर right-click करके", "Present slide पर एक icon पर click करके", "Both (a) and (b)"],
+"answer": "b"
+},
+{
+"id": 64,
+"question": "निम्नलिखित में से कौन आपको एक presentation में से एक से अधिक slide का selection करने की permission देता है?",
+"options": ["Alt key के साथ में प्रत्येक slide पर click करें", "प्रत्येक slide को shift key के साथ में drag करें", "प्रत्येक slide पर shift के साथ में click करें", "प्रत्येक slide पर click करें"],
+"answer": "c"
+},
+{
+"id": 65,
+"question": "अपने handout में header या footer को add करने के लिए आप उपयोग कर सकते हैं?",
+"options": ["Header / Footer", "Page number", "Comments", "None of these"],
+"answer": "a"
+},
+{
+"id": 66,
+"question": "NIC क्या है?",
+"options": ["Network interface card", "Network information card", "Network interface computer", "Network information computer"],
+"answer": "a"
+},
+{
+"id": 67,
+"question": "Internet के उपयोग क्या हैं?",
+"options": ["Communication", "Information retrieval", "Presentation of information", "All of the above"],
+"answer": "d"
+},
+{
+"id": 68,
+"question": "निम्नलिखित में से कौन एक internet browser नहीं है?",
+"options": ["Netscape navigator", "Edge", "Drupal", "Opera"],
+"answer": "c"
+},
+{
+"id": 69,
+"question": "IMEI क्या है?",
+"options": ["Mobile equipment international identity", "International mobile equipment identity", "International law instrument identity", "None of these"],
+"answer": "b"
+},
+{
+"id": 70,
+"question": "Browsing web के लिए cable का उपयोग करने के लिए आपको ___ आवश्यकता होगी?",
+"options": ["A cable modem", "Network interface card", "Both (a) and (b)", "None of these"],
+"answer": "c"
+},
+{
+"id": 71,
+"question": "Broadband connection के लिए minimum bandwidth की आवश्यकता है?",
+"options": ["128 kbps", "256 kbps", "512 kbps", "None of these"],
+"answer": "b"
+},
+{
+"id": 72,
+"question": "Webpage को specific रूप से पहचाना जाता है?",
+"options": ["IP Address", "Domain", "URL", "Name of file"],
+"answer": "c"
+},
+{
+"id": 73,
+"question": "निम्नलिखित में से कौन सा networking solution किसी building में networking के लिए उपयुक्त है?",
+"options": ["WAN", "MAN", "LAN", "All of the above"],
+"answer": "c"
+},
+{
+"id": 74,
+"question": "Internet protocol केवल पहचानता है?",
+"options": ["IP Address", "Home Address", "Doc Address", "None of these"],
+"answer": "a"
+},
+{
+"id": 75,
+"question": "निम्नलिखित में से कौन सा symbol e-mail address के दो भागों को अलग करता है?",
+"options": ["#", "&", "@", "None of these"],
+"answer": "c"
+},
+{
+"id": 76,
+"question": "अपने inbox से कोई message delete करने से पहले आपको क्या करने की आवश्यकता है?",
+"options": ["Delete the message", "Select the message", "Message को Deselect करें", "None of these"],
+"answer": "b"
+},
+{
+"id": 77,
+"question": "जब users को e-mail download करना हो तो mail access client ___ से शुरू होता है?",
+"options": ["Mail box", "Mail server", "Web browser", "None of these"],
+"answer": "a"
+},
+{
+"id": 78,
+"question": "Digital India पहल के तहत online registration system developed किया गया?",
+"options": ["National information center", "Nationalism information center", "National Informatics Centre", "None of these"],
+"answer": "c"
+},
+{
+"id": 79,
+"question": "निम्नलिखित में से कौन एक Social Networking Site नहीं है?",
+"options": ["Facebook", "LinkedIn", "Twitter", "Epic"],
+"answer": "d"
+},
+{
+"id": 80,
+"question": "Umang App पर कौन सी Services Available हैं?",
+"options": ["Employees Provident Fund Organization (EPFO)", "Pension Portal", "Both (a) and (b)", "None of these"],
+"answer": "c"
+},
+{
+"id": 81,
+"question": "Twitter is a example of ___ ?",
+"options": ["Web URL", "Social networking", "E-mail system", "System application"],
+"answer": "b"
+},
+{
+"id": 82,
+"question": "जब slide से text box object को delete कर दिया जाता है तो ___ ?",
+"options": ["Object delete हो जाता है, लेकिन slide पर एक text box और text delete नहीं होता है", "Text box और text दोनों delete हो जाते हैं", "Text box delete हो जाता है, और text slide पर paste हो जाता है", "Text delete हो जाता है, और text box slide पर paste हो जाता है"],
+"answer": "b"
+},
+{
+"id": 83,
+"question": "Size of IPv4 is ___ ?",
+"options": ["62", "48", "128", "32"],
+"answer": "d"
+},
+{
+"id": 84,
+"question": "Website के main page को कहा जाता है ___ ?",
+"options": ["Bookmark", "Index page", "Home page", "Main page"],
+"answer": "c"
+},
+{
+"id": 85,
+"question": "निम्न में से कौन सा file extensions paint में बनाई गई file को indicate करता है?",
+"options": [".ppt", ".xlsx", ".doc", ".bmp"],
+"answer": "d"
+},
+{
+"id": 86,
+"question": "निम्नलिखित में से कौन एक search engine नहीं है?",
+"options": ["Windows", "Google", "Bing", "Yahoo"],
+"answer": "a"
+},
+{
+"id": 87,
+"question": "OTP Stands for ____ ?",
+"options": ["On time password", "One time password", "Other time password", "None of these"],
+"answer": "b"
+},
+{
+"id": 88,
+"question": "निम्नलिखित में से किसके पास digital रूप से money transfer की Minimum कोई सीमा नहीं है?",
+"options": ["RTGS", "Cheque", "NEFT", "IMPS"],
+"answer": "c"
+},
+{
+"id": 89,
+"question": "CC in E-mail stands for ____ ?",
+"options": ["Carbon coupon", "Consider copy", "Carbon copy", "Carbon catch"],
+"answer": "c"
+},
+{
+"id": 90,
+"question": "कौन सा option हमें एक ही letter को अलग-अलग लोगों को send करने में help करता है?",
+"options": ["Templet", "Multiple letter", "Macros", "Mail merge"],
+"answer": "d"
+},
+{
+"id": 91,
+"question": "Office का use करते समय help लेने के लिए, आप click करेंगे ___ ?",
+"options": ["F4 key", "F1 key", "F3 key", "F2 key"],
+"answer": "b"
+},
+{
+"id": 92,
+"question": "Cell address को absolute बनाने के लिए इस्तेमाल किया जाने वाला symbol?",
+"options": ["!", "#", "$", "@"],
+"answer": "c"
+},
+{
+"id": 93,
+"question": "Size of IPv6 is ___ ?",
+"options": ["128", "62", "48", "32"],
+"answer": "a"
+},
+{
+"id": 94,
+"question": "Telecommunication द्वारा Computer, storage messages का आदान-प्रदान करता है?",
+"options": ["E-web", "E-mail", "E-net", "E-chart"],
+"answer": "b"
+},
+{
+"id": 95,
+"question": "USSD stands for ___ ?",
+"options": ["Unstructured Supplementary Service Data", "Untransmitted Supply Service Data", "Untransmitted Supplemental Service Data", "None of these"],
+"answer": "a"
+},
+{
+"id": 96,
+"question": "Presentation में slides को introduce करने के लिए इस्तेमाल किए जाने वाले special effects को इस प्रकार जाना जाता है ___ ?",
+"options": ["Custom animation", "Annotations", "Effects", "Transitions"],
+"answer": "d"
+},
+{
+"id": 97,
+"question": "“Passport Seva” website is ___ ?",
+"options": ["www.e-passportindia.gov", "www.passportindia.gov.in", "www.passportindia.edu", "www.passportindia.com"],
+"answer": "b"
+},
+{
+"id": 98,
+"question": "Spreadsheet से हम क्या नहीं कर सकते हैं?",
+"options": ["Create a charts", "Create a graphs", "Calculations", "Create Graphics"],
+"answer": "d"
+},
+{
+"id": 99,
+"question": "आप word dictionary में available नहीं होने वाले words को इसमें add कर सकते हैं?",
+"options": ["Live dictionary", "Custom dictionary", "User dictionary", "My dictionary"],
+"answer": "b"
+},
+{
+"id": 100,
+"question": "1 kilobyte ___ बराबर होता है?",
+"options": ["202400 bytes", "1043876 bytes", "1048 bytes", "1024 bytes"],
+"answer": "d"
+},
+{
+"id": 101,
+"question": "UPI Stands for ___ ?",
+"options": ["Unified Payment Interface", "Union Paid Interface", "Both (a) and (b)", "None of these"],
+"answer": "a"
+},
+{
+"id": 102,
+"question": "Portrait का उपयोग page orientation को संदर्भित करने के लिए किया जाता है?",
+"options": ["Flip", "Reverse", "Horizontal", "Vertical"],
+"answer": "d"
+},
+{
+"id": 103,
+"question": "UPI is a payment service ___ ?",
+"options": ["Offline", "Online", "Both (a) and (b)", "None of these"],
+"answer": "b"
+},
+{
+"id": 104,
+"question": "UPI किसके द्वारा शुरू किया गया था?",
+"options": ["Urjit Patel", "R – Gandhi", "Raghuram Rajan", "Narendra Modi"],
+"answer": "c"
+},
+{
+"id": 105,
+"question": "UMANG is integrated with ___ ?",
+"options": ["DigiLocker only", "Aadhaar only", "Aadhaar and DigiLocker", "None of these"],
+"answer": "c"
+},
+{
+"id": 106,
+"question": "National Electronic Funds Transfer (NEFT) System के बारे में निम्नलिखित में से कौन सा गलत है?",
+"options": ["NEFT के माध्यम से लेन-देन की कोई limit नहीं है", "NEFT per hour के base पर संचालित होता है", "NEFT एक payment system है, जो एक–से–एक fund transfer की सुविधा provide करती है", "All of the above"],
+"answer": "a"
+},
+{
+"id": 107,
+"question": "आमतौर पर e-mail के साथ कौन सा box overflow होता है?",
+"options": ["Message box", "Address box", "Outbox", "Inbox"],
+"answer": "d"
+},
+{
+"id": 108,
+"question": "Aadhaar Enabled Payment System (AePS) Banking लेन-देन की अनुमति देता है?",
+"options": ["Balance inquiry", "Cash withdrawal", "Cash deposit", "All of the above"],
+"answer": "d"
+},
+{
+"id": 109,
+"question": "G-mail एक software है, जिसका उपयोग ___ के लिए किया जाता है?",
+"options": ["Search files", "Check e-mails", "Search web pages", "None of these"],
+"answer": "b"
+},
+{
+"id": 110,
+"question": "Bitcoin किसने बनाया?",
+"options": ["Satoshi Nakamoto", "Samsung", "Jon Maikafi", "None of these"],
+"answer": "a"
+},
+{
+"id": 111,
+"question": "___ E-mail utility का एक example है?",
+"options": ["Excel", "Photoshop", "Outlook", "MS-Word"],
+"answer": "c"
+},
+{
+"id": 112,
+"question": "कौन सा IOT का element नहीं है?",
+"options": ["Security", "Process", "People", "Things"],
+"answer": "c"
+},
+{
+"id": 113,
+"question": "Memory में bits का group जो किसी प्रकार की information या data को represent करने के लिए उपयोग किया जाता है, ___ के रूप में जाना जाता है?",
+"options": ["PROM", "SRAM", "Memory", "Byte"],
+"answer": "d"
+},
+{
+"id": 114,
+"question": "Internet of Things (IOT) से जुड़े devices को automatic communication करना है, न कि humans के through. इसे क्या कहा जाता है?",
+"options": ["Business-to-business (B2B)", "Machine-to-machine (M2M)", "Intercloud", "None of these"],
+"answer": "b"
+},
+{
+"id": 115,
+"question": "निम्नलिखित में से कौन सा एक ऐसा application है, जो users को simple document create करने और उसे edit करने की अनुमति देता है?",
+"options": ["Browser", "E-mail utility", "Spreadsheet", "Word processor"],
+"answer": "d"
+},
+{
+"id": 116,
+"question": "Blockchain technology क्या है?",
+"options": ["एक peer-to-peer network पर distributed ledger (बहीखाता)", "एक प्रकार का cryptocurrency", "Exchange करना", "एक centralized ledger"],
+"answer": "a"
+},
+{
+"id": 117,
+"question": "Computer में information केवल read करने के लिए memory किसके द्वारा stored की जाती है?",
+"options": ["Engineer", "Manufacturer", "Programmer", "User"],
+"answer": "b"
+},
+{
+"id": 118,
+"question": "किसी file में मौजूद कुल lines, words और characters को count करने के लिए किस command का use किया जाता है?",
+"options": ["countw", "wcount", "word count", "None of these"],
+"answer": "c"
+},
+{
+"id": 119,
+"question": "Mouse के through Computer में enter किया गया data किसका example है?",
+"options": ["Direct input", "Indirect input", "Command", "Instruction"],
+"answer": "b"
+},
+{
+"id": 120,
+"question": "Mobile application part (MAP) आमतौर पर किस protocol के top पर run होता है?",
+"options": ["Hyper text transfer protocol (HTTP)", "Signaling system 7 (SS7)", "Simple mail transfer protocol (SMTP)", "Simple network management protocol (SNMP)"],
+"answer": "b"
+},
+{
+"id": 121,
+"question": "Linux में किसी file को delete करने के लिए किस command का उपयोग किया जाता है?",
+"options": ["dm", "rm", "delete", "erase"],
+"answer": "b"
+},
+{
+"id": 122,
+"question": "The full form of OSI is?",
+"options": ["Open system interconnection", "Operating system internet", "Optical system interconnection", "Operating system interface"],
+"answer": "a"
+},
+{
+"id": 123,
+"question": "निम्नलिखित में से कौन सा transmission directions एक valid transmission नहीं है?",
+"options": ["Double duplex", "Full duplex", "Half duplex", "Simplex"],
+"answer": "a"
+},
+{
+"id": 124,
+"question": "Spreadsheet में letters का use ___ को represent करने के लिए किया जाता है?",
+"options": ["Blocks", "Columns", "Rows", "Cells"],
+"answer": "b"
+},
+{
+"id": 125,
+"question": "OSI model में कितने layers होते हैं?",
+"options": ["6 layers", "5 layers", "7 layers", "9 layers"],
+"answer": "c"
+},
+{
+"id": 126,
+"question": "The full form of POP is ___ ?",
+"options": ["Post of protocol", "Post office protocol", "Pre office protocol", "None of these"],
+"answer": "b"
+},
+{
+"id": 127,
+"question": "इनमें से कौन serial data transmission के लिए एक मानक interface है?",
+"options": ["Centronics", "2", "RS232C", "ASCII"],
+"answer": "c"
+},
+{
+"id": 128,
+"question": "POP का port number क्या है?",
+"options": ["43", "25", "35", "110"],
+"answer": "d"
+},
+{
+"id": 129,
+"question": "Directory को हटाने के लिए किस command का प्रयोग किया जाता है?",
+"options": ["rdir", "remove", "rd", "rmdir"],
+"answer": "d"
+},
+{
+"id": 130,
+"question": "Electrical interface के संपर्क में आने वाले Computer network में data ले जाने के लिए किस type का transmission medium सबसे उपयुक्त है?",
+"options": ["Coaxial cable", "Microwave", "Unshielded twisted pair", "Optical fiber"],
+"answer": "d"
+},
+{
+"id": 131,
+"question": "निम्नलिखित में से कौन सा एक bit-oriented protocol है?",
+"options": ["Hyper Text Transfer Protocol (HTTP)", "High-level Data Link Control (HDLC)", "Secure Sockets Layer (SSL)", "None of these"],
+"answer": "b"
+},
+{
+"id": 132,
+"question": "निम्नलिखित में से कौन सा एक network topology नहीं है?",
+"options": ["Peer to peer", "Bus", "Star", "Ring"],
+"answer": "a"
+},
+{
+"id": 133,
+"question": "Currently running processes को display करने के लिए किस command का उपयोग किया जाता है?",
+"options": ["du", "pip", "ps", "au"],
+"answer": "c"
+},
+{
+"id": 134,
+"question": "उस device की पहचान करें, जो दो सजातीय packet broadcast local network को link करता है?",
+"options": ["Gateway", "Bridge", "Router", "Hub"],
+"answer": "b"
+},
+{
+"id": 135,
+"question": "वह communication method जिसमें एक time पर सिर्फ एक ही direction में data transmit कर सकते हैं ___ कहलाता है?",
+"options": ["Half duplex", "Full duplex", "Simplex", "None of these"],
+"answer": "a"
+},
+{
+"id": 136,
+"question": "Computer data को store करने और उसे calculate करने के लिए ___ number system का उपयोग करता है?",
+"options": ["Binary", "Octal", "Decimal", "Hexadecimal"],
+"answer": "a"
+},
+{
+"id": 137,
+"question": "The binary system uses power of ___ ?",
+"options": ["16", "8", "10", "2"],
+"answer": "d"
+},
+{
+"id": 138,
+"question": "निम्नलिखित में से किसका उपयोग network के लिए resources को allocate और manage करने के लिए किया जाता है?",
+"options": ["Node", "Server", "Bluetooth", "None of these"],
+"answer": "b"
+},
+{
+"id": 139,
+"question": "IP Address के कितने versions available हैं?",
+"options": ["4 version", "1 version", "6 version", "2 version"],
+"answer": "d"
+},
+{
+"id": 140,
+"question": "Users को virus का पता लगाने और उनसे बचने में help करने के लिए मुख्य रूप से किस software का उपयोग किया जाता है?",
+"options": ["Malware", "Antivirus", "Both (a) and (b)", "None of these"],
+"answer": "b"
+},
+{
+"id": 141,
+"question": "निम्नलिखित में से कौन सी layer TCP/IP model में present नहीं है, लेकिन OSI model में include है?",
+"options": ["Transport layer", "Application layer", "Session layer", "Network layer"],
+"answer": "c"
+},
+{
+"id": 142,
+"question": "Internet पर hyperlinked किए गए documents का collection है?",
+"options": ["Mailing list", "E-mail system", "World Wide Web (WWW)", "None of these"],
+"answer": "c"
+},
+{
+"id": 143,
+"question": "निम्नलिखित में से कौन सा domain का गलत example है?",
+"options": ["upciss::com", "Upcissyoutube.com", "Upciss.co.in", "None of these"],
+"answer": "a"
+},
+{
+"id": 144,
+"question": "Domain name system (DNS) किसी domain name को किसके लिए translate करता है?",
+"options": ["URL", "Binary", "IP", "Hexa"],
+"answer": "c"
+},
+{
+"id": 145,
+"question": "Internet पर किसी resource की location किसके द्वारा दी जाती है?",
+"options": ["URL", "Protocol", "IP", "None of these"],
+"answer": "a"
+},
+{
+"id": 146,
+"question": "The full form of HTTP is ___ ?",
+"options": ["Hyper text transfer program", "Hyper text transfer protocol", "Hyper text terminal protocol", "None of these"],
+"answer": "b"
+},
+{
+"id": 147,
+"question": "Identify the class of computer threats. कम्प्यूटर खतरों के वर्ग की पहचान करें?",
+"options": ["Soliciting", "DOS attack", "Phishing", "None of these"],
+"answer": "b"
+},
+{
+"id": 148,
+"question": "निम्नलिखित में से कौन सी memory non-volatile है?",
+"options": ["ROM", "DRAM", "SRAM", "All of the above"],
+"answer": "a"
+},
+{
+"id": 149,
+"question": "___ Computer के रूप में एक proxy server का उपयोग किया जाता है?",
+"options": ["Accessing user permission", "Performing file handling", "Acting as a backup", "With external access"],
+"answer": "d"
+},
+{
+"id": 150,
+"question": "___ LAN users को computer program और data share करने की permission देता है?",
+"options": ["File server", "Data server", "Print server", "None of these"],
+"answer": "a"
+},
+{
+"id": 151,
+"question": "कौन सी transmission technique गारंटी देती है कि data packets receiver को उसी order में received होंगे, जिस order में वे sender द्वारा भेजे गए थे?",
+"options": ["Circuit switching", "Packet switching", "Unicasting", "Broadcasting"],
+"answer": "a"
+},
+{
+"id": 152,
+"question": "निम्नलिखित में से किसे cyber security का एक element माना जाता है?",
+"options": ["Application security", "Operational security", "Network security", "All of the above"],
+"answer": "d"
+},
+{
+"id": 153,
+"question": "कौन सी memory non-volatile होती है और इसे केवल एक बार लिखा जा सकता है?",
+"options": ["PROM", "EPROM", "EEPROM", "RAM"],
+"answer": "a"
+},
+{
+"id": 154,
+"question": "जब mail server other mail servers को mail भेजता है, तो यह ___ हो जाता है?",
+"options": ["SMTP Server", "SMTP Client", "Peer to peer", "None of these"],
+"answer": "b"
+},
+{
+"id": 155,
+"question": "Proxy server को किस name से भी जाना जाता है?",
+"options": ["Application proxy", "Proxy tools", "Application-level gateway", "None of these"],
+"answer": "c"
+},
+{
+"id": 156,
+"question": "IP security के दो modes कौन से हैं?",
+"options": ["Preshared and transport", "Certificate and tunnel", "Transport and tunnel", "Transport and certificate"],
+"answer": "c"
+},
+{
+"id": 157,
+"question": "उस malware की पहचान करें, जो किसी infection के through प्रतिकृति या clone नहीं करता है?",
+"options": ["Virus", "Worms", "Trojans", "None of these"],
+"answer": "c"
+},
+{
+"id": 158,
+"question": "Binary numbering system में 0 और 1 को binary digit या ___ कहा जाता है?",
+"options": ["Bits", "Decimal bytes", "Kilobytes", "Bytes"],
+"answer": "a"
+},
+{
+"id": 159,
+"question": "निम्नलिखित में से किसका उपयोग 802.3 Ethernet के medium के रूप में नहीं किया जा सकता है?",
+"options": ["A fiber optical cable", "A microwave link", "Twisted pair cable", "Coaxial cable"],
+"answer": "b"
+},
+{
+"id": 160,
+"question": "उस network की पहचान करें, जो एक public network पर एक private network का विस्तार करता है?",
+"options": ["Local Area Network", "Enterprise Private Network", "Virtual Private Network", "Storage Area Network"],
+"answer": "c"
+},
+{
+"id": 161,
+"question": "Encryption और Decryption ___ Layer की responsibility है?",
+"options": ["Datalink", "Application", "Network", "None of these"],
+"answer": "b"
+},
+{
+"id": 162,
+"question": "TCP/IP stack की कौन सी layer OSI model transport layer से मेल खाती है?",
+"options": ["Network access", "Internet", "Application", "Host to host"],
+"answer": "d"
+},
+{
+"id": 163,
+"question": "What is a HUB?",
+"options": ["Calculating device", "Network device", "Computing device", "None of these"],
+"answer": "b"
+},
+{
+"id": 164,
+"question": "Database management system के operation के लिए निम्न में से कौन सा hardware component सबसे important है?",
+"options": ["Plotter", "High speed, large-capacity disk", "Printer", "High-resolution video display"],
+"answer": "b"
+},
+{
+"id": 165,
+"question": "निम्नलिखित में से कौन सा network dynamic या adaptive routing का प्रयोग करता है?",
+"options": ["System Network Architecture (SNA)", "ARPANET", "TYMNET", "None of these"],
+"answer": "b"
+},
+{
+"id": 166,
+"question": "Free calls करने के लिए hackers द्वारा इस्तेमाल की जाने वाली सबसे पुरानी phone hacking technique की पहचान करें?",
+"options": ["Phishing", "Cracking", "Phreaking", "Spamming"],
+"answer": "c"
+},
+{
+"id": 167,
+"question": "The term IPv4 stands for ____ ?",
+"options": ["International Programming Version 4", "Internet Programming Version 4", "Internet Protocol Version 4", "None of these"],
+"answer": "c"
+},
+{
+"id": 168,
+"question": "What does a set of rules define?",
+"options": ["Protocol", "Network", "Topology", "None of these"],
+"answer": "a"
+},
+{
+"id": 169,
+"question": "किसी file में time-to-time records को add करना, उसे change करना और delete करना ___ कहलाता है?",
+"options": ["Renewing", "Restructuring", "Upgrading", "Updating"],
+"answer": "d"
+},
+{
+"id": 170,
+"question": "Computer का basic architecture किसके द्वारा developed किया गया था?",
+"options": ["Garden Moore", "Blaise Pascal", "Charles Babbage", "John Von Neumann"],
+"answer": "d"
+},
+{
+"id": 171,
+"question": "निम्नलिखित में से किस platforms का उपयोग cloud में information की safety और protection के लिए किया जाता है?",
+"options": ["One drive", "Cloud security protocols", "Cloud workload protection platforms", "None of these"],
+"answer": "c"
+},
+{
+"id": 172,
+"question": "इनमें से कौन दो Computers के बीच में data share करता है?",
+"options": ["Integrated system", "Grouping", "Network", "Library"],
+"answer": "c"
+},
+{
+"id": 173,
+"question": "निम्नलिखित में से पहचानिए, जिसका उपयोग मुख्य रूप से website को host करने के लिए किया जाता है?",
+"options": ["Database Server", "Web Server", "Mail Server", "None of these"],
+"answer": "b"
+},
+{
+"id": 174,
+"question": "Database management system को क्या दिया गया है जो full text data, image data, audio और video को handle करने में सक्षम है?",
+"options": ["Hypertext", "Multimedia", "Graphics media", "Full media"],
+"answer": "b"
+},
+{
+"id": 175,
+"question": "वह time जिसके दौरान computer द्वारा किसी कार्य को संसाधित किया जाता है?",
+"options": ["Waiting Time", "Real Time", "Delay Time", "Execution Time"],
+"answer": "d"
+},
+{
+"id": 176,
+"question": "Wi-fi security में किस protocol का सबसे अधिक प्रयोग किया जाता है?",
+"options": ["WPA2", "WPA", "WPS", "None of these"],
+"answer": "a"
+},
+{
+"id": 177,
+"question": "Default रूप से LibreOffice Writer में line spacing ___ है?",
+"options": ["1.5", "Double", "Single", "None of these"],
+"answer": "c"
+},
+{
+"id": 178,
+"question": "Internet banking का उपयोग करने के लिए customer को निम्नलिखित में से किसकी जरूरत पड़ती है?",
+"options": ["Customer ID and password", "Customer name and password", "Customer ID and date of birth", "Customer ID and phone number"],
+"answer": "a"
+},
+{
+"id": 179,
+"question": "Cookie visibility के scope को configure करने के लिए निम्न में से किसका उपयोग किया जा सकता है?",
+"options": ["Path", "Domain", "Server", "Both (a) and (b)"],
+"answer": "d"
+},
+{
+"id": 180,
+"question": "निम्नलिखित में से कौन सी topology arrangements एक point-to-point configuration है?",
+"options": ["Star topology", "Mesh topology", "Ring topology", "All of the above"],
+"answer": "b"
+},
+{
+"id": 181,
+"question": "निम्नलिखित में से कौन एक valid e-mail address है?",
+"options": ["upciss@gmail.com", "upciss@gmail", "gmail.com", "None of these"],
+"answer": "a"
+},
+{
+"id": 182,
+"question": "निम्नलिखित में से कौन सा database administrator का function है?",
+"options": ["Performance Monitoring", "Backup the Database", "Database Design", "All of the above"],
+"answer": "d"
+},
+{
+"id": 183,
+"question": "निम्नलिखित में से कौन computer की विशेषता नहीं है?",
+"options": ["Automation", "Versatility", "Speed", "Intelligence"],
+"answer": "d"
+},
+{
+"id": 184,
+"question": "The full form of DBMS is ___ ?",
+"options": ["Database Management Software", "Domain based Management Software", "Database Management System", "Digital Bar Management System"],
+"answer": "c"
+},
+{
+"id": 185,
+"question": "निम्नलिखित में से एक sequential access memory है?",
+"options": ["Optical Disk", "Magnetic Disk", "Magnetic Tape", "None of these"],
+"answer": "c"
+},
+{
+"id": 186,
+"question": "BIOS एक प्रकार का होता है ___ ?",
+"options": ["Operating System", "Hardware", "Software", "Firmware"],
+"answer": "c"
+},
+{
+"id": 187,
+"question": "What is Worm Booting?",
+"options": ["Starting the Computer normally", "Restart Computer", "Both (a) and (b)", "None of these"],
+"answer": "b"
+},
+{
+"id": 188,
+"question": "किसी image के unwanted part को remove करने की process कहलाती है?",
+"options": ["Cropping", "Merging", "Cutting", "Hiding"],
+"answer": "a"
+},
+{
+"id": 189,
+"question": "किसी document के first 5 pages को print करने के लिए कौन सी command दी जाएगी?",
+"options": ["Print all", "From__ To__", "Both (a) and (b)", "None of these"],
+"answer": "b"
+},
+{
+"id": 190,
+"question": "What is the output of Round(1550,-2)?",
+"options": ["1800", "1740", "1600", "1700"],
+"answer": "c"
+},
+{
+"id": 191,
+"question": "किसी shape या picture को rotate करने के लिए किस animation का use किया जाता है?",
+"options": ["Flyer over", "Zoom", "Color plus", "Spin"],
+"answer": "d"
+},
+{
+"id": 192,
+"question": "First graphical browser था ___ ?",
+"options": ["Opera", "Chrome", "Edge", "Mosaic"],
+"answer": "d"
+},
+{
+"id": 193,
+"question": "___ protocol का उपयोग remote login द्वारा किया जाता है?",
+"options": ["SMTP", "Telnet", "FTP", "HTTP"],
+"answer": "b"
+},
+{
+"id": 194,
+"question": "निम्नलिखित में से कौन valid domain name है?",
+"options": ["www.upcissyoutube.com", "www.com.upcissyoutube", "Both (a) and (b)", "None of these"],
+"answer": "a"
+},
+{
+"id": 195,
+"question": "___ SMTP का उपयोग message send करने के लिए किया जाता है?",
+"options": ["User Mailbox", "User Terminal", "Both (a) and (b)", "None of these"],
+"answer": "c"
+},
+{
+"id": 196,
+"question": "हम Telegram group में maximum कितने लोगों को add कर सकते हैं?",
+"options": ["150000", "500000", "200000", "100000"],
+"answer": "c"
+},
+{
+"id": 197,
+"question": "निम्नलिखित में से कौन Internet के माध्यम से funds transfer करने का एक method है?",
+"options": ["Core Banking", "NEFT", "SMTP", "MICR"],
+"answer": "b"
+},
+{
+"id": 198,
+"question": "BHIM UPI के through एक दिन में कितना पैसा भेजा जा सकता है?",
+"options": ["1 lakh", "5 lakhs", "20 lakhs", "50 thousand"],
+"answer": "a"
+},
+{
+"id": 199,
+"question": "Which is benefit of cloud computing?",
+"options": ["More secure", "Fast speed", "Low cost", "All of the above"],
+"answer": "d"
+},
+{
+"id": 200,
+"question": "निम्नलिखित में से कौन एक cryptocurrency है?",
+"options": ["Bitcoin", "Voice coin", "Sia coin", "All of the above"],
+"answer": "d"
+}
 ]
-
-
+  
   
