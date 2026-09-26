@@ -599,4 +599,1687 @@
     },
     "answer": "A"
   }
+
+
+  [
+  {
+    "id": 181,
+    "topic": "Web Design Basics",
+    "question": "Website Design में 'Layout' का क्या अर्थ है?",
+    "options": {
+      "A": "केवल Color",
+      "B": "केवल Font",
+      "C": "केवल Image",
+      "D": "Page पर Elements की व्यवस्था"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 182,
+    "topic": "Web Design Basics",
+    "question": "Responsive Web Design का उद्देश्य क्या है?",
+    "options": {
+      "A": "केवल Desktop पर दिखना",
+      "B": "अलग-अलग Screen Sizes पर सही दिखना",
+      "C": "केवल Mobile पर दिखना",
+      "D": "केवल Print होना"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 183,
+    "topic": "Web Design Basics",
+    "question": "Website का Navigation Menu किसलिए होता है?",
+    "options": {
+      "A": "File Save करने के लिए",
+      "B": "Pages के बीच घूमने के लिए",
+      "C": "Text Bold करने के लिए",
+      "D": "Password बनाने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 184,
+    "topic": "Web Design Basics",
+    "question": "Wireframe क्या होता है?",
+    "options": {
+      "A": "एक Font Style",
+      "B": "Website का मूल Structure Design",
+      "C": "एक Database",
+      "D": "एक Antivirus"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 185,
+    "topic": "Web Design Basics",
+    "question": "Color Scheme चुनते समय किसका ध्यान रखना चाहिए?",
+    "options": {
+      "A": "Random Colors",
+      "B": "केवल Dark Colors",
+      "C": "केवल एक Color",
+      "D": "Readability और Contrast"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 186,
+    "topic": "Web Design Basics",
+    "question": "Website में 'Footer' कहाँ स्थित होता है?",
+    "options": {
+      "A": "पेज के सबसे नीचे",
+      "B": "पेज के सबसे ऊपर",
+      "C": "पेज के बीच में",
+      "D": "पेज के बाईं ओर"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 187,
+    "topic": "Web Design Basics",
+    "question": "Typography किससे संबंधित है?",
+    "options": {
+      "A": "Video Editing से",
+      "B": "Image Color से",
+      "C": "Text की Style और Arrangement से",
+      "D": "Database से"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 188,
+    "topic": "Web Design Basics",
+    "question": "User Interface (UI) Design का मुख्य फोकस क्या है?",
+    "options": {
+      "A": "केवल Database Design करना",
+      "B": "User के लिए आसान और आकर्षक Interface बनाना",
+      "C": "केवल Code लिखना",
+      "D": "केवल Server Setup करना"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 189,
+    "topic": "Web Design Basics",
+    "question": "Static Website और Dynamic Website में क्या अंतर है?",
+    "options": {
+      "A": "Dynamic Website में Content बदलता रहता है",
+      "B": "Static Website में Database होता है",
+      "C": "दोनों एक जैसे हैं",
+      "D": "Dynamic Website Print नहीं होती"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 190,
+    "topic": "Web Design Basics",
+    "question": "Website के लिए Mockup किसलिए बनाया जाता है?",
+    "options": {
+      "A": "Password सुरक्षित रखने के लिए",
+      "B": "Database बनाने के लिए",
+      "C": "Design का Preview देखने के लिए",
+      "D": "Server Host करने के लिए"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 191,
+    "topic": "Web Design Basics",
+    "question": "Web Design में 'White Space' का उपयोग क्यों किया जाता है?",
+    "options": {
+      "A": "Content को स्पष्ट और साफ दिखाने के लिए",
+      "B": "Color हटाने के लिए",
+      "C": "Page को भारी बनाने के लिए",
+      "D": "Text छुपाने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 192,
+    "topic": "Web Design Basics",
+    "question": "Favicon क्या होता है?",
+    "options": {
+      "A": "एक Video File",
+      "B": "एक बड़ा Image",
+      "C": "एक Font",
+      "D": "Browser Tab में दिखने वाला छोटा Icon"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 193,
+    "topic": "Web Design Basics",
+    "question": "Website Design में 'Above the Fold' का अर्थ क्या है?",
+    "options": {
+      "A": "बिना Scroll किए दिखने वाला Content",
+      "B": "केवल Header",
+      "C": "Page का सबसे नीचे वाला हिस्सा",
+      "D": "केवल Footer"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 194,
+    "topic": "Web Design Basics",
+    "question": "Landing Page किसे कहते हैं?",
+    "options": {
+      "A": "Website का Database",
+      "B": "Website का Server",
+      "C": "वह पहला Page जिस पर User पहुंचता है",
+      "D": "Website का Footer"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 195,
+    "topic": "Web Design Basics",
+    "question": "Grid System का उपयोग Web Design में किसलिए होता है?",
+    "options": {
+      "A": "Video Play करने के लिए",
+      "B": "Elements को व्यवस्थित रूप से Align करने के लिए",
+      "C": "Database Store करने के लिए",
+      "D": "Password बनाने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 196,
+    "topic": "Web Design Basics",
+    "question": "Website Prototype किसलिए बनाया जाता है?",
+    "options": {
+      "A": "Server Host करने के लिए",
+      "B": "Domain खरीदने के लिए",
+      "C": "Email भेजने के लिए",
+      "D": "Final Design से पहले Testing के लिए"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 197,
+    "topic": "Web Design Basics",
+    "question": "Web Design में Consistency का क्या महत्व है?",
+    "options": {
+      "A": "Color बार-बार बदलना",
+      "B": "सभी Pages पर समान Style बनाए रखना",
+      "C": "Font बार-बार बदलना",
+      "D": "हर Page अलग दिखाना"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 198,
+    "topic": "Web Design Basics",
+    "question": "Call to Action (CTA) Button का उदाहरण क्या है?",
+    "options": {
+      "A": "'Buy Now' Button",
+      "B": "Footer Text",
+      "C": "Page Title",
+      "D": "Background Image"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 199,
+    "topic": "Web Design Basics",
+    "question": "Web Design Process में सबसे पहला Step क्या होता है?",
+    "options": {
+      "A": "Website Launch",
+      "B": "SEO",
+      "C": "Planning/Requirement Analysis",
+      "D": "Hosting"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 200,
+    "topic": "Web Design Basics",
+    "question": "Accessibility (Web Accessibility) का अर्थ क्या है?",
+    "options": {
+      "A": "केवल Dark Theme",
+      "B": "केवल तेज़ Loading Speed",
+      "C": "सभी Users (दिव्यांगों सहित) के लिए Website उपयोग योग्य बनाना",
+      "D": "केवल Mobile View"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 201,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "HTML का पूरा नाम क्या है?",
+    "options": {
+      "A": "Hyper Text Markup Language",
+      "B": "Hyper Transfer Markup Language",
+      "C": "Home Tool Markup Language",
+      "D": "High Text Markup Language"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 202,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "HTML Document किस Tag से शुरू होता है?",
+    "options": {
+      "A": "<head>",
+      "B": "<title>",
+      "C": "<html>",
+      "D": "<body>"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 203,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "सबसे बड़ा Heading Tag कौन सा है?",
+    "options": {
+      "A": "<h1>",
+      "B": "<head>",
+      "C": "<h6>",
+      "D": "<h3>"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 204,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "Paragraph के लिए कौन सा Tag उपयोग होता है?",
+    "options": {
+      "A": "<para>",
+      "B": "<pg>",
+      "C": "<pa>",
+      "D": "<p>"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 205,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "Image Insert करने के लिए कौन सा Tag उपयोग होता है?",
+    "options": {
+      "A": "<pic>",
+      "B": "<image>",
+      "C": "<img>",
+      "D": "<src>"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 206,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "Hyperlink बनाने के लिए कौन सा Tag उपयोग होता है?",
+    "options": {
+      "A": "<href>",
+      "B": "<a>",
+      "C": "<h>",
+      "D": "<link>"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 207,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "HTML5 में Semantic Tag का उदाहरण कौन सा है?",
+    "options": {
+      "A": "<b>",
+      "B": "<div>",
+      "C": "<span>",
+      "D": "<header>"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 208,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "Table बनाने के लिए मुख्य Tag कौन सा है?",
+    "options": {
+      "A": "<tb>",
+      "B": "<tab>",
+      "C": "<grid>",
+      "D": "<table>"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 209,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "List बनाने के लिए <ul> Tag का क्या अर्थ है?",
+    "options": {
+      "A": "Underline List",
+      "B": "Unique List",
+      "C": "Unordered List",
+      "D": "Upload List"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 210,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "Numbered List के लिए कौन सा Tag उपयोग होता है?",
+    "options": {
+      "A": "<ul>",
+      "B": "<ol>",
+      "C": "<nl>",
+      "D": "<li>"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 211,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "<nav> Tag का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "Navigation Links के लिए",
+      "B": "Video के लिए",
+      "C": "Image के लिए",
+      "D": "Table के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 212,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "<footer> Tag Semantic HTML5 में किसे दर्शाता है?",
+    "options": {
+      "A": "Page का Main Content",
+      "B": "Page का ऊपरी हिस्सा",
+      "C": "Page का Navigation",
+      "D": "Page का निचला हिस्सा"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 213,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "Form बनाने के लिए मुख्य Tag कौन सा है?",
+    "options": {
+      "A": "<form>",
+      "B": "<input>",
+      "C": "<field>",
+      "D": "<fm>"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 214,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "HTML Attribute का उदाहरण कौन सा है?",
+    "options": {
+      "A": "<body>",
+      "B": "src",
+      "C": "<html>",
+      "D": "<img>"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 215,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "HTML5 में Audio चलाने के लिए कौन सा Tag उपयोग होता है?",
+    "options": {
+      "A": "<play>",
+      "B": "<sound>",
+      "C": "<music>",
+      "D": "<audio>"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 216,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "HTML5 में Video चलाने के लिए कौन सा Tag उपयोग होता है?",
+    "options": {
+      "A": "<video>",
+      "B": "<play>",
+      "C": "<film>",
+      "D": "<movie>"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 217,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "<div> Tag किस प्रकार का Element है?",
+    "options": {
+      "A": "Semantic Heading Element",
+      "B": "Link Element",
+      "C": "Non-Semantic Container Element",
+      "D": "Image Element"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 218,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "<title> Tag कहाँ लिखा जाता है?",
+    "options": {
+      "A": "<footer> Section में",
+      "B": "<body> Section में",
+      "C": "<head> Section में",
+      "D": "<nav> Section में"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 219,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "Comment लिखने का सही तरीका HTML में क्या है?",
+    "options": {
+      "A": "// Comment",
+      "B": "/* Comment */",
+      "C": "# Comment",
+      "D": "<!-- Comment -->"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 220,
+    "topic": "HTML5 Basics & Semantics",
+    "question": "<article> Tag का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "Link के लिए",
+      "B": "Image के लिए",
+      "C": "स्वतंत्र, पूर्ण Content Block के लिए",
+      "D": "Table के लिए"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 221,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "CSS का पूरा नाम क्या है?",
+    "options": {
+      "A": "Cascading Style Sheets",
+      "B": "Creative Style Sheets",
+      "C": "Colorful Style Sheets",
+      "D": "Computer Style Sheets"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 222,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "CSS को HTML में जोड़ने के कितने तरीके हैं?",
+    "options": {
+      "A": "2",
+      "B": "3 (Inline, Internal, External)",
+      "C": "4",
+      "D": "1"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 223,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "External CSS File का Extension क्या होता है?",
+    "options": {
+      "A": ".html",
+      "B": ".css",
+      "C": ".txt",
+      "D": ".js"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 224,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "CSS में Text का Color बदलने के लिए कौन सी Property उपयोग होती है?",
+    "options": {
+      "A": "background",
+      "B": "font-size",
+      "C": "color",
+      "D": "margin"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 225,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "Background Color सेट करने के लिए कौन सी Property उपयोग होती है?",
+    "options": {
+      "A": "color",
+      "B": "text-color",
+      "C": "background-color",
+      "D": "font-color"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 226,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "किसी Element के बाहरी खाली स्थान को क्या कहते हैं?",
+    "options": {
+      "A": "Border",
+      "B": "Padding",
+      "C": "Margin",
+      "D": "Content"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 227,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "किसी Element के भीतरी खाली स्थान को क्या कहते हैं?",
+    "options": {
+      "A": "Margin",
+      "B": "Padding",
+      "C": "Border",
+      "D": "Outline"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 228,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "CSS Flexbox का मुख्य उपयोग क्या है?",
+    "options": {
+      "A": "Text Color बदलना",
+      "B": "Image Insert करना",
+      "C": "Font बदलना",
+      "D": "Elements को Flexible तरीके से Layout करना"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 229,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "CSS Grid Layout किसलिए उपयोग होता है?",
+    "options": {
+      "A": "Two-Dimensional Layout बनाने के लिए",
+      "B": "Text Bold करने के लिए",
+      "C": "Video चलाने के लिए",
+      "D": "Table बनाने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 230,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "CSS Selector 'id' को कैसे दर्शाते हैं?",
+    "options": {
+      "A": "* से",
+      "B": "# से",
+      "C": ". से",
+      "D": "@ से"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 231,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "CSS Selector 'class' को कैसे दर्शाते हैं?",
+    "options": {
+      "A": ". से",
+      "B": "* से",
+      "C": "@ से",
+      "D": "# से"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 232,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "Font Size बदलने के लिए कौन सी Property उपयोग होती है?",
+    "options": {
+      "A": "font-style",
+      "B": "text-size",
+      "C": "font-size",
+      "D": "size"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 233,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "CSS में Border बनाने के लिए कौन सी Property उपयोग होती है?",
+    "options": {
+      "A": "outline-only",
+      "B": "border",
+      "C": "edge",
+      "D": "line"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 234,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "Position Property की Values में कौन सी शामिल है?",
+    "options": {
+      "A": "bold, italic, underline",
+      "B": "small, medium, large",
+      "C": "absolute, relative, fixed",
+      "D": "red, blue, green"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 235,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "CSS में display: none; का क्या प्रभाव होता है?",
+    "options": {
+      "A": "Element पूरी तरह छिप जाता है",
+      "B": "Element Red हो जाता है",
+      "C": "Element Bold हो जाता है",
+      "D": "Element बड़ा हो जाता है"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 236,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "Media Query का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "Image Insert करने के लिए",
+      "B": "Table बनाने के लिए",
+      "C": "अलग-अलग Screen Size के लिए अलग CSS लागू करने हेतु",
+      "D": "Text Bold करने के लिए"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 237,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "CSS में Text को Center Align करने के लिए क्या उपयोग करते हैं?",
+    "options": {
+      "A": "position: center;",
+      "B": "align: middle;",
+      "C": "text-align: center;",
+      "D": "center: text;"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 238,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "z-index Property किसलिए उपयोग होती है?",
+    "options": {
+      "A": "Color बदलने के लिए",
+      "B": "Table बनाने के लिए",
+      "C": "Elements का Stacking Order तय करने के लिए",
+      "D": "Font Size बदलने के लिए"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 239,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "CSS Box Model में क्या-क्या शामिल है?",
+    "options": {
+      "A": "केवल Content",
+      "B": "केवल Margin",
+      "C": "Content, Padding, Border, Margin",
+      "D": "केवल Border"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 240,
+    "topic": "CSS3 Basics & Layouts",
+    "question": "Hover Effect किस Pseudo-class से बनता है?",
+    "options": {
+      "A": ":visited",
+      "B": ":hover",
+      "C": ":focus",
+      "D": ":active"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 241,
+    "topic": "CSS Frameworks",
+    "question": "CSS Framework का उदाहरण कौन सा है?",
+    "options": {
+      "A": "Bootstrap",
+      "B": "Python",
+      "C": "Node.js",
+      "D": "MySQL"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 242,
+    "topic": "CSS Frameworks",
+    "question": "Bootstrap का मुख्य लाभ क्या है?",
+    "options": {
+      "A": "Server Host करना",
+      "B": "Database बनाना",
+      "C": "Video Edit करना",
+      "D": "तेज़ और Responsive Web Design बनाना"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 243,
+    "topic": "CSS Frameworks",
+    "question": "Bootstrap Grid System में कुल कितने Columns होते हैं?",
+    "options": {
+      "A": "16",
+      "B": "10",
+      "C": "8",
+      "D": "12"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 244,
+    "topic": "CSS Frameworks",
+    "question": "Tailwind CSS किस प्रकार का Framework है?",
+    "options": {
+      "A": "Utility-First CSS Framework",
+      "B": "Database Framework",
+      "C": "Programming Language",
+      "D": "Server Framework"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 245,
+    "topic": "CSS Frameworks",
+    "question": "CSS Framework उपयोग करने का एक लाभ क्या है?",
+    "options": {
+      "A": "Website धीमी होना",
+      "B": "Design खराब होना",
+      "C": "Pre-built Components से समय की बचत",
+      "D": "Code बढ़ जाना"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 246,
+    "topic": "CSS Frameworks",
+    "question": "Bootstrap को Project में जोड़ने का एक तरीका क्या है?",
+    "options": {
+      "A": "केवल Offline",
+      "B": "केवल Email से",
+      "C": "केवल Print करके",
+      "D": "CDN Link के माध्यम से"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 247,
+    "topic": "CSS Frameworks",
+    "question": "Responsive Design के लिए Bootstrap में कौन सी Class उपयोग होती है?",
+    "options": {
+      "A": "text-bold, text-italic",
+      "B": "col-sm, col-md, col-lg",
+      "C": "row-red, row-blue",
+      "D": "font-1, font-2"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 248,
+    "topic": "CSS Frameworks",
+    "question": "Bulma किस प्रकार का Tool है?",
+    "options": {
+      "A": "Database",
+      "B": "Operating System",
+      "C": "CSS Framework",
+      "D": "Programming Language"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 249,
+    "topic": "CSS Frameworks",
+    "question": "CSS Framework में 'Container' Class का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "Database बनाने के लिए",
+      "B": "Font बदलने के लिए",
+      "C": "Video चलाने के लिए",
+      "D": "Content को व्यवस्थित रूप से Wrap करने के लिए"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 250,
+    "topic": "CSS Frameworks",
+    "question": "Foundation Framework किसके लिए उपयोग होता है?",
+    "options": {
+      "A": "Responsive Website बनाने के लिए",
+      "B": "Video Editing के लिए",
+      "C": "Database Management के लिए",
+      "D": "Email भेजने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 251,
+    "topic": "CSS Frameworks",
+    "question": "Bootstrap Navbar Component का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "Image Insert करने के लिए",
+      "B": "Video चलाने के लिए",
+      "C": "Table बनाने के लिए",
+      "D": "Navigation Menu बनाने के लिए"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 252,
+    "topic": "CSS Frameworks",
+    "question": "CSS Framework Card Component का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "Password बनाने के लिए",
+      "B": "Database Query के लिए",
+      "C": "Content को Box के रूप में दिखाने के लिए",
+      "D": "Video चलाने के लिए"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 253,
+    "topic": "CSS Frameworks",
+    "question": "Bootstrap Button Class का उदाहरण कौन सा है?",
+    "options": {
+      "A": "font-bold",
+      "B": "nav-item",
+      "C": "btn btn-primary",
+      "D": "row col"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 254,
+    "topic": "CSS Frameworks",
+    "question": "CSS Framework उपयोग करने पर Cross-Browser Compatibility कैसी होती है?",
+    "options": {
+      "A": "बिगड़ जाती है",
+      "B": "बेहतर होती है",
+      "C": "Website बंद हो जाती है",
+      "D": "कोई असर नहीं"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 255,
+    "topic": "CSS Frameworks",
+    "question": "Materialize CSS किस Design पर आधारित है?",
+    "options": {
+      "A": "Google Material Design",
+      "B": "Apple Design",
+      "C": "Windows Design",
+      "D": "Linux Design"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 256,
+    "topic": "CSS Frameworks",
+    "question": "CSS Framework में Utility Classes का उदाहरण क्या है?",
+    "options": {
+      "A": "table, database",
+      "B": "text-center, p-3, m-2",
+      "C": "loop, condition",
+      "D": "function, variable"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 257,
+    "topic": "CSS Frameworks",
+    "question": "Framework का उपयोग न करने पर क्या करना पड़ता है?",
+    "options": {
+      "A": "Design अपने आप हो जाता है",
+      "B": "Website अपने आप बन जाती है",
+      "C": "CSS खुद से पूरी लिखनी पड़ती है",
+      "D": "कुछ नहीं करना पड़ता"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 258,
+    "topic": "CSS Frameworks",
+    "question": "Bootstrap के Latest Version में कौन सी Technology शामिल है?",
+    "options": {
+      "A": "केवल Frame",
+      "B": "केवल Table",
+      "C": "केवल Table Layout",
+      "D": "Flexbox और Grid"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 259,
+    "topic": "CSS Frameworks",
+    "question": "CSS Framework Modal Component किसलिए उपयोग होता है?",
+    "options": {
+      "A": "Table बनाने के लिए",
+      "B": "Popup Window दिखाने के लिए",
+      "C": "Video चलाने के लिए",
+      "D": "Font बदलने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 260,
+    "topic": "CSS Frameworks",
+    "question": "CSS Framework चुनते समय किस बात का ध्यान रखना चाहिए?",
+    "options": {
+      "A": "केवल Color",
+      "B": "केवल Size",
+      "C": "केवल Font",
+      "D": "Project की जरूरत और Documentation"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 261,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript मुख्यतः किसके लिए उपयोग होती है?",
+    "options": {
+      "A": "केवल Printing के लिए",
+      "B": "केवल Design के लिए",
+      "C": "Web Page को Interactive बनाने के लिए",
+      "D": "केवल Database के लिए"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 262,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript Code को HTML में किस Tag से जोड़ते हैं?",
+    "options": {
+      "A": "<javascript>",
+      "B": "<code>",
+      "C": "<js>",
+      "D": "<script>"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 263,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript में Variable घोषित करने के लिए कौन से Keywords उपयोग होते हैं?",
+    "options": {
+      "A": "int, float, char",
+      "B": "var, let, const",
+      "C": "public, private, static",
+      "D": "def, class, function"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 264,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript में Comment लिखने का सही तरीका क्या है?",
+    "options": {
+      "A": "' Comment",
+      "B": "<!-- Comment -->",
+      "C": "# Comment",
+      "D": "// Comment"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 265,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript में String Data Type किसे दर्शाता है?",
+    "options": {
+      "A": "Text Value",
+      "B": "Boolean Value",
+      "C": "Array Value",
+      "D": "Numeric Value"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 266,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript में Console पर Output दिखाने के लिए कौन सा Function उपयोग होता है?",
+    "options": {
+      "A": "console.log()",
+      "B": "display()",
+      "C": "echo()",
+      "D": "print()"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 267,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript में Function घोषित करने का सही तरीका क्या है?",
+    "options": {
+      "A": "function myFunc() {}",
+      "B": "method myFunc() {}",
+      "C": "def myFunc() {}",
+      "D": "func myFunc() {}"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 268,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript में if-else किसलिए उपयोग होता है?",
+    "options": {
+      "A": "Variable बनाने के लिए",
+      "B": "Condition के आधार पर निर्णय लेने के लिए",
+      "C": "Loop चलाने के लिए",
+      "D": "Function बनाने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 269,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript में Loop का उदाहरण कौन सा है?",
+    "options": {
+      "A": "for loop",
+      "B": "function",
+      "C": "variable",
+      "D": "if statement"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 270,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript में Array कैसे दर्शाया जाता है?",
+    "options": {
+      "A": "< > Angle Brackets में",
+      "B": "( ) Round Brackets में",
+      "C": "[ ] Square Brackets में",
+      "D": "{ } Curly Brackets में"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 271,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript में Boolean Data Type के Values क्या होते हैं?",
+    "options": {
+      "A": "true, false",
+      "B": "yes, no",
+      "C": "0, 1, 2",
+      "D": "on, off, maybe"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 272,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript में Object कैसे दर्शाया जाता है?",
+    "options": {
+      "A": "[ ] Square Brackets में",
+      "B": "{ } Curly Brackets में",
+      "C": "( ) Round Brackets में",
+      "D": "< > Angle Brackets में"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 273,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript को किस प्रकार की Language माना जाता है?",
+    "options": {
+      "A": "Database Language",
+      "B": "Operating System",
+      "C": "Hardware Language",
+      "D": "Client-Side Scripting Language"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 274,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript में '==' और '===' में क्या अंतर है?",
+    "options": {
+      "A": "'==' केवल Type जांचता है",
+      "B": "'===' केवल Boolean के लिए है",
+      "C": "दोनों एक जैसे हैं",
+      "D": "'===' Type और Value दोनों जांचता है"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 275,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript में Alert Box दिखाने के लिए कौन सा Function उपयोग होता है?",
+    "options": {
+      "A": "alert()",
+      "B": "message()",
+      "C": "show()",
+      "D": "popup()"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 276,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript Case-Sensitive Language है या नहीं?",
+    "options": {
+      "A": "पता नहीं",
+      "B": "कभी-कभी",
+      "C": "हाँ, Case-Sensitive है",
+      "D": "नहीं, Case-Sensitive नहीं है"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 277,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript में हर Statement के अंत में सामान्यतः क्या लगाया जाता है?",
+    "options": {
+      "A": "Colon (:)",
+      "B": "Comma (,)",
+      "C": "Dot (.)",
+      "D": "Semicolon (;)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 278,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript में while Loop किसलिए उपयोग होता है?",
+    "options": {
+      "A": "Function Call करने के लिए",
+      "B": "Condition सही होने तक Code बार-बार चलाने के लिए",
+      "C": "Variable बनाने के लिए",
+      "D": "Array बनाने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 279,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript में NaN का क्या अर्थ है?",
+    "options": {
+      "A": "Not a Number",
+      "B": "New Array Number",
+      "C": "Numeric and Numeric",
+      "D": "Null and Number"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 280,
+    "topic": "JavaScript Basics & Syntax",
+    "question": "JavaScript में typeof Operator किसलिए उपयोग होता है?",
+    "options": {
+      "A": "Value जोड़ने के लिए",
+      "B": "Loop चलाने के लिए",
+      "C": "Function बनाने के लिए",
+      "D": "किसी Variable का Data Type जानने के लिए"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 281,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "DOM का पूरा नाम क्या है?",
+    "options": {
+      "A": "Data Oriented Model",
+      "B": "Document Oriented Model",
+      "C": "Data Object Model",
+      "D": "Document Object Model"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 282,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "DOM किसका Structured Representation है?",
+    "options": {
+      "A": "HTML Document का",
+      "B": "CSS File का",
+      "C": "Database का",
+      "D": "Server का"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 283,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "किसी Element को ID से चुनने के लिए कौन सा Method उपयोग होता है?",
+    "options": {
+      "A": "document.selectId()",
+      "B": "document.getElementById()",
+      "C": "document.findId()",
+      "D": "document.getElement()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 284,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "Class से Elements चुनने के लिए कौन सा Method उपयोग होता है?",
+    "options": {
+      "A": "document.selectClass()",
+      "B": "document.getElementsByClassName()",
+      "C": "document.getElementById()",
+      "D": "document.getClass()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 285,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "innerHTML Property का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "Page Reload करने के लिए",
+      "B": "किसी Element की HTML Content बदलने के लिए",
+      "C": "Element Delete करने के लिए",
+      "D": "File Download करने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 286,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "querySelector() Method का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "CSS Selector से पहला Matching Element चुनने के लिए",
+      "B": "File Save करने के लिए",
+      "C": "Server से Data लाने के लिए",
+      "D": "Password Check करने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 287,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "Event Listener का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "किसी Event (जैसे Click) पर प्रतिक्रिया देने के लिए",
+      "B": "CSS बदलने के लिए",
+      "C": "Database Connect करने के लिए",
+      "D": "File Delete करने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 288,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "addEventListener() में सामान्यतः कौन सा Event उपयोग होता है?",
+    "options": {
+      "A": "delete",
+      "B": "save",
+      "C": "print",
+      "D": "click"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 289,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "createElement() Method का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "नया HTML Element बनाने के लिए",
+      "B": "CSS Load करने के लिए",
+      "C": "Element Delete करने के लिए",
+      "D": "File Open करने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 290,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "appendChild() Method क्या करता है?",
+    "options": {
+      "A": "Element Delete करता है",
+      "B": "Page Reload करता है",
+      "C": "File Save करता है",
+      "D": "एक Element को दूसरे Element में जोड़ता है"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 291,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "removeChild() Method किसलिए उपयोग होता है?",
+    "options": {
+      "A": "किसी Child Element को हटाने के लिए",
+      "B": "CSS जोड़ने के लिए",
+      "C": "Event जोड़ने के लिए",
+      "D": "नया Element बनाने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 292,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "style Property का उपयोग JavaScript में किसलिए होता है?",
+    "options": {
+      "A": "Database बनाने के लिए",
+      "B": "किसी Element का CSS Style बदलने के लिए",
+      "C": "Element Delete करने के लिए",
+      "D": "File Save करने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 293,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "DOM Tree में सबसे ऊपर कौन सा Node होता है?",
+    "options": {
+      "A": "Comment Node",
+      "B": "Text Node",
+      "C": "Attribute Node",
+      "D": "Document Node"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 294,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "setAttribute() Method का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "Element Delete करने के लिए",
+      "B": "CSS हटाने के लिए",
+      "C": "किसी Element में नई Attribute जोड़ने के लिए",
+      "D": "Page Reload करने के लिए"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 295,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "DOM Manipulation से Web Page पर क्या संभव होता है?",
+    "options": {
+      "A": "केवल Page Print करना",
+      "B": "केवल File Save करना",
+      "C": "बिना Page Reload किए Content बदलना",
+      "D": "केवल Password बदलना"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 296,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "onclick Event किस पर लगती है?",
+    "options": {
+      "A": "केवल Body Tag पर",
+      "B": "जिस Element पर Click Event संभालनी हो",
+      "C": "केवल Title Tag पर",
+      "D": "केवल Head Tag पर"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 297,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "document.write() Method क्या करता है?",
+    "options": {
+      "A": "Document में सीधे Content लिखता है",
+      "B": "CSS Load करता है",
+      "C": "Server से जुड़ता है",
+      "D": "File Delete करता है"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 298,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "parentNode Property किसे दर्शाती है?",
+    "options": {
+      "A": "CSS Style को",
+      "B": "Event Type को",
+      "C": "किसी Node के Parent Element को",
+      "D": "किसी Node के Child Element को"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 299,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "classList.add() Method किसलिए उपयोग होता है?",
+    "options": {
+      "A": "File Save करने के लिए",
+      "B": "Element Delete करने के लिए",
+      "C": "किसी Element में नई CSS Class जोड़ने के लिए",
+      "D": "Database Query के लिए"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 300,
+    "topic": "DOM Manipulation with JavaScript",
+    "question": "DOM Manipulation किस Language के माध्यम से की जाती है?",
+    "options": {
+      "A": "SQL",
+      "B": "CSS",
+      "C": "JavaScript",
+      "D": "HTML"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 301,
+    "topic": "Photo Editing & Publishing",
+    "question": "Photo Editing Software का उदाहरण कौन सा है?",
+    "options": {
+      "A": "Notepad",
+      "B": "MS Word",
+      "C": "GIMP",
+      "D": "LibreOffice Calc"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 302,
+    "topic": "Photo Editing & Publishing",
+    "question": "Image के Pixels की संख्या को क्या कहते हैं?",
+    "options": {
+      "A": "Filter",
+      "B": "Resolution",
+      "C": "Format",
+      "D": "Layer"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 303,
+    "topic": "Photo Editing & Publishing",
+    "question": "JPEG किस प्रकार की File Format है?",
+    "options": {
+      "A": "Audio Format",
+      "B": "Video Format",
+      "C": "Text Format",
+      "D": "Image Format"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 304,
+    "topic": "Photo Editing & Publishing",
+    "question": "PNG Format की विशेषता क्या है?",
+    "options": {
+      "A": "यह Transparent Background Support करता है",
+      "B": "यह केवल Text Format है",
+      "C": "यह Video Format है",
+      "D": "यह Audio Format है"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 305,
+    "topic": "Photo Editing & Publishing",
+    "question": "Image Cropping का अर्थ क्या है?",
+    "options": {
+      "A": "Image Save करना",
+      "B": "Image Color बदलना",
+      "C": "Image के अनावश्यक हिस्से को हटाना",
+      "D": "Image Print करना"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 306,
+    "topic": "Photo Editing & Publishing",
+    "question": "Photo Editing में Layer का क्या उपयोग है?",
+    "options": {
+      "A": "Image Delete करना",
+      "B": "Password लगाना",
+      "C": "File Compress करना",
+      "D": "अलग-अलग Elements को अलग-अलग स्तर पर Edit करना"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 307,
+    "topic": "Photo Editing & Publishing",
+    "question": "Image Resize करने का अर्थ क्या है?",
+    "options": {
+      "A": "Image का आकार बदलना",
+      "B": "Image Print करना",
+      "C": "Image Rotate करना",
+      "D": "Image Delete करना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 308,
+    "topic": "Photo Editing & Publishing",
+    "question": "Brightness/Contrast Adjustment किसलिए किया जाता है?",
+    "options": {
+      "A": "Image Delete करने के लिए",
+      "B": "File Format बदलने के लिए",
+      "C": "Image Print करने के लिए",
+      "D": "Image की रोशनी और स्पष्टता बेहतर करने के लिए"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 309,
+    "topic": "Photo Editing & Publishing",
+    "question": "Filter का उपयोग Photo Editing में किसलिए होता है?",
+    "options": {
+      "A": "Password बनाने के लिए",
+      "B": "File Save करने के लिए",
+      "C": "Image Delete करने के लिए",
+      "D": "Image पर विशेष प्रभाव लगाने के लिए"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 310,
+    "topic": "Photo Editing & Publishing",
+    "question": "Publishing के संदर्भ में DPI का क्या अर्थ है?",
+    "options": {
+      "A": "Data Per Image",
+      "B": "Dots Per Inch",
+      "C": "Design Per Inch",
+      "D": "Digital Print Interface"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 311,
+    "topic": "Photo Editing & Publishing",
+    "question": "Vector Image और Raster Image में क्या अंतर है?",
+    "options": {
+      "A": "Raster Image कभी Blur नहीं होती",
+      "B": "Vector Image Scale करने पर Quality नहीं खोती",
+      "C": "दोनों एक जैसे हैं",
+      "D": "Vector Image में Pixels होते हैं"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 312,
+    "topic": "Photo Editing & Publishing",
+    "question": "Image Compression का उद्देश्य क्या है?",
+    "options": {
+      "A": "Image Print करना",
+      "B": "Image बड़ी करना",
+      "C": "Image Delete करना",
+      "D": "File Size कम करना"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 313,
+    "topic": "Photo Editing & Publishing",
+    "question": "Desktop Publishing (DTP) का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "केवल Video बनाने के लिए",
+      "B": "केवल Coding के लिए",
+      "C": "केवल Photo खींचने के लिए",
+      "D": "Magazine, Brochure जैसी Publications बनाने के लिए"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 314,
+    "topic": "Photo Editing & Publishing",
+    "question": "Photo Editing में 'Red Eye Removal' किसलिए उपयोग होता है?",
+    "options": {
+      "A": "Flash Photo में आँखों का Red Effect हटाने के लिए",
+      "B": "Image Delete करने के लिए",
+      "C": "Image Rotate करने के लिए",
+      "D": "Image Background बदलने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 315,
+    "topic": "Photo Editing & Publishing",
+    "question": "Canva किस प्रकार का Tool है?",
+    "options": {
+      "A": "Programming Language",
+      "B": "Operating System",
+      "C": "Database Tool",
+      "D": "Online Design और Publishing Tool"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 316,
+    "topic": "Photo Editing & Publishing",
+    "question": "Image Rotation का उपयोग कब किया जाता है?",
+    "options": {
+      "A": "Image Delete करने के लिए",
+      "B": "Image की दिशा बदलने के लिए",
+      "C": "Password बनाने के लिए",
+      "D": "File Save करने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 317,
+    "topic": "Photo Editing & Publishing",
+    "question": "Watermark का उपयोग किसलिए किया जाता है?",
+    "options": {
+      "A": "Image बड़ी करने के लिए",
+      "B": "Image पर Ownership दर्शाने के लिए",
+      "C": "File Format बदलने के लिए",
+      "D": "Image Delete करने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 318,
+    "topic": "Photo Editing & Publishing",
+    "question": "Publishing के लिए High Resolution Image क्यों जरूरी है?",
+    "options": {
+      "A": "Password सुरक्षित रखने के लिए",
+      "B": "Print में स्पष्ट और साफ दिखने के लिए",
+      "C": "File Size कम करने के लिए",
+      "D": "Loading तेज़ करने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 319,
+    "topic": "Photo Editing & Publishing",
+    "question": "Photo Editing Software में 'Undo' Option का क्या कार्य है?",
+    "options": {
+      "A": "Image Print करना",
+      "B": "पिछली की गई क्रिया को वापस लेना",
+      "C": "Image Delete करना",
+      "D": "Image Save करना"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 320,
+    "topic": "Photo Editing & Publishing",
+    "question": "Digital Publishing में e-Magazine का उदाहरण किस Format में हो सकता है?",
+    "options": {
+      "A": "PDF",
+      "B": "EXE",
+      "C": "ZIP केवल",
+      "D": "MP3"
+    },
+    "answer": "A"
+  }
 ]
