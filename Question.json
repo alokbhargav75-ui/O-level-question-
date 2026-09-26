@@ -2282,4 +2282,3370 @@
     },
     "answer": "A"
   }
+
+[
+  {
+    "id": 321,
+    "topic": "Programming Algorithms",
+    "question": "Algorithm किसे कहते हैं?",
+    "options": {
+      "A": "किसी समस्या को हल करने के चरणबद्ध निर्देश",
+      "B": "एक Operating System",
+      "C": "एक Programming Language",
+      "D": "एक Hardware Device"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 322,
+    "topic": "Programming Algorithms",
+    "question": "Flowchart किसलिए उपयोग होता है?",
+    "options": {
+      "A": "Code Compile करने के लिए",
+      "B": "Password बनाने के लिए",
+      "C": "Algorithm को चित्रों के माध्यम से दर्शाने के लिए",
+      "D": "File Save करने के लिए"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 323,
+    "topic": "Programming Algorithms",
+    "question": "Algorithm में 'Oval' Symbol किसे दर्शाता है?",
+    "options": {
+      "A": "Input/Output",
+      "B": "Decision",
+      "C": "Start/End",
+      "D": "Process"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 324,
+    "topic": "Programming Algorithms",
+    "question": "Flowchart में 'Diamond' Shape किसे दर्शाती है?",
+    "options": {
+      "A": "Process",
+      "B": "Decision (निर्णय)",
+      "C": "Start",
+      "D": "End"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 325,
+    "topic": "Programming Algorithms",
+    "question": "Pseudocode किसे कहते हैं?",
+    "options": {
+      "A": "एक Compiler",
+      "B": "साधारण भाषा में लिखा Algorithm",
+      "C": "एक Hardware",
+      "D": "एक Database"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 326,
+    "topic": "Programming Algorithms",
+    "question": "एक अच्छे Algorithm की विशेषता क्या होनी चाहिए?",
+    "options": {
+      "A": "अस्पष्ट और अनंत",
+      "B": "बिना चरणों के",
+      "C": "स्पष्ट, सीमित चरण और सही परिणाम देने वाला",
+      "D": "गलत परिणाम देने वाला"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 327,
+    "topic": "Programming Algorithms",
+    "question": "Sequential Algorithm में Steps किस क्रम में चलते हैं?",
+    "options": {
+      "A": "बेतरतीब क्रम में",
+      "B": "बिना क्रम के",
+      "C": "एक के बाद एक क्रम में",
+      "D": "उल्टे क्रम में"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 328,
+    "topic": "Programming Algorithms",
+    "question": "Searching Algorithm का उदाहरण कौन सा है?",
+    "options": {
+      "A": "Quick Sort",
+      "B": "Bubble Sort",
+      "C": "Linear Search",
+      "D": "Merge Sort"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 329,
+    "topic": "Programming Algorithms",
+    "question": "Sorting Algorithm का उदाहरण कौन सा है?",
+    "options": {
+      "A": "Binary Search",
+      "B": "Linear Search",
+      "C": "Bubble Sort",
+      "D": "Hashing"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 330,
+    "topic": "Programming Algorithms",
+    "question": "Flowchart में Rectangle Shape किसे दर्शाती है?",
+    "options": {
+      "A": "Process (प्रक्रिया)",
+      "B": "Decision",
+      "C": "Start/End",
+      "D": "Input"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 331,
+    "topic": "Programming Algorithms",
+    "question": "Algorithm लिखने का पहला Step क्या है?",
+    "options": {
+      "A": "File Save करना",
+      "B": "Program Run करना",
+      "C": "समस्या को समझना",
+      "D": "Code लिखना"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 332,
+    "topic": "Programming Algorithms",
+    "question": "Binary Search Algorithm किस प्रकार के Data पर कार्य करता है?",
+    "options": {
+      "A": "केवल Text Data पर",
+      "B": "Sorted Data पर",
+      "C": "Unsorted Data पर",
+      "D": "केवल Image Data पर"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 333,
+    "topic": "Programming Algorithms",
+    "question": "Flowchart में Arrow (तीर) किसे दर्शाता है?",
+    "options": {
+      "A": "Input",
+      "B": "Decision",
+      "C": "Flow of Control (क्रम की दिशा)",
+      "D": "Process"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 334,
+    "topic": "Programming Algorithms",
+    "question": "Algorithm की Time Complexity किससे संबंधित है?",
+    "options": {
+      "A": "Algorithm को चलने में लगने वाले समय से",
+      "B": "Algorithm के रंग से",
+      "C": "Algorithm की भाषा से",
+      "D": "Algorithm के नाम से"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 335,
+    "topic": "Programming Algorithms",
+    "question": "Looping Algorithm का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "File Delete करने के लिए",
+      "B": "किसी कार्य को बार-बार दोहराने के लिए",
+      "C": "Variable हटाने के लिए",
+      "D": "Program बंद करने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 336,
+    "topic": "Programming Algorithms",
+    "question": "Decision Making Algorithm में किसका उपयोग होता है?",
+    "options": {
+      "A": "केवल Function का",
+      "B": "केवल Loop का",
+      "C": "Condition (if-else) का",
+      "D": "केवल Variable का"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 337,
+    "topic": "Programming Algorithms",
+    "question": "Algorithm और Program में मुख्य अंतर क्या है?",
+    "options": {
+      "A": "Algorithm एक Plan है, Program उसका Code रूप",
+      "B": "Algorithm हमेशा Code में लिखा जाता है",
+      "C": "Program हमेशा गलत होता है",
+      "D": "दोनों एक जैसे हैं"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 338,
+    "topic": "Programming Algorithms",
+    "question": "Parallelogram Shape Flowchart में किसे दर्शाती है?",
+    "options": {
+      "A": "Decision",
+      "B": "Process",
+      "C": "Input/Output",
+      "D": "Start/End"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 339,
+    "topic": "Programming Algorithms",
+    "question": "Recursive Algorithm किस पर आधारित होता है?",
+    "options": {
+      "A": "केवल Input पर",
+      "B": "केवल Variable पर",
+      "C": "खुद को दोबारा Call करने पर",
+      "D": "केवल Loop पर"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 340,
+    "topic": "Programming Algorithms",
+    "question": "Algorithm Design करते समय Efficiency का क्या महत्व है?",
+    "options": {
+      "A": "Code बड़ा बनाना",
+      "B": "Time बर्बाद करना",
+      "C": "Error बढ़ाना",
+      "D": "कम समय और Resource में परिणाम देना"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 341,
+    "topic": "Python Data Types & Variables",
+    "question": "Python में Variable घोषित करने के लिए क्या आवश्यक है?",
+    "options": {
+      "A": "Semicolon लगाना अनिवार्य",
+      "B": "हमेशा Data Type बताना",
+      "C": "सीधे नाम देकर Value Assign करना (Data Type बताने की जरूरत नहीं)",
+      "D": "Bracket में लिखना अनिवार्य"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 342,
+    "topic": "Python Data Types & Variables",
+    "question": "Python में Integer Data Type का उदाहरण कौन सा है?",
+    "options": {
+      "A": "3.14",
+      "B": "'Hello'",
+      "C": "10",
+      "D": "True"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 343,
+    "topic": "Python Data Types & Variables",
+    "question": "Python में Float Data Type का उदाहरण कौन सा है?",
+    "options": {
+      "A": "'Hello'",
+      "B": "10",
+      "C": "3.14",
+      "D": "True"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 344,
+    "topic": "Python Data Types & Variables",
+    "question": "Python में String Data Type को किसमें लिखा जाता है?",
+    "options": {
+      "A": "Curly Brackets में",
+      "B": "Square Brackets में",
+      "C": "Single या Double Quotes में",
+      "D": "Round Brackets में"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 345,
+    "topic": "Python Data Types & Variables",
+    "question": "Python में Boolean Data Type की Values क्या होती हैं?",
+    "options": {
+      "A": "On, Off",
+      "B": "True, False",
+      "C": "0, 1, 2",
+      "D": "Yes, No"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 346,
+    "topic": "Python Data Types & Variables",
+    "question": "Python में Data Type जानने के लिए कौन सा Function उपयोग होता है?",
+    "options": {
+      "A": "datatype()",
+      "B": "kind()",
+      "C": "typeof()",
+      "D": "type()"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 347,
+    "topic": "Python Data Types & Variables",
+    "question": "Python में Variable Naming Rule क्या है?",
+    "options": {
+      "A": "Number से शुरू नहीं हो सकता",
+      "B": "हमेशा Number से शुरू हो",
+      "C": "केवल Capital Letters में हो",
+      "D": "Space हो सकता है"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 348,
+    "topic": "Python Data Types & Variables",
+    "question": "Python में Complex Number Data Type का उदाहरण कौन सा है?",
+    "options": {
+      "A": "3+4j",
+      "B": "'text'",
+      "C": "3.14",
+      "D": "True"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 349,
+    "topic": "Python Data Types & Variables",
+    "question": "Python में Multiple Variables एक साथ कैसे Assign करते हैं?",
+    "options": {
+      "A": "a = b = c = 1,2,3 (एक जैसा)",
+      "B": "संभव नहीं है",
+      "C": "केवल एक-एक करके",
+      "D": "a, b, c = 1, 2, 3"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 350,
+    "topic": "Python Data Types & Variables",
+    "question": "Python में Global Variable किसे कहते हैं?",
+    "options": {
+      "A": "जो केवल Loop में हो",
+      "B": "जो Function के बाहर घोषित हो और सभी जगह उपयोग हो",
+      "C": "जो कभी बदलता नहीं",
+      "D": "जो केवल एक Function में हो"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 351,
+    "topic": "Python Data Types & Variables",
+    "question": "Python एक कैसी Programming Language है?",
+    "options": {
+      "A": "Low-Level Language",
+      "B": "Machine Language",
+      "C": "Assembly Language",
+      "D": "High-Level, Interpreted Language"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 352,
+    "topic": "Python Data Types & Variables",
+    "question": "Python में Local Variable किसे कहते हैं?",
+    "options": {
+      "A": "जो किसी Function के अंदर घोषित हो",
+      "B": "जो सभी जगह उपयोग हो",
+      "C": "जो कभी नहीं बदलता",
+      "D": "जो File के बाहर घोषित हो"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 353,
+    "topic": "Python Data Types & Variables",
+    "question": "Python में None Data Type क्या दर्शाता है?",
+    "options": {
+      "A": "Number Zero",
+      "B": "किसी Value का अभाव (Null)",
+      "C": "True Value",
+      "D": "Empty String"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 354,
+    "topic": "Python Data Types & Variables",
+    "question": "Python Case-Sensitive Language है, इसका क्या अर्थ है?",
+    "options": {
+      "A": "Uppercase और Lowercase समान हैं",
+      "B": "Age और age अलग-अलग Variables हैं",
+      "C": "Python में केवल Capital Letters चलते हैं",
+      "D": "Case का कोई महत्व नहीं"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 355,
+    "topic": "Python Data Types & Variables",
+    "question": "Python में Variable की Value बदलने के लिए क्या करना होता है?",
+    "options": {
+      "A": "Data Type पहले घोषित करना",
+      "B": "Program बंद करना",
+      "C": "Variable Delete करना",
+      "D": "दोबारा Assign करना"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 356,
+    "topic": "Python Data Types & Variables",
+    "question": "Python में Constant Value को Convention अनुसार कैसे लिखा जाता है?",
+    "options": {
+      "A": "lowercase में",
+      "B": "CAPITAL Letters में",
+      "C": "Symbols में",
+      "D": "Numbers में"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 357,
+    "topic": "Python Data Types & Variables",
+    "question": "Python में Data Type Conversion के लिए कौन सा Function उपयोग होता है?",
+    "options": {
+      "A": "int(), float(), str()",
+      "B": "convert()",
+      "C": "change()",
+      "D": "typeConvert()"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 358,
+    "topic": "Python Data Types & Variables",
+    "question": "Python में एक Variable में कई प्रकार का Data रखा जा सकता है, इसे क्या कहते हैं?",
+    "options": {
+      "A": "Static Typing",
+      "B": "Dynamic Typing",
+      "C": "No Typing",
+      "D": "Fixed Typing"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 359,
+    "topic": "Python Data Types & Variables",
+    "question": "Python में Keyword का उदाहरण कौन सा है?",
+    "options": {
+      "A": "10, 20, 30",
+      "B": "if, else, for",
+      "C": "myVar, x, y",
+      "D": "'Hello', 'World'"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 360,
+    "topic": "Python Data Types & Variables",
+    "question": "Python Program किस Extension में Save होती है?",
+    "options": {
+      "A": ".pyt",
+      "B": ".pt",
+      "C": ".py",
+      "D": ".pgm"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 361,
+    "topic": "Operators & Expressions",
+    "question": "Python में '+' Operator किसलिए उपयोग होता है?",
+    "options": {
+      "A": "जोड़ (Addition) के लिए",
+      "B": "घटाव के लिए",
+      "C": "भाग के लिए",
+      "D": "गुणा के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 362,
+    "topic": "Operators & Expressions",
+    "question": "Python में '%' Operator क्या देता है?",
+    "options": {
+      "A": "जोड़",
+      "B": "घटाव",
+      "C": "भाग का भागफल",
+      "D": "भाग का शेषफल (Remainder)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 363,
+    "topic": "Operators & Expressions",
+    "question": "Python में '**' Operator किसलिए उपयोग होता है?",
+    "options": {
+      "A": "घटाव के लिए",
+      "B": "जोड़ के लिए",
+      "C": "भाग के लिए",
+      "D": "घात (Power/Exponent) निकालने के लिए"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 364,
+    "topic": "Operators & Expressions",
+    "question": "Python में '//' Operator क्या देता है?",
+    "options": {
+      "A": "Remainder",
+      "B": "Power",
+      "C": "Floor Division (पूर्णांक भागफल)",
+      "D": "Multiplication"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 365,
+    "topic": "Operators & Expressions",
+    "question": "Relational Operator का उदाहरण कौन सा है?",
+    "options": {
+      "A": "=, +=, -=",
+      "B": ">, <, ==",
+      "C": "and, or, not",
+      "D": "+, -, *"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 366,
+    "topic": "Operators & Expressions",
+    "question": "Logical Operator का उदाहरण कौन सा है?",
+    "options": {
+      "A": "=, +=, -=",
+      "B": ">, <, ==",
+      "C": "+, -, *",
+      "D": "and, or, not"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 367,
+    "topic": "Operators & Expressions",
+    "question": "Assignment Operator '=' का क्या कार्य है?",
+    "options": {
+      "A": "दो Values की तुलना करना",
+      "B": "घटाना",
+      "C": "Value को Variable में Assign करना",
+      "D": "जोड़ करना"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 368,
+    "topic": "Operators & Expressions",
+    "question": "Python में '==' Operator किसलिए उपयोग होता है?",
+    "options": {
+      "A": "जोड़ करने के लिए",
+      "B": "Value Assign करने के लिए",
+      "C": "दो Values की बराबरी जाँचने के लिए",
+      "D": "घटाने के लिए"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 369,
+    "topic": "Operators & Expressions",
+    "question": "Python में '+=' Operator क्या करता है?",
+    "options": {
+      "A": "कुछ नहीं करता",
+      "B": "केवल तुलना करता है",
+      "C": "Value घटाता है",
+      "D": "Value जोड़कर उसी Variable में Assign करता है"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 370,
+    "topic": "Operators & Expressions",
+    "question": "Membership Operator का उदाहरण कौन सा है?",
+    "options": {
+      "A": "in, not in",
+      "B": "==, !=",
+      "C": "and, or",
+      "D": "+, -"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 371,
+    "topic": "Operators & Expressions",
+    "question": "Identity Operator का उदाहरण कौन सा है?",
+    "options": {
+      "A": "+, -",
+      "B": "is, is not",
+      "C": "and, or",
+      "D": "in, not in"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 372,
+    "topic": "Operators & Expressions",
+    "question": "Expression किसे कहते हैं?",
+    "options": {
+      "A": "Values और Operators का ऐसा संयोजन जो एक Value देता है",
+      "B": "केवल एक Number",
+      "C": "केवल एक Keyword",
+      "D": "केवल एक Loop"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 373,
+    "topic": "Operators & Expressions",
+    "question": "Python में Operator Precedence का क्या अर्थ है?",
+    "options": {
+      "A": "Operator का नाम",
+      "B": "Operator की Length",
+      "C": "किस Operator को पहले Evaluate किया जाएगा",
+      "D": "Operator का Color"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 374,
+    "topic": "Operators & Expressions",
+    "question": "Python में Bitwise Operator का उदाहरण कौन सा है?",
+    "options": {
+      "A": ">, <, ==",
+      "B": "and, or, not",
+      "C": "&, |, ^",
+      "D": "+, -, *"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 375,
+    "topic": "Operators & Expressions",
+    "question": "'!=' Operator किसे दर्शाता है?",
+    "options": {
+      "A": "घटाव",
+      "B": "समानता",
+      "C": "जोड़",
+      "D": "असमानता (Not Equal to)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 376,
+    "topic": "Operators & Expressions",
+    "question": "Python में Unary Operator का उदाहरण कौन सा है?",
+    "options": {
+      "A": "- (Negative Sign)",
+      "B": "or",
+      "C": "+ (Addition)",
+      "D": "and"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 377,
+    "topic": "Operators & Expressions",
+    "question": "Python में 'and' Operator कब True Return करता है?",
+    "options": {
+      "A": "हमेशा False",
+      "B": "हमेशा True",
+      "C": "जब कोई एक Condition True हो",
+      "D": "जब दोनों Conditions True हों"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 378,
+    "topic": "Operators & Expressions",
+    "question": "Python में 'or' Operator कब True Return करता है?",
+    "options": {
+      "A": "हमेशा False",
+      "B": "जब कम से कम एक Condition True हो",
+      "C": "कभी नहीं",
+      "D": "जब दोनों False हों"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 379,
+    "topic": "Operators & Expressions",
+    "question": "Python में 'not' Operator का कार्य क्या है?",
+    "options": {
+      "A": "Condition की Value को उल्टा करना",
+      "B": "जोड़ करना",
+      "C": "घटाना",
+      "D": "गुणा करना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 380,
+    "topic": "Operators & Expressions",
+    "question": "Arithmetic Operator का उदाहरण कौन सा है?",
+    "options": {
+      "A": "and, or, not",
+      "B": "is, in",
+      "C": "+, -, *, /",
+      "D": ">, <, =="
+    },
+    "answer": "C"
+  },
+  {
+    "id": 381,
+    "topic": "Conditional & Iterative Loops",
+    "question": "Python में Conditional Statement का उदाहरण कौन सा है?",
+    "options": {
+      "A": "if-else",
+      "B": "while loop",
+      "C": "for loop",
+      "D": "function"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 382,
+    "topic": "Conditional & Iterative Loops",
+    "question": "Python में 'for' Loop किसलिए उपयोग होता है?",
+    "options": {
+      "A": "Condition जांचने के लिए",
+      "B": "Function बनाने के लिए",
+      "C": "Variable घोषित करने के लिए",
+      "D": "किसी Sequence को दोहराने के लिए"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 383,
+    "topic": "Conditional & Iterative Loops",
+    "question": "Python में 'while' Loop कब तक चलता है?",
+    "options": {
+      "A": "कभी नहीं",
+      "B": "जब तक Condition True रहे",
+      "C": "केवल एक बार",
+      "D": "हमेशा के लिए अनिवार्य रूप से"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 384,
+    "topic": "Conditional & Iterative Loops",
+    "question": "Python में 'elif' का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "Loop रोकने के लिए",
+      "B": "Function बनाने के लिए",
+      "C": "Variable Delete करने के लिए",
+      "D": "कई Conditions जांचने के लिए"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 385,
+    "topic": "Conditional & Iterative Loops",
+    "question": "Python में Loop से बाहर निकलने के लिए कौन सा Statement उपयोग होता है?",
+    "options": {
+      "A": "continue",
+      "B": "break",
+      "C": "pass",
+      "D": "return"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 386,
+    "topic": "Conditional & Iterative Loops",
+    "question": "Python में 'continue' Statement क्या करता है?",
+    "options": {
+      "A": "Variable Delete करता है",
+      "B": "वर्तमान Iteration छोड़कर अगली पर जाता है",
+      "C": "Loop पूरी तरह बंद करता है",
+      "D": "Program बंद करता है"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 387,
+    "topic": "Conditional & Iterative Loops",
+    "question": "Python में 'pass' Statement का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "Error देने के लिए",
+      "B": "Loop रोकने के लिए",
+      "C": "कुछ न करते हुए Syntax पूरा करने के लिए",
+      "D": "Value Return करने के लिए"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 388,
+    "topic": "Conditional & Iterative Loops",
+    "question": "Nested Loop किसे कहते हैं?",
+    "options": {
+      "A": "एक Loop के अंदर दूसरा Loop",
+      "B": "दो अलग Functions",
+      "C": "दो अलग-अलग Programs",
+      "D": "दो अलग Variables"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 389,
+    "topic": "Conditional & Iterative Loops",
+    "question": "Python में range() Function किसलिए उपयोग होता है?",
+    "options": {
+      "A": "Numbers की एक Sequence बनाने के लिए",
+      "B": "List Delete करने के लिए",
+      "C": "File खोलने के लिए",
+      "D": "String Convert करने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 390,
+    "topic": "Conditional & Iterative Loops",
+    "question": "Python में if Statement की Body कैसे लिखी जाती है?",
+    "options": {
+      "A": "Semicolon के साथ",
+      "B": "Curly Brackets में",
+      "C": "Bracket के बिना",
+      "D": "Indentation के साथ"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 391,
+    "topic": "Conditional & Iterative Loops",
+    "question": "Infinite Loop कब बनता है?",
+    "options": {
+      "A": "जब Variable Delete हो जाए",
+      "B": "जब Loop एक बार चले",
+      "C": "जब Loop की Condition कभी False न हो",
+      "D": "जब Loop कभी शुरू न हो"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 392,
+    "topic": "Conditional & Iterative Loops",
+    "question": "Python में Nested if Statement किसे कहते हैं?",
+    "options": {
+      "A": "दो अलग Functions",
+      "B": "if Statement के अंदर दूसरा if Statement",
+      "C": "दो अलग Loops",
+      "D": "दो अलग Files"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 393,
+    "topic": "Conditional & Iterative Loops",
+    "question": "for loop में 'in' Keyword किसलिए उपयोग होता है?",
+    "options": {
+      "A": "Condition जांचने के लिए",
+      "B": "Sequence के Elements पर जाने के लिए",
+      "C": "Variable Delete करने के लिए",
+      "D": "File खोलने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 394,
+    "topic": "Conditional & Iterative Loops",
+    "question": "Python में Ternary/Conditional Expression का उदाहरण क्या है?",
+    "options": {
+      "A": "if a>b: x=5",
+      "B": "while a>b: x=5",
+      "C": "for i in range(5): x=5",
+      "D": "x = 5 if a>b else 10"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 395,
+    "topic": "Conditional & Iterative Loops",
+    "question": "Loop Control Statement का उदाहरण कौन सा है?",
+    "options": {
+      "A": "break, continue, pass",
+      "B": "import, from",
+      "C": "def, class",
+      "D": "if, elif, else"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 396,
+    "topic": "Conditional & Iterative Loops",
+    "question": "while True: के साथ कौन सा Loop Control Statement उपयोग किया जाता है ताकि Loop कभी रुके?",
+    "options": {
+      "A": "continue",
+      "B": "return",
+      "C": "break",
+      "D": "pass"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 397,
+    "topic": "Conditional & Iterative Loops",
+    "question": "Python में for loop किस Data Structure पर काम कर सकता है?",
+    "options": {
+      "A": "List, Tuple, String, Dictionary",
+      "B": "केवल Boolean पर",
+      "C": "केवल Numbers पर",
+      "D": "केवल Functions पर"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 398,
+    "topic": "Conditional & Iterative Loops",
+    "question": "Python में Condition False होने पर 'else' Block कब चलता है?",
+    "options": {
+      "A": "हमेशा",
+      "B": "जब if की Condition False हो",
+      "C": "जब if की Condition True हो",
+      "D": "कभी नहीं"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 399,
+    "topic": "Conditional & Iterative Loops",
+    "question": "Iterative Statement का मुख्य उद्देश्य क्या है?",
+    "options": {
+      "A": "Variable Delete करना",
+      "B": "File Save करना",
+      "C": "किसी कार्य को बार-बार दोहराना",
+      "D": "Program बंद करना"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 400,
+    "topic": "Conditional & Iterative Loops",
+    "question": "Python में while loop और for loop में मुख्य अंतर क्या है?",
+    "options": {
+      "A": "for Sequence पर चलता है, while Condition पर",
+      "B": "दोनों एक जैसे हैं",
+      "C": "for केवल एक बार चलता है",
+      "D": "while कभी नहीं रुकता"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 401,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Python में List कैसे दर्शाई जाती है?",
+    "options": {
+      "A": "< > Angle Brackets में",
+      "B": "( ) Round Brackets में",
+      "C": "{ } Curly Brackets में",
+      "D": "[ ] Square Brackets में"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 402,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Python में Tuple कैसे दर्शाया जाता है?",
+    "options": {
+      "A": "[ ] Square Brackets में",
+      "B": "( ) Round Brackets में",
+      "C": "< > Angle Brackets में",
+      "D": "{ } Curly Brackets में"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 403,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Python में Dictionary कैसे दर्शाई जाती है?",
+    "options": {
+      "A": "[ ] Square Brackets में",
+      "B": "{ } Curly Brackets में Key-Value Pairs से",
+      "C": "( ) Round Brackets में",
+      "D": "< > Angle Brackets में"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 404,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "List और Tuple में मुख्य अंतर क्या है?",
+    "options": {
+      "A": "दोनों समान हैं",
+      "B": "List Immutable है",
+      "C": "Tuple Mutable है",
+      "D": "List Mutable है, Tuple Immutable है"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 405,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Python में String की Length जानने के लिए कौन सा Function उपयोग होता है?",
+    "options": {
+      "A": "length()",
+      "B": "count()",
+      "C": "len()",
+      "D": "size()"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 406,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Python में List में नया Element जोड़ने के लिए कौन सा Method उपयोग होता है?",
+    "options": {
+      "A": "append()",
+      "B": "push()",
+      "C": "insertNew()",
+      "D": "add()"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 407,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Python में String Indexing कहाँ से शुरू होती है?",
+    "options": {
+      "A": "2 से",
+      "B": "0 से",
+      "C": "1 से",
+      "D": "-1 से"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 408,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Dictionary में Value प्राप्त करने के लिए किसका उपयोग होता है?",
+    "options": {
+      "A": "Value का ही",
+      "B": "Position का",
+      "C": "Index का",
+      "D": "Key का"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 409,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Python में List से Element हटाने के लिए कौन सा Method उपयोग होता है?",
+    "options": {
+      "A": "delete()",
+      "B": "clear() (यह पूरी List खाली करता है)",
+      "C": "erase()",
+      "D": "remove()"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 410,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Python में String को Uppercase में बदलने के लिए कौन सा Method उपयोग होता है?",
+    "options": {
+      "A": "capital()",
+      "B": "caps()",
+      "C": "toUpper()",
+      "D": "upper()"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 411,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Python में String को Lowercase में बदलने के लिए कौन सा Method उपयोग होता है?",
+    "options": {
+      "A": "lower()",
+      "B": "minCase()",
+      "C": "toLower()",
+      "D": "small()"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 412,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Python में String Slicing का उदाहरण कौन सा है?",
+    "options": {
+      "A": "s[1:4]",
+      "B": "s.upper()",
+      "C": "s.len()",
+      "D": "s.append()"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 413,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Python में दो Strings को जोड़ने को क्या कहते हैं?",
+    "options": {
+      "A": "Indexing",
+      "B": "Concatenation",
+      "C": "Slicing",
+      "D": "Formatting"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 414,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Python में Dictionary की सभी Keys प्राप्त करने के लिए कौन सा Method उपयोग होता है?",
+    "options": {
+      "A": "get()",
+      "B": "keys()",
+      "C": "values()",
+      "D": "items()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 415,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Python में List को छोटे से बड़े क्रम में लगाने के लिए कौन सा Method उपयोग होता है?",
+    "options": {
+      "A": "reverse()",
+      "B": "remove()",
+      "C": "append()",
+      "D": "sort()"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 416,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Python में Tuple को क्यों उपयोग किया जाता है जब Data बदलना न हो?",
+    "options": {
+      "A": "क्योंकि यह Immutable होता है",
+      "B": "क्योंकि यह Mutable होता है",
+      "C": "क्योंकि इसमें Key-Value होते हैं",
+      "D": "क्योंकि यह तेज़ नहीं होता"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 417,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Python में List के किसी Element तक पहुँचने के लिए किसका उपयोग होता है?",
+    "options": {
+      "A": "Function Name",
+      "B": "Index Number",
+      "C": "Variable Name",
+      "D": "Key Name"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 418,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Python में Empty Dictionary कैसे बनाई जाती है?",
+    "options": {
+      "A": "{ }",
+      "B": "< >",
+      "C": "[ ]",
+      "D": "( )"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 419,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Python में String Immutable होती है, इसका क्या अर्थ है?",
+    "options": {
+      "A": "एक बार बनने के बाद उसे सीधे बदला नहीं जा सकता",
+      "B": "String को आसानी से बदला जा सकता है",
+      "C": "String हमेशा खाली रहती है",
+      "D": "String में Numbers नहीं आते"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 420,
+    "topic": "Strings, Lists, Tuples & Dicts",
+    "question": "Python में Dictionary की Values प्राप्त करने के लिए कौन सा Method उपयोग होता है?",
+    "options": {
+      "A": "values()",
+      "B": "keys()",
+      "C": "get() (केवल एक Value के लिए)",
+      "D": "items()"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 421,
+    "topic": "Functions & Recursion",
+    "question": "Python में Function घोषित करने के लिए कौन सा Keyword उपयोग होता है?",
+    "options": {
+      "A": "define",
+      "B": "func",
+      "C": "def",
+      "D": "function"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 422,
+    "topic": "Functions & Recursion",
+    "question": "Function से Value वापस भेजने के लिए कौन सा Statement उपयोग होता है?",
+    "options": {
+      "A": "give",
+      "B": "output",
+      "C": "return",
+      "D": "send"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 423,
+    "topic": "Functions & Recursion",
+    "question": "Function Call करने का सही तरीका क्या है?",
+    "options": {
+      "A": "run functionName",
+      "B": "functionName without brackets",
+      "C": "call functionName",
+      "D": "functionName()"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 424,
+    "topic": "Functions & Recursion",
+    "question": "Function उपयोग करने का मुख्य लाभ क्या है?",
+    "options": {
+      "A": "Code Reusability बढ़ती है",
+      "B": "Code बड़ा हो जाता है",
+      "C": "Program धीमा हो जाता है",
+      "D": "Error बढ़ते हैं"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 425,
+    "topic": "Functions & Recursion",
+    "question": "Recursion किसे कहते हैं?",
+    "options": {
+      "A": "जब कोई Function खुद को Call करता है",
+      "B": "जब Variable घोषित होता है",
+      "C": "जब Function कभी Call न हो",
+      "D": "जब Loop चलता है"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 426,
+    "topic": "Functions & Recursion",
+    "question": "Recursive Function में क्या होना आवश्यक है ताकि वह अनंत न चले?",
+    "options": {
+      "A": "Base Condition",
+      "B": "Import Statement",
+      "C": "Loop",
+      "D": "Global Variable"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 427,
+    "topic": "Functions & Recursion",
+    "question": "Function में Parameters का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "Function को Input Values भेजने के लिए",
+      "B": "File Save करने के लिए",
+      "C": "Function Delete करने के लिए",
+      "D": "Function Rename करने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 428,
+    "topic": "Functions & Recursion",
+    "question": "Python में Default Parameter का उदाहरण क्या है?",
+    "options": {
+      "A": "def greet(name):",
+      "B": "def greet(name='Guest'):",
+      "C": "def greet():",
+      "D": "greet(name)"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 429,
+    "topic": "Functions & Recursion",
+    "question": "Python में Built-in Function का उदाहरण कौन सा है?",
+    "options": {
+      "A": "myFunction()",
+      "B": "print()",
+      "C": "userFunc()",
+      "D": "customFunc()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 430,
+    "topic": "Functions & Recursion",
+    "question": "User-defined Function किसे कहते हैं?",
+    "options": {
+      "A": "जो कभी Call नहीं होता",
+      "B": "जो Python में पहले से Built-in हो",
+      "C": "जो Programmer स्वयं बनाता है",
+      "D": "जो हमेशा Error देता है"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 431,
+    "topic": "Functions & Recursion",
+    "question": "Factorial निकालने के लिए कौन सी Technique आम तौर पर उपयोग होती है?",
+    "options": {
+      "A": "केवल Import",
+      "B": "केवल String Concatenation",
+      "C": "Recursion या Loop",
+      "D": "केवल Dictionary"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 432,
+    "topic": "Functions & Recursion",
+    "question": "Function के अंदर घोषित Variable को क्या कहते हैं?",
+    "options": {
+      "A": "Constant",
+      "B": "Global Variable",
+      "C": "Local Variable",
+      "D": "Keyword"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 433,
+    "topic": "Functions & Recursion",
+    "question": "Python में Lambda Function क्या होता है?",
+    "options": {
+      "A": "एक Loop",
+      "B": "एक File",
+      "C": "एक छोटा Anonymous Function",
+      "D": "एक Variable"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 434,
+    "topic": "Functions & Recursion",
+    "question": "Recursion का एक Disadvantage क्या हो सकता है?",
+    "options": {
+      "A": "अधिक Memory उपयोग हो सकता है",
+      "B": "Code हमेशा छोटा होता है",
+      "C": "इसमें Parameters नहीं होते",
+      "D": "यह कभी काम नहीं करता"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 435,
+    "topic": "Functions & Recursion",
+    "question": "Function बिना Return Statement के क्या देता है?",
+    "options": {
+      "A": "Infinite Loop",
+      "B": "None",
+      "C": "Error हमेशा",
+      "D": "0"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 436,
+    "topic": "Functions & Recursion",
+    "question": "Python में Function Definition के बाद Colon (:) क्यों लगाया जाता है?",
+    "options": {
+      "A": "Import के लिए",
+      "B": "Comment के लिए",
+      "C": "Function End करने के लिए",
+      "D": "Function Body शुरू करने के लिए"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 437,
+    "topic": "Functions & Recursion",
+    "question": "Fibonacci Series बनाने के लिए किस Technique का उपयोग आम है?",
+    "options": {
+      "A": "String Slicing",
+      "B": "Dictionary Keys",
+      "C": "File Handling",
+      "D": "Recursion"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 438,
+    "topic": "Functions & Recursion",
+    "question": "Function में *args का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "File खोलने के लिए",
+      "B": "अनिश्चित संख्या में Arguments लेने के लिए",
+      "C": "Loop चलाने के लिए",
+      "D": "Function Delete करने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 439,
+    "topic": "Functions & Recursion",
+    "question": "Recursive Function में हर Call पर क्या घटती/बदलती रहनी चाहिए ताकि वह Base Condition तक पहुँचे?",
+    "options": {
+      "A": "समस्या का आकार (Input)",
+      "B": "Variable Type",
+      "C": "Function का नाम",
+      "D": "File का नाम"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 440,
+    "topic": "Functions & Recursion",
+    "question": "Modular Programming में Functions का क्या महत्व है?",
+    "options": {
+      "A": "बड़े Program को छोटे भागों में बांटना",
+      "B": "Error बढ़ाना",
+      "C": "Code Duplicate करना",
+      "D": "Program को उलझाना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 441,
+    "topic": "File Handling",
+    "question": "Python में File खोलने के लिए कौन सा Function उपयोग होता है?",
+    "options": {
+      "A": "read()",
+      "B": "load()",
+      "C": "file()",
+      "D": "open()"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 442,
+    "topic": "File Handling",
+    "question": "File को Read Mode में खोलने के लिए कौन सा Character उपयोग होता है?",
+    "options": {
+      "A": "'a'",
+      "B": "'r'",
+      "C": "'x'",
+      "D": "'w'"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 443,
+    "topic": "File Handling",
+    "question": "File को Write Mode में खोलने के लिए कौन सा Character उपयोग होता है?",
+    "options": {
+      "A": "'a'",
+      "B": "'x'",
+      "C": "'w'",
+      "D": "'r'"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 444,
+    "topic": "File Handling",
+    "question": "File में Data जोड़ने (बिना पुराना Data मिटाए) के लिए कौन सा Mode उपयोग होता है?",
+    "options": {
+      "A": "'a' (Append)",
+      "B": "'w' (Write, यह पुराना Data मिटा देता है)",
+      "C": "'r' (Read)",
+      "D": "'x' (Create)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 445,
+    "topic": "File Handling",
+    "question": "File को बंद करने के लिए कौन सा Method उपयोग होता है?",
+    "options": {
+      "A": "end()",
+      "B": "stop()",
+      "C": "exit()",
+      "D": "close()"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 446,
+    "topic": "File Handling",
+    "question": "File की पूरी Content पढ़ने के लिए कौन सा Method उपयोग होता है?",
+    "options": {
+      "A": "read()",
+      "B": "write()",
+      "C": "close()",
+      "D": "open()"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 447,
+    "topic": "File Handling",
+    "question": "File की एक Line पढ़ने के लिए कौन सा Method उपयोग होता है?",
+    "options": {
+      "A": "readline()",
+      "B": "read()",
+      "C": "writeline()",
+      "D": "write()"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 448,
+    "topic": "File Handling",
+    "question": "File की सभी Lines को List के रूप में पढ़ने के लिए कौन सा Method उपयोग होता है?",
+    "options": {
+      "A": "write()",
+      "B": "readline()",
+      "C": "readlines()",
+      "D": "open()"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 449,
+    "topic": "File Handling",
+    "question": "File में Data लिखने के लिए कौन सा Method उपयोग होता है?",
+    "options": {
+      "A": "open()",
+      "B": "read()",
+      "C": "close()",
+      "D": "write()"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 450,
+    "topic": "File Handling",
+    "question": "Python में 'with open()' का उपयोग करने का लाभ क्या है?",
+    "options": {
+      "A": "Data हमेशा खो जाता है",
+      "B": "File कभी Close नहीं होती",
+      "C": "File हमेशा Delete हो जाती है",
+      "D": "File अपने आप Close हो जाती है"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 451,
+    "topic": "File Handling",
+    "question": "File न मिलने पर Python में कौन सी Error आती है?",
+    "options": {
+      "A": "TypeError",
+      "B": "FileNotFoundError",
+      "C": "IndexError",
+      "D": "ValueError"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 452,
+    "topic": "File Handling",
+    "question": "Binary File खोलने के लिए Mode में कौन सा Character जोड़ा जाता है?",
+    "options": {
+      "A": "'t'",
+      "B": "'x'",
+      "C": "'n'",
+      "D": "'b'"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 453,
+    "topic": "File Handling",
+    "question": "File Handling में 'r+' Mode किसलिए उपयोग होता है?",
+    "options": {
+      "A": "केवल लिखने के लिए",
+      "B": "केवल पढ़ने के लिए",
+      "C": "केवल Delete करने के लिए",
+      "D": "पढ़ने और लिखने दोनों के लिए"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 454,
+    "topic": "File Handling",
+    "question": "CSV File किस प्रकार की File होती है?",
+    "options": {
+      "A": "Image File",
+      "B": "Comma Separated Values वाली Data File",
+      "C": "Audio File",
+      "D": "Video File"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 455,
+    "topic": "File Handling",
+    "question": "Python में नई File बनाने के लिए कौन सा Mode उपयोग होता है?",
+    "options": {
+      "A": "'r' (Read)",
+      "B": "'a' (Append, यह मौजूदा File में जोड़ता है)",
+      "C": "'x' (Create)",
+      "D": "'b' (Binary)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 456,
+    "topic": "File Handling",
+    "question": "File Handling में Exception Handling क्यों जरूरी है?",
+    "options": {
+      "A": "File Rename करने के लिए",
+      "B": "File से जुड़ी Errors को सही तरीके से संभालने के लिए",
+      "C": "File Print करने के लिए",
+      "D": "File Delete करने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 457,
+    "topic": "File Handling",
+    "question": "os Module का उपयोग File Handling में किसलिए होता है?",
+    "options": {
+      "A": "Internet चलाने के लिए",
+      "B": "Video Play करने के लिए",
+      "C": "File/Folder Operations (जैसे Delete, Rename) के लिए",
+      "D": "Image Edit करने के लिए"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 458,
+    "topic": "File Handling",
+    "question": "Python में File की Existence जांचने के लिए किस Function का उपयोग होता है?",
+    "options": {
+      "A": "os.path.read()",
+      "B": "os.path.write()",
+      "C": "os.path.delete()",
+      "D": "os.path.exists()"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 459,
+    "topic": "File Handling",
+    "question": "Text File और Binary File में मुख्य अंतर क्या है?",
+    "options": {
+      "A": "Binary File में केवल Text होता है",
+      "B": "दोनों एक जैसे हैं",
+      "C": "Text File में केवल Text होता है, Binary में 0/1 के रूप में Data",
+      "D": "Text File कभी Save नहीं होती"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 460,
+    "topic": "File Handling",
+    "question": "File Handling में 'seek()' Method का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "File Rename करने के लिए",
+      "B": "File Pointer की Position बदलने के लिए",
+      "C": "File Print करने के लिए",
+      "D": "File Delete करने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 461,
+    "topic": "NumPy Module Basics",
+    "question": "NumPy किस प्रकार का Python Module है?",
+    "options": {
+      "A": "Numerical Computing के लिए",
+      "B": "Web Design के लिए",
+      "C": "File Handling के लिए",
+      "D": "Networking के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 462,
+    "topic": "NumPy Module Basics",
+    "question": "NumPy Module को Import करने के लिए सामान्य Statement क्या है?",
+    "options": {
+      "A": "using numpy",
+      "B": "require numpy",
+      "C": "import numpy as np",
+      "D": "include numpy"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 463,
+    "topic": "NumPy Module Basics",
+    "question": "NumPy में मुख्य Data Structure कौन सी है?",
+    "options": {
+      "A": "Tuple",
+      "B": "List",
+      "C": "Array (ndarray)",
+      "D": "Dictionary"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 464,
+    "topic": "NumPy Module Basics",
+    "question": "NumPy Array बनाने के लिए कौन सा Function उपयोग होता है?",
+    "options": {
+      "A": "np.create()",
+      "B": "np.new()",
+      "C": "np.list()",
+      "D": "np.array()"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 465,
+    "topic": "NumPy Module Basics",
+    "question": "NumPy Array की Shape जानने के लिए कौन सी Property उपयोग होती है?",
+    "options": {
+      "A": "type",
+      "B": "len",
+      "C": "size",
+      "D": "shape"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 466,
+    "topic": "NumPy Module Basics",
+    "question": "NumPy Array के Elements की कुल संख्या जानने के लिए क्या उपयोग करते हैं?",
+    "options": {
+      "A": "dtype",
+      "B": "size",
+      "C": "type",
+      "D": "shape"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 467,
+    "topic": "NumPy Module Basics",
+    "question": "NumPy में सभी Elements Zero वाला Array बनाने के लिए कौन सा Function उपयोग होता है?",
+    "options": {
+      "A": "np.full()",
+      "B": "np.zeros()",
+      "C": "np.empty()",
+      "D": "np.ones()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 468,
+    "topic": "NumPy Module Basics",
+    "question": "NumPy में सभी Elements One वाला Array बनाने के लिए कौन सा Function उपयोग होता है?",
+    "options": {
+      "A": "np.zeros()",
+      "B": "np.empty()",
+      "C": "np.full()",
+      "D": "np.ones()"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 469,
+    "topic": "NumPy Module Basics",
+    "question": "NumPy Array और Python List में मुख्य अंतर क्या है?",
+    "options": {
+      "A": "List तेज़ है",
+      "B": "Array में Data Type नहीं होता",
+      "C": "दोनों एक जैसे हैं",
+      "D": "NumPy Array तेज़ और कम Memory उपयोग करता है"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 470,
+    "topic": "NumPy Module Basics",
+    "question": "NumPy में Array की Dimension जानने के लिए कौन सी Property उपयोग होती है?",
+    "options": {
+      "A": "size",
+      "B": "shape",
+      "C": "dtype",
+      "D": "ndim"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 471,
+    "topic": "NumPy Module Basics",
+    "question": "NumPy Array में Data Type जानने के लिए कौन सी Property उपयोग होती है?",
+    "options": {
+      "A": "shape",
+      "B": "dtype",
+      "C": "ndim",
+      "D": "size"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 472,
+    "topic": "NumPy Module Basics",
+    "question": "1D Array क्या दर्शाता है?",
+    "options": {
+      "A": "Table के रूप में Data",
+      "B": "एक पंक्ति (Row) का Array",
+      "C": "3-Dimensional Data",
+      "D": "केवल Text Data"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 473,
+    "topic": "NumPy Module Basics",
+    "question": "2D Array क्या दर्शाता है?",
+    "options": {
+      "A": "केवल Text",
+      "B": "केवल Boolean Values",
+      "C": "केवल एक Value",
+      "D": "Rows और Columns वाला Matrix जैसा Array"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 474,
+    "topic": "NumPy Module Basics",
+    "question": "NumPy में दो Arrays को जोड़ने के लिए कौन सा Operator/Function उपयोग होता है?",
+    "options": {
+      "A": "+ या np.add()",
+      "B": "np.remove()",
+      "C": "np.delete()",
+      "D": "np.sort() केवल"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 475,
+    "topic": "NumPy Module Basics",
+    "question": "NumPy Array को Reshape करने के लिए कौन सा Function उपयोग होता है?",
+    "options": {
+      "A": "reshape()",
+      "B": "shape()",
+      "C": "resize() (यह अलग कार्य करता है)",
+      "D": "change()"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 476,
+    "topic": "NumPy Module Basics",
+    "question": "NumPy Array के Elements Access करने के लिए किसका उपयोग होता है?",
+    "options": {
+      "A": "Functions केवल",
+      "B": "Keys",
+      "C": "Names",
+      "D": "Indexing"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 477,
+    "topic": "NumPy Module Basics",
+    "question": "NumPy Array में Range के अनुसार Values बनाने के लिए कौन सा Function उपयोग होता है?",
+    "options": {
+      "A": "np.ones()",
+      "B": "np.zeros()",
+      "C": "np.array()",
+      "D": "np.arange()"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 478,
+    "topic": "NumPy Module Basics",
+    "question": "NumPy में Mean (औसत) निकालने के लिए कौन सा Function उपयोग होता है?",
+    "options": {
+      "A": "np.min()",
+      "B": "np.mean()",
+      "C": "np.max()",
+      "D": "np.sum()"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 479,
+    "topic": "NumPy Module Basics",
+    "question": "NumPy किन क्षेत्रों में विशेष रूप से उपयोगी है?",
+    "options": {
+      "A": "Data Science और Scientific Computing में",
+      "B": "Photo Editing में",
+      "C": "Email भेजने में",
+      "D": "Web Design में"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 480,
+    "topic": "NumPy Module Basics",
+    "question": "NumPy Array में सबसे बड़ा Value निकालने के लिए कौन सा Function उपयोग होता है?",
+    "options": {
+      "A": "np.min()",
+      "B": "np.sum()",
+      "C": "np.mean()",
+      "D": "np.max()"
+    },
+    "answer": "D"
+  }
+
+
+  [
+  {
+    "id": 481,
+    "topic": "Introduction to IoT",
+    "question": "IoT का पूरा नाम क्या है?",
+    "options": {
+      "A": "Interface of Things",
+      "B": "Internet of Things",
+      "C": "Internal of Things",
+      "D": "Internet of Technology"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 482,
+    "topic": "Introduction to IoT",
+    "question": "IoT का मूल उद्देश्य क्या है?",
+    "options": {
+      "A": "Devices को Internet से जोड़कर आपस में Data Share करवाना",
+      "B": "केवल Photo खींचना",
+      "C": "केवल Video देखना",
+      "D": "केवल Game खेलना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 483,
+    "topic": "Introduction to IoT",
+    "question": "Smart Home किसका उदाहरण है?",
+    "options": {
+      "A": "केवल Software का",
+      "B": "IoT Application का",
+      "C": "केवल Internet Browser का",
+      "D": "केवल Hardware का"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 484,
+    "topic": "Introduction to IoT",
+    "question": "IoT में 'Things' किसे दर्शाता है?",
+    "options": {
+      "A": "केवल Computer को",
+      "B": "केवल Mobile को",
+      "C": "केवल Software को",
+      "D": "Internet से जुड़े Physical Devices को"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 485,
+    "topic": "Introduction to IoT",
+    "question": "IoT का उपयोग किस क्षेत्र में होता है?",
+    "options": {
+      "A": "केवल Gaming में",
+      "B": "Healthcare, Agriculture, Smart Home आदि में",
+      "C": "केवल Photo Editing में",
+      "D": "केवल Printing में"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 486,
+    "topic": "Introduction to IoT",
+    "question": "Smart Wearable Device का उदाहरण कौन सा है?",
+    "options": {
+      "A": "Smartwatch",
+      "B": "Keyboard",
+      "C": "Desktop Computer",
+      "D": "Printer"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 487,
+    "topic": "Introduction to IoT",
+    "question": "IoT Devices Data कहाँ Store/Process कर सकते हैं?",
+    "options": {
+      "A": "Cloud पर",
+      "B": "केवल Paper पर",
+      "C": "कहीं नहीं",
+      "D": "केवल Local Printer पर"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 488,
+    "topic": "Introduction to IoT",
+    "question": "Smart City Concept में IoT का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "केवल Music सुनने के लिए",
+      "B": "Traffic, Waste Management जैसी सेवाओं को Smart बनाने के लिए",
+      "C": "केवल Photo खींचने के लिए",
+      "D": "केवल Games खेलने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 489,
+    "topic": "Introduction to IoT",
+    "question": "IoT Devices किसके माध्यम से आपस में जुड़ते हैं?",
+    "options": {
+      "A": "केवल USB Cable से",
+      "B": "कभी नहीं जुड़ते",
+      "C": "केवल Bluetooth केवल",
+      "D": "Internet/Network के माध्यम से"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 490,
+    "topic": "Introduction to IoT",
+    "question": "IoT में Automation का क्या लाभ है?",
+    "options": {
+      "A": "Devices बंद हो जाते हैं",
+      "B": "Internet बंद हो जाता है",
+      "C": "कार्य धीमे हो जाते हैं",
+      "D": "मानव प्रयास कम होकर कार्य स्वचालित होते हैं"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 491,
+    "topic": "Introduction to IoT",
+    "question": "Smart Refrigerator किस प्रकार का IoT Device है?",
+    "options": {
+      "A": "Industrial Sensor",
+      "B": "Wearable Device",
+      "C": "Smart Home Appliance",
+      "D": "Network Router"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 492,
+    "topic": "Introduction to IoT",
+    "question": "IoT की मुख्य विशेषताओं में कौन सी शामिल है?",
+    "options": {
+      "A": "Connectivity, Sensing, Data Exchange",
+      "B": "केवल Photo Editing",
+      "C": "केवल Printing",
+      "D": "केवल Video Editing"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 493,
+    "topic": "Introduction to IoT",
+    "question": "Agriculture में IoT का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "केवल Photo खींचने के लिए",
+      "B": "केवल Music सुनने के लिए",
+      "C": "केवल Game खेलने के लिए",
+      "D": "Soil Moisture, Weather Monitoring के लिए"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 494,
+    "topic": "Introduction to IoT",
+    "question": "IoT Ecosystem में मुख्यतः कौन-कौन से भाग होते हैं?",
+    "options": {
+      "A": "केवल Internet",
+      "B": "केवल Sensors",
+      "C": "केवल Devices",
+      "D": "Devices, Connectivity, Data Processing, User Interface"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 495,
+    "topic": "Introduction to IoT",
+    "question": "Healthcare में IoT Device का उदाहरण क्या है?",
+    "options": {
+      "A": "Fitness Tracker",
+      "B": "Monitor",
+      "C": "Printer",
+      "D": "Keyboard"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 496,
+    "topic": "Introduction to IoT",
+    "question": "IoT में Real-Time Monitoring का क्या लाभ है?",
+    "options": {
+      "A": "तुरंत जानकारी और तेज़ निर्णय लेना संभव होता है",
+      "B": "Internet धीमा होता है",
+      "C": "Data कभी नहीं मिलता",
+      "D": "Devices बंद हो जाते हैं"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 497,
+    "topic": "Introduction to IoT",
+    "question": "IoT का उपयोग Industry में किस नाम से जाना जाता है?",
+    "options": {
+      "A": "IoT केवल Home",
+      "B": "IIoT (Industrial IoT)",
+      "C": "केवल Web Design",
+      "D": "केवल Software Testing"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 498,
+    "topic": "Introduction to IoT",
+    "question": "IoT Devices के आपस में जुड़ने से क्या Network बनता है?",
+    "options": {
+      "A": "Interconnected Network of Devices",
+      "B": "केवल Local File System",
+      "C": "कोई Network नहीं",
+      "D": "केवल Printer Network"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 499,
+    "topic": "Introduction to IoT",
+    "question": "IoT का एक Challenge क्या हो सकता है?",
+    "options": {
+      "A": "कोई Challenge नहीं",
+      "B": "बहुत सस्ता होना",
+      "C": "बहुत आसान होना",
+      "D": "Data Security और Privacy"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 500,
+    "topic": "Introduction to IoT",
+    "question": "Smart Bulb किस प्रकार का Device है?",
+    "options": {
+      "A": "IoT-Enabled Home Appliance",
+      "B": "Wearable Device",
+      "C": "Network Router",
+      "D": "Industrial Sensor"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 501,
+    "topic": "Things and Connections",
+    "question": "IoT में 'Things' और 'Connections' के बीच संबंध क्या है?",
+    "options": {
+      "A": "Connections केवल Wired होती हैं",
+      "B": "दोनों का कोई संबंध नहीं",
+      "C": "Things, Connections के माध्यम से Data Share करती हैं",
+      "D": "Things कभी Connect नहीं होतीं"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 502,
+    "topic": "Things and Connections",
+    "question": "IoT Devices को Internet से जोड़ने का एक सामान्य तरीका क्या है?",
+    "options": {
+      "A": "केवल Printer Cable",
+      "B": "Wi-Fi",
+      "C": "केवल Radio",
+      "D": "केवल Landline Phone"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 503,
+    "topic": "Things and Connections",
+    "question": "Bluetooth किस प्रकार की Connectivity है?",
+    "options": {
+      "A": "Long-Range Wired Connectivity",
+      "B": "केवल Satellite",
+      "C": "केवल Fiber Optic",
+      "D": "Short-Range Wireless Connectivity"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 504,
+    "topic": "Things and Connections",
+    "question": "Zigbee किस प्रकार की Technology है?",
+    "options": {
+      "A": "Web Browser",
+      "B": "Operating System",
+      "C": "Video Editing Software",
+      "D": "Low-Power Wireless Communication Protocol"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 505,
+    "topic": "Things and Connections",
+    "question": "IoT में Cloud Connectivity का क्या लाभ है?",
+    "options": {
+      "A": "Data हमेशा खो जाता है",
+      "B": "Data को कहीं से भी Access किया जा सकता है",
+      "C": "Device बंद हो जाता है",
+      "D": "Internet की जरूरत नहीं पड़ती"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 506,
+    "topic": "Things and Connections",
+    "question": "IoT Devices के बीच Communication के लिए किसका उपयोग होता है?",
+    "options": {
+      "A": "केवल Word Processor",
+      "B": "केवल Printer Driver",
+      "C": "Protocols (जैसे MQTT, HTTP)",
+      "D": "केवल Antivirus"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 507,
+    "topic": "Things and Connections",
+    "question": "MQTT Protocol किसलिए उपयोग होता है?",
+    "options": {
+      "A": "Photo Editing के लिए",
+      "B": "IoT Devices के बीच Lightweight Messaging के लिए",
+      "C": "File Compression के लिए",
+      "D": "Video Editing के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 508,
+    "topic": "Things and Connections",
+    "question": "Wired Connectivity का उदाहरण कौन सा है?",
+    "options": {
+      "A": "Zigbee",
+      "B": "Bluetooth",
+      "C": "Ethernet Cable",
+      "D": "Wi-Fi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 509,
+    "topic": "Things and Connections",
+    "question": "Wireless Connectivity का उदाहरण कौन सा है?",
+    "options": {
+      "A": "USB Cable",
+      "B": "Ethernet Cable",
+      "C": "HDMI Cable",
+      "D": "Wi-Fi"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 510,
+    "topic": "Things and Connections",
+    "question": "IoT में Gateway Device का क्या कार्य है?",
+    "options": {
+      "A": "Photo खींचना",
+      "B": "Password बनाना",
+      "C": "Video Play करना",
+      "D": "Local Devices को Internet/Cloud से जोड़ना"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 511,
+    "topic": "Things and Connections",
+    "question": "NFC का पूरा नाम क्या है?",
+    "options": {
+      "A": "Network File Connection",
+      "B": "New Field Connection",
+      "C": "Network Field Communication",
+      "D": "Near Field Communication"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 512,
+    "topic": "Things and Connections",
+    "question": "RFID Technology किसलिए उपयोग होती है?",
+    "options": {
+      "A": "Photo Editing के लिए",
+      "B": "Video Editing के लिए",
+      "C": "Objects की Wireless Identification के लिए",
+      "D": "Password बनाने के लिए"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 513,
+    "topic": "Things and Connections",
+    "question": "IoT Network Topology में 'Star Topology' कैसी होती है?",
+    "options": {
+      "A": "केवल दो Devices जुड़े होते हैं",
+      "B": "सभी Devices एक केंद्रीय Point से जुड़े होते हैं",
+      "C": "सभी Devices बिना Connection के होते हैं",
+      "D": "Devices कभी नहीं जुड़ते"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 514,
+    "topic": "Things and Connections",
+    "question": "IoT में Edge Computing का क्या लाभ है?",
+    "options": {
+      "A": "Internet की जरूरत बढ़ना",
+      "B": "Device बंद हो जाना",
+      "C": "Data कभी Process न होना",
+      "D": "Data को Device के नज़दीक Process करना, जिससे Latency कम हो"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 515,
+    "topic": "Things and Connections",
+    "question": "5G Network IoT के लिए क्यों महत्वपूर्ण है?",
+    "options": {
+      "A": "कोई लाभ नहीं",
+      "B": "Devices को Disconnect करता है",
+      "C": "Internet बंद कर देता है",
+      "D": "तेज़ Speed और कम Latency प्रदान करता है"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 516,
+    "topic": "Things and Connections",
+    "question": "IoT Devices की पहचान के लिए किसका उपयोग होता है?",
+    "options": {
+      "A": "Unique IP Address/ID",
+      "B": "केवल Color",
+      "C": "केवल Weight",
+      "D": "केवल Size"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 517,
+    "topic": "Things and Connections",
+    "question": "LPWAN का पूरा नाम क्या है?",
+    "options": {
+      "A": "Long Power Wide Area Network",
+      "B": "Low Power Wired Area Network",
+      "C": "Long Power Wired Area Network",
+      "D": "Low Power Wide Area Network"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 518,
+    "topic": "Things and Connections",
+    "question": "IoT में Mesh Network का क्या लाभ है?",
+    "options": {
+      "A": "केवल एक Device काम करता है",
+      "B": "Devices Disconnect हो जाते हैं",
+      "C": "Devices आपस में एक-दूसरे से जुड़कर Network मजबूत बनाते हैं",
+      "D": "Network कभी काम नहीं करता"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 519,
+    "topic": "Things and Connections",
+    "question": "IoT Device Connectivity चुनते समय किस बात का ध्यान रखा जाता है?",
+    "options": {
+      "A": "केवल Price",
+      "B": "केवल Size",
+      "C": "केवल Color",
+      "D": "Range, Power Consumption और Data Rate"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 520,
+    "topic": "Things and Connections",
+    "question": "Satellite Communication का उपयोग IoT में किन क्षेत्रों में होता है?",
+    "options": {
+      "A": "केवल शहरी क्षेत्रों में",
+      "B": "कभी उपयोग नहीं होता",
+      "C": "केवल घर के अंदर",
+      "D": "दूरस्थ क्षेत्रों (Remote Areas) में जहाँ अन्य Network उपलब्ध न हो"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 521,
+    "topic": "Sensors & Actuators",
+    "question": "Sensor किसे कहते हैं?",
+    "options": {
+      "A": "जो केवल Sound उत्पन्न करता है",
+      "B": "जो केवल Print करता है",
+      "C": "जो केवल Data Store करता है",
+      "D": "जो Physical परिवर्तन को Detect करके Signal में बदलता है"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 522,
+    "topic": "Sensors & Actuators",
+    "question": "Actuator किसे कहते हैं?",
+    "options": {
+      "A": "जो केवल Data Read करता है",
+      "B": "जो केवल Save करता है",
+      "C": "जो केवल Photo खींचता है",
+      "D": "जो Signal प्राप्त कर Physical क्रिया करता है"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 523,
+    "topic": "Sensors & Actuators",
+    "question": "Temperature Sensor किसे Measure करता है?",
+    "options": {
+      "A": "ध्वनि",
+      "B": "दबाव",
+      "C": "तापमान",
+      "D": "रोशनी"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 524,
+    "topic": "Sensors & Actuators",
+    "question": "Light Sensor (LDR) किसे Detect करता है?",
+    "options": {
+      "A": "गति",
+      "B": "रोशनी की तीव्रता",
+      "C": "तापमान",
+      "D": "दबाव"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 525,
+    "topic": "Sensors & Actuators",
+    "question": "Motion Sensor (PIR) किसे Detect करता है?",
+    "options": {
+      "A": "रोशनी",
+      "B": "ध्वनि",
+      "C": "गति (Movement)",
+      "D": "तापमान"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 526,
+    "topic": "Sensors & Actuators",
+    "question": "Humidity Sensor किसे Measure करता है?",
+    "options": {
+      "A": "रोशनी",
+      "B": "दबाव",
+      "C": "नमी (Moisture Level)",
+      "D": "ध्वनि"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 527,
+    "topic": "Sensors & Actuators",
+    "question": "Motor किस प्रकार का Actuator है?",
+    "options": {
+      "A": "जो Electrical Signal को घूर्णन गति में बदलता है",
+      "B": "जो केवल Sound उत्पन्न करता है",
+      "C": "जो केवल Data Store करता है",
+      "D": "जो केवल Photo खींचता है"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 528,
+    "topic": "Sensors & Actuators",
+    "question": "Ultrasonic Sensor किसलिए उपयोग होता है?",
+    "options": {
+      "A": "रोशनी मापने के लिए",
+      "B": "नमी मापने के लिए",
+      "C": "तापमान मापने के लिए",
+      "D": "दूरी (Distance) मापने के लिए"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 529,
+    "topic": "Sensors & Actuators",
+    "question": "Gas Sensor किसे Detect करता है?",
+    "options": {
+      "A": "गति",
+      "B": "ध्वनि",
+      "C": "हानिकारक Gases की उपस्थिति",
+      "D": "रोशनी"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 530,
+    "topic": "Sensors & Actuators",
+    "question": "Servo Motor की विशेषता क्या है?",
+    "options": {
+      "A": "यह Precise Angle तक घूम सकता है",
+      "B": "यह केवल Sound बनाता है",
+      "C": "यह केवल Data Store करता है",
+      "D": "यह कभी नहीं घूमता"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 531,
+    "topic": "Sensors & Actuators",
+    "question": "Relay का कार्य क्या है?",
+    "options": {
+      "A": "कम Power Signal से High Power Device को Control करना",
+      "B": "केवल Sound बनाना",
+      "C": "केवल Data Store करना",
+      "D": "केवल Photo खींचना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 532,
+    "topic": "Sensors & Actuators",
+    "question": "Sound Sensor किसे Detect करता है?",
+    "options": {
+      "A": "नमी",
+      "B": "रोशनी",
+      "C": "ध्वनि की तीव्रता",
+      "D": "तापमान"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 533,
+    "topic": "Sensors & Actuators",
+    "question": "Sensors से प्राप्त Data किस रूप में होता है?",
+    "options": {
+      "A": "केवल Image",
+      "B": "केवल Text File",
+      "C": "केवल Video",
+      "D": "Analog या Digital Signal"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 534,
+    "topic": "Sensors & Actuators",
+    "question": "LED किस प्रकार का Actuator है?",
+    "options": {
+      "A": "जो Electrical Signal को रोशनी में बदलता है",
+      "B": "जो ध्वनि Detect करता है",
+      "C": "जो तापमान Measure करता है",
+      "D": "जो दूरी Measure करता है"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 535,
+    "topic": "Sensors & Actuators",
+    "question": "Buzzer किस प्रकार का Actuator है?",
+    "options": {
+      "A": "जो तापमान Detect करता है",
+      "B": "जो रोशनी Detect करता है",
+      "C": "जो Electrical Signal को ध्वनि में बदलता है",
+      "D": "जो दूरी Detect करता है"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 536,
+    "topic": "Sensors & Actuators",
+    "question": "Pressure Sensor किसे Measure करता है?",
+    "options": {
+      "A": "रोशनी",
+      "B": "नमी",
+      "C": "दबाव (Pressure)",
+      "D": "ध्वनि"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 537,
+    "topic": "Sensors & Actuators",
+    "question": "IoT System में Sensor और Actuator का मिलकर कार्य क्या होता है?",
+    "options": {
+      "A": "केवल Print करना",
+      "B": "केवल Save करना",
+      "C": "केवल Data Delete करना",
+      "D": "Sense करना और उसके अनुसार Action लेना"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 538,
+    "topic": "Sensors & Actuators",
+    "question": "Smart Streetlight में कौन सा Sensor उपयोग होता है?",
+    "options": {
+      "A": "Light Sensor (LDR)",
+      "B": "Gas Sensor",
+      "C": "Pressure Sensor",
+      "D": "Sound Sensor"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 539,
+    "topic": "Sensors & Actuators",
+    "question": "Sensor की Accuracy का क्या महत्व है?",
+    "options": {
+      "A": "कोई महत्व नहीं",
+      "B": "Device को Slow करने के लिए",
+      "C": "सही और विश्वसनीय Data प्राप्त करने के लिए",
+      "D": "Cost बढ़ाने के लिए"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 540,
+    "topic": "Sensors & Actuators",
+    "question": "Water Level Sensor का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "तापमान मापने के लिए",
+      "B": "रोशनी मापने के लिए",
+      "C": "ध्वनि मापने के लिए",
+      "D": "पानी का स्तर मापने के लिए"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 541,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Arduino किस प्रकार का Board है?",
+    "options": {
+      "A": "Open-Source Microcontroller Board",
+      "B": "केवल एक Software",
+      "C": "केवल एक Cable",
+      "D": "केवल एक Sensor"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 542,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Arduino Program लिखने के लिए कौन सा Software उपयोग होता है?",
+    "options": {
+      "A": "Photoshop",
+      "B": "MS Word",
+      "C": "Arduino IDE",
+      "D": "Excel"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 543,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Arduino Program को क्या कहा जाता है?",
+    "options": {
+      "A": "Sheet",
+      "B": "Sketch",
+      "C": "Document",
+      "D": "Slide"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 544,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Arduino में void setup() Function कब चलता है?",
+    "options": {
+      "A": "केवल Loop के अंदर",
+      "B": "केवल एक बार शुरुआत में",
+      "C": "बार-बार लगातार",
+      "D": "कभी नहीं"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 545,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Arduino में void loop() Function कैसे चलता है?",
+    "options": {
+      "A": "बार-बार लगातार Repeat होता है",
+      "B": "केवल एक बार",
+      "C": "कभी नहीं चलता",
+      "D": "केवल Setup के पहले"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 546,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Arduino में Digital Pin को Output के रूप में Set करने के लिए कौन सा Function उपयोग होता है?",
+    "options": {
+      "A": "delay()",
+      "B": "digitalRead()",
+      "C": "pinMode()",
+      "D": "analogWrite()"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 547,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Arduino में LED जलाने के लिए कौन सा Function उपयोग होता है?",
+    "options": {
+      "A": "analogRead()",
+      "B": "digitalWrite()",
+      "C": "digitalRead()",
+      "D": "pinMode() केवल"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 548,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Arduino में delay() Function किसलिए उपयोग होता है?",
+    "options": {
+      "A": "Program बंद करने के लिए",
+      "B": "Variable बनाने के लिए",
+      "C": "निर्धारित समय के लिए रुकने हेतु (Milliseconds में)",
+      "D": "LED बंद करने के लिए हमेशा"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 549,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Arduino Uno में कितने Digital Pins होते हैं?",
+    "options": {
+      "A": "10",
+      "B": "14",
+      "C": "6",
+      "D": "20"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 550,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Arduino में Analog Input Pins किसके लिए उपयोग होते हैं?",
+    "options": {
+      "A": "Analog Sensors से Data पढ़ने के लिए",
+      "B": "केवल LED जलाने के लिए",
+      "C": "केवल Motor चलाने के लिए",
+      "D": "केवल Sound बनाने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 551,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Breadboard का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "File Save करने के लिए",
+      "B": "बिना Soldering के Circuit बनाने के लिए",
+      "C": "Program Compile करने के लिए",
+      "D": "Photo खींचने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 552,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Resistor का कार्य Circuit में क्या होता है?",
+    "options": {
+      "A": "Current के प्रवाह को नियंत्रित करना",
+      "B": "रोशनी उत्पन्न करना",
+      "C": "Data Store करना",
+      "D": "ध्वनि उत्पन्न करना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 553,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Arduino Code Upload करने से पहले किसका चयन आवश्यक है?",
+    "options": {
+      "A": "केवल Color",
+      "B": "सही Board और Port",
+      "C": "केवल Password",
+      "D": "केवल Font"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 554,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Arduino में digitalRead() Function क्या करता है?",
+    "options": {
+      "A": "LED जलाता है",
+      "B": "Motor घुमाता है",
+      "C": "Digital Pin की Value (HIGH/LOW) पढ़ता है",
+      "D": "Sound बनाता है"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 555,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Arduino में Variable घोषित करने के लिए कौन सी Language उपयोग होती है?",
+    "options": {
+      "A": "HTML",
+      "B": "C/C++ आधारित Language",
+      "C": "Python",
+      "D": "CSS"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 556,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Arduino में Serial Monitor का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "Photo खींचने के लिए",
+      "B": "Computer और Arduino के बीच Data देखने/भेजने के लिए",
+      "C": "Motor घुमाने के लिए",
+      "D": "LED जलाने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 557,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Arduino Board को Computer से जोड़ने के लिए किस Cable का उपयोग होता है?",
+    "options": {
+      "A": "HDMI Cable",
+      "B": "USB Cable",
+      "C": "Audio Cable",
+      "D": "Ethernet Cable"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 558,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Circuit में LED को सीधे बिना Resistor के जोड़ने पर क्या हो सकता है?",
+    "options": {
+      "A": "LED जल सकती है (Damage हो सकती है)",
+      "B": "LED और तेज़ चलेगी हमेशा",
+      "C": "Circuit सुरक्षित रहेगा",
+      "D": "कुछ नहीं होगा"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 559,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Arduino में analogWrite() Function का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "Digital Pin पढ़ने के लिए",
+      "B": "Program बंद करने के लिए",
+      "C": "PWM के माध्यम से Analog जैसा Output देने के लिए",
+      "D": "Serial Monitor खोलने के लिए"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 560,
+    "topic": "Arduino Programming & Circuits",
+    "question": "Arduino Project में Jumper Wires का उपयोग किसलिए होता है?",
+    "options": {
+      "A": "Photo खींचने के लिए",
+      "B": "Data Store करने के लिए",
+      "C": "Program लिखने के लिए",
+      "D": "Components को आपस में जोड़ने के लिए"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 561,
+    "topic": "IoT Security and Threats",
+    "question": "IoT Security का मुख्य उद्देश्य क्या है?",
+    "options": {
+      "A": "Devices Disconnect करना",
+      "B": "Devices और Data को अनधिकृत पहुंच से सुरक्षित रखना",
+      "C": "Internet बंद करना",
+      "D": "Data Delete करना"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 562,
+    "topic": "IoT Security and Threats",
+    "question": "IoT Devices में कमजोर Password एक बड़ा खतरा क्यों है?",
+    "options": {
+      "A": "कोई खतरा नहीं",
+      "B": "Hackers आसानी से Device Access कर सकते हैं",
+      "C": "Device तेज़ चलता है",
+      "D": "Internet Speed बढ़ती है"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 563,
+    "topic": "IoT Security and Threats",
+    "question": "Botnet Attack में क्या होता है?",
+    "options": {
+      "A": "Password अपने आप Strong हो जाते हैं",
+      "B": "कुछ नहीं होता",
+      "C": "कई IoT Devices को Hack कर एक साथ Attack के लिए उपयोग किया जाता है",
+      "D": "Devices तेज़ हो जाते हैं"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 564,
+    "topic": "IoT Security and Threats",
+    "question": "IoT Devices को सुरक्षित रखने का एक तरीका क्या है?",
+    "options": {
+      "A": "Password कभी न बदलना",
+      "B": "Default Password बदलना और Firmware Update रखना",
+      "C": "Firmware Update न करना",
+      "D": "सभी को Password बताना"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 565,
+    "topic": "IoT Security and Threats",
+    "question": "Data Encryption का उद्देश्य क्या है?",
+    "options": {
+      "A": "Data को Copy करना",
+      "B": "Data को Delete करना",
+      "C": "Data को Unauthorized Access से सुरक्षित रखना",
+      "D": "Data को Print करना"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 566,
+    "topic": "IoT Security and Threats",
+    "question": "DDoS Attack का पूरा नाम क्या है?",
+    "options": {
+      "A": "Digital Denial of Service",
+      "B": "Distributed Denial of Service",
+      "C": "Data Denial of Service",
+      "D": "Direct Denial of Service"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 567,
+    "topic": "IoT Security and Threats",
+    "question": "IoT Devices में Firmware Update क्यों जरूरी है?",
+    "options": {
+      "A": "Device बंद करने के लिए",
+      "B": "Password हटाने के लिए",
+      "C": "नई Security Fixes और सुधार प्राप्त करने के लिए",
+      "D": "Internet बंद करने के लिए"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 568,
+    "topic": "IoT Security and Threats",
+    "question": "Man-in-the-Middle Attack में क्या होता है?",
+    "options": {
+      "A": "कुछ नहीं होता",
+      "B": "Device तेज़ हो जाता है",
+      "C": "Attacker दो Devices के बीच Communication को Intercept करता है",
+      "D": "Password अपने आप बन जाता है"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 569,
+    "topic": "IoT Security and Threats",
+    "question": "IoT Network में Firewall का क्या कार्य है?",
+    "options": {
+      "A": "अनधिकृत Network Traffic को रोकना",
+      "B": "Data Delete करना",
+      "C": "Device Speed बढ़ाना",
+      "D": "Photo खींचना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 570,
+    "topic": "IoT Security and Threats",
+    "question": "IoT Privacy Concern में मुख्य चिंता क्या है?",
+    "options": {
+      "A": "व्यक्तिगत Data का दुरुपयोग",
+      "B": "Device का Size",
+      "C": "Device की Speed",
+      "D": "Device का Color"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 571,
+    "topic": "IoT Security and Threats",
+    "question": "Two-Factor Authentication IoT Devices में सुरक्षा कैसे बढ़ाता है?",
+    "options": {
+      "A": "Device बंद कर देता है",
+      "B": "कोई सुरक्षा नहीं देता",
+      "C": "Access के लिए दो तरह के Verification की जरूरत होती है",
+      "D": "Password की जरूरत खत्म कर देता है"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 572,
+    "topic": "IoT Security and Threats",
+    "question": "IoT Devices पर Malware Attack का क्या परिणाम हो सकता है?",
+    "options": {
+      "A": "कोई परिणाम नहीं",
+      "B": "Internet Speed बढ़ेगी",
+      "C": "Device और तेज़ चलेगा",
+      "D": "Device का गलत उपयोग या Data Chori"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 573,
+    "topic": "IoT Security and Threats",
+    "question": "Secure Network (जैसे VPN) का उपयोग IoT में क्यों किया जाता है?",
+    "options": {
+      "A": "Data Transmission को सुरक्षित बनाने के लिए",
+      "B": "Device Delete करने के लिए",
+      "C": "Password हटाने के लिए",
+      "D": "Internet बंद करने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 574,
+    "topic": "IoT Security and Threats",
+    "question": "IoT Devices में Unused Ports/Services को बंद रखना क्यों जरूरी है?",
+    "options": {
+      "A": "Battery बचाने के लिए",
+      "B": "कोई कारण नहीं",
+      "C": "Attack Surface कम करने के लिए",
+      "D": "Device तेज़ करने के लिए"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 575,
+    "topic": "IoT Security and Threats",
+    "question": "Ransomware Attack IoT Devices में क्या करता है?",
+    "options": {
+      "A": "Device तेज़ करता है",
+      "B": "Data/System को Lock कर पैसों की मांग करता है",
+      "C": "Password Strong बनाता है",
+      "D": "कुछ नहीं करता"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 576,
+    "topic": "IoT Security and Threats",
+    "question": "IoT Security के लिए Regular Monitoring क्यों जरूरी है?",
+    "options": {
+      "A": "Internet बंद करने के लिए",
+      "B": "असामान्य गतिविधि जल्दी पहचानने के लिए",
+      "C": "कोई जरूरत नहीं",
+      "D": "Device बंद रखने के लिए"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 577,
+    "topic": "IoT Security and Threats",
+    "question": "Spoofing Attack में Attacker क्या करता है?",
+    "options": {
+      "A": "Data Backup लेता है",
+      "B": "अपनी पहचान छिपाकर Genuine Device/User जैसा दिखता है",
+      "C": "Password बनाता है",
+      "D": "Device Repair करता है"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 578,
+    "topic": "IoT Security and Threats",
+    "question": "IoT Device खरीदते समय Security के लिहाज से क्या देखना चाहिए?",
+    "options": {
+      "A": "Manufacturer की Security Update Policy",
+      "B": "केवल Price",
+      "C": "केवल Color",
+      "D": "केवल Design"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 579,
+    "topic": "IoT Security and Threats",
+    "question": "Zero-Day Vulnerability किसे कहते हैं?",
+    "options": {
+      "A": "एक पुरानी और ठीक की गई Bug",
+      "B": "एक Feature",
+      "C": "एक नई खोजी गई Security कमजोरी जिसके लिए Fix अभी उपलब्ध नहीं",
+      "D": "एक Hardware Part"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 580,
+    "topic": "IoT Security and Threats",
+    "question": "IoT Data की Privacy सुरक्षित रखने का एक उपाय क्या है?",
+    "options": {
+      "A": "Data कभी Delete न करना",
+      "B": "केवल आवश्यक Data ही Collect और Share करना",
+      "C": "Password सबको बताना",
+      "D": "सारा Data सबके साथ Share करना"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 581,
+    "topic": "Soft Skills Development",
+    "question": "Soft Skills किसे कहते हैं?",
+    "options": {
+      "A": "केवल Typing Speed",
+      "B": "केवल Technical Skills",
+      "C": "केवल Computer Skills",
+      "D": "Communication, Teamwork जैसे व्यक्तिगत गुण"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 582,
+    "topic": "Soft Skills Development",
+    "question": "Communication Skills का क्या महत्व है?",
+    "options": {
+      "A": "कोई महत्व नहीं",
+      "B": "केवल Written Work में उपयोगी",
+      "C": "विचारों को स्पष्ट रूप से व्यक्त करने में मदद करता है",
+      "D": "केवल Exam में उपयोगी"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 583,
+    "topic": "Soft Skills Development",
+    "question": "Teamwork किसे कहते हैं?",
+    "options": {
+      "A": "केवल आदेश देना",
+      "B": "कार्य न करना",
+      "C": "एक साथ मिलकर किसी लक्ष्य पर कार्य करना",
+      "D": "अकेले कार्य करना"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 584,
+    "topic": "Soft Skills Development",
+    "question": "Time Management का क्या लाभ है?",
+    "options": {
+      "A": "कोई लाभ नहीं",
+      "B": "कार्य अधूरा रहता है",
+      "C": "समय बर्बाद होता है",
+      "D": "कार्य समय पर और व्यवस्थित तरीके से पूरा होता है"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 585,
+    "topic": "Soft Skills Development",
+    "question": "Problem-Solving Skill किसलिए महत्वपूर्ण है?",
+    "options": {
+      "A": "समस्याएं बढ़ाने के लिए",
+      "B": "कोई महत्व नहीं",
+      "C": "कार्य रोकने के लिए",
+      "D": "कठिनाइयों का समाधान खोजने के लिए"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 586,
+    "topic": "Soft Skills Development",
+    "question": "Leadership Quality में क्या शामिल होता है?",
+    "options": {
+      "A": "केवल आदेश देना",
+      "B": "अकेले निर्णय न लेना",
+      "C": "कार्य से बचना",
+      "D": "टीम को सही दिशा में मार्गदर्शन करना"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 587,
+    "topic": "Soft Skills Development",
+    "question": "Interpersonal Skills किससे संबंधित हैं?",
+    "options": {
+      "A": "दूसरों के साथ प्रभावी ढंग से बातचीत करने से",
+      "B": "केवल Coding से",
+      "C": "केवल Technical Knowledge से",
+      "D": "केवल Typing से"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 588,
+    "topic": "Soft Skills Development",
+    "question": "Positive Attitude का कार्यस्थल पर क्या प्रभाव पड़ता है?",
+    "options": {
+      "A": "कार्य वातावरण बेहतर और उत्पादक बनता है",
+      "B": "कार्य वातावरण खराब होता है",
+      "C": "कार्य रुक जाता है",
+      "D": "कोई प्रभाव नहीं"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 589,
+    "topic": "Soft Skills Development",
+    "question": "Active Listening किसे कहते हैं?",
+    "options": {
+      "A": "पूरी तरह ध्यान देकर सुनना और समझना",
+      "B": "बिना ध्यान दिए सुनना",
+      "C": "बीच में बोलना",
+      "D": "सुनना ही नहीं"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 590,
+    "topic": "Soft Skills Development",
+    "question": "Self-Confidence का क्या महत्व है?",
+    "options": {
+      "A": "यह Negative Effect डालता है",
+      "B": "यह कार्य रोकता है",
+      "C": "कोई महत्व नहीं",
+      "D": "अपनी क्षमताओं पर विश्वास से बेहतर प्रदर्शन होता है"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 591,
+    "topic": "Soft Skills Development",
+    "question": "Adaptability Skill किसलिए जरूरी है?",
+    "options": {
+      "A": "कार्य रोकने के लिए",
+      "B": "बदलती परिस्थितियों में स्वयं को ढालने के लिए",
+      "C": "परिवर्तन से बचने के लिए",
+      "D": "कोई जरूरत नहीं"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 592,
+    "topic": "Soft Skills Development",
+    "question": "Conflict Resolution Skill का उद्देश्य क्या है?",
+    "options": {
+      "A": "मतभेदों को सही तरीके से सुलझाना",
+      "B": "कोई उद्देश्य नहीं",
+      "C": "बातचीत बंद करना",
+      "D": "झगड़े बढ़ाना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 593,
+    "topic": "Soft Skills Development",
+    "question": "Presentation Skills किसमें मदद करती हैं?",
+    "options": {
+      "A": "विचारों को प्रभावी ढंग से दूसरों के सामने रखने में",
+      "B": "केवल Typing में",
+      "C": "केवल Coding में",
+      "D": "केवल Drawing में"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 594,
+    "topic": "Soft Skills Development",
+    "question": "Emotional Intelligence किससे संबंधित है?",
+    "options": {
+      "A": "केवल Money से",
+      "B": "अपनी और दूसरों की भावनाओं को समझने से",
+      "C": "केवल Technical Knowledge से",
+      "D": "केवल Physical Strength से"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 595,
+    "topic": "Soft Skills Development",
+    "question": "Workplace Etiquette किसे कहते हैं?",
+    "options": {
+      "A": "असभ्य भाषा",
+      "B": "मनमाना व्यवहार",
+      "C": "कार्यस्थल पर उचित व्यवहार और शिष्टाचार",
+      "D": "कोई नियम न मानना"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 596,
+    "topic": "Soft Skills Development",
+    "question": "Goal Setting का क्या महत्व है?",
+    "options": {
+      "A": "स्पष्ट लक्ष्य से दिशा और प्रेरणा मिलती है",
+      "B": "यह भ्रमित करता है",
+      "C": "कोई महत्व नहीं",
+      "D": "लक्ष्य बनाना समय की बर्बादी है"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 597,
+    "topic": "Soft Skills Development",
+    "question": "Networking Skill (व्यावसायिक संबंध) का क्या लाभ है?",
+    "options": {
+      "A": "यह समय बर्बाद करता है",
+      "B": "कोई लाभ नहीं",
+      "C": "नए अवसर और संबंध बनाने में मदद मिलती है",
+      "D": "यह संबंध खराब करता है"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 598,
+    "topic": "Soft Skills Development",
+    "question": "Stress Management क्यों जरूरी है?",
+    "options": {
+      "A": "तनाव को नियंत्रित कर बेहतर कार्यक्षमता बनाए रखने के लिए",
+      "B": "कोई जरूरत नहीं",
+      "C": "तनाव बढ़ाने के लिए",
+      "D": "कार्य रोकने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 599,
+    "topic": "Soft Skills Development",
+    "question": "Critical Thinking Skill किसमें मदद करती है?",
+    "options": {
+      "A": "कोई मदद नहीं",
+      "B": "बिना सोचे निर्णय लेने में",
+      "C": "निर्णय टालने में",
+      "D": "तथ्यों का विश्लेषण कर सही निर्णय लेने में"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 600,
+    "topic": "Soft Skills Development",
+    "question": "Body Language का Communication में क्या महत्व है?",
+    "options": {
+      "A": "कोई महत्व नहीं",
+      "B": "यह शब्दों के साथ भावनाएं और आत्मविश्वास दर्शाती है",
+      "C": "यह Communication को कमजोर करती है",
+      "D": "इसका उपयोग नहीं करना चाहिए"
+    },
+    "answer": "B"
+  }
 ]
+    
