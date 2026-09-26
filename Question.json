@@ -1355,5 +1355,2206 @@
     },
     "answer": "B"
   }
+[
+  {
+    "id": 1,
+    "question": "fuEu esa ls proprietary software dkSu lk gS\\",
+    "options": {
+      "A": "AutoCAD",
+      "B": "Adobe Photoshop",
+      "C": "CorelDRAW",
+      "D": "All of the above."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 2,
+    "question": "LibreOffice esa PowerPoint dks fdl uke ls tkuk tkrk gS\\",
+    "options": {
+      "A": "Impress",
+      "B": "Draw",
+      "C": "Calc",
+      "D": "Writer"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 3,
+    "question": "fuEu esa ls RAM, CPU, ROM vkSj Expansion card dks ___ j[krk gS\\",
+    "options": {
+      "A": "Hard Disk",
+      "B": "Floppy Disk",
+      "C": "Mother Board",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 4,
+    "question": "fuEufyf[kr esa ls dkSu lh memory data ds fy, backup storage provide djrh gS\\",
+    "options": {
+      "A": "Internal processor memory",
+      "B": "Primary memory",
+      "C": "Secondary memory",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 5,
+    "question": "Operating system fdl rjg dk software gS\\",
+    "options": {
+      "A": "Active software",
+      "B": "System software",
+      "C": "Application software",
+      "D": "Interactive software"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "CD-ROM ___ ?",
+    "options": {
+      "A": "Temporary memory",
+      "B": "Permanent memory",
+      "C": "Magnetic memory",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Information retrieval ¼lwpuk iquizkZfIr½ lcls fast gS\\",
+    "options": {
+      "A": "Hard Disk",
+      "B": "CD",
+      "C": "SSD",
+      "D": "All of the above."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 8,
+    "question": "Internet ij fd, tkus okys dk;Z dks ___ dgk tkrk gS\\",
+    "options": {
+      "A": "Surfing",
+      "B": "Gambling",
+      "C": "Both (a) and (b)",
+      "D": "None of these."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 9,
+    "question": "RAM dk vFkZ gS ___\\",
+    "options": {
+      "A": "Random access memory",
+      "B": "Read only memory",
+      "C": "Read access memory",
+      "D": "Random also memory"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 10,
+    "question": "fuEUfyf[kr esa ls dkSu real security vkSj privacy threats ¼xksiuh;rk [krjksa½ dk example gS\\",
+    "options": {
+      "A": "Virus",
+      "B": "Hackers",
+      "C": "Worm",
+      "D": "Spam"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 11,
+    "question": "fuEu esa ls dkSu lk ,d secondary memory device gS\\",
+    "options": {
+      "A": "CD ROM",
+      "B": "RAM",
+      "C": "Both (a) and (b)",
+      "D": "None of these."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 12,
+    "question": "Network ds ___ dks csgrj cukus ds fy, password dk use fd;k tkrk gS\\",
+    "options": {
+      "A": "Reliability",
+      "B": "Security",
+      "C": "Performance",
+      "D": "Longevity"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 13,
+    "question": "Computer dks le>us vkSj execute djus okyh language dks ___ dgk tkrk gS\\",
+    "options": {
+      "A": "Machine language",
+      "B": "High level language",
+      "C": "Both (a) and (b)",
+      "D": "None of these."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 14,
+    "question": "fuEufyf[kr esa ls dkSu ,d anti-virus program gS\\",
+    "options": {
+      "A": "K7",
+      "B": "Quick heal",
+      "C": "Norton",
+      "D": "All of the above."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 15,
+    "question": "fuEufyf[kr esa ls dkSu input device ugh gS\\",
+    "options": {
+      "A": "Microphone",
+      "B": "Mouse",
+      "C": "Scanner",
+      "D": "None of these."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 16,
+    "question": "Firewall ,d izdkj dk gS ___ \\",
+    "options": {
+      "A": "Security threat",
+      "B": "Worm",
+      "C": "Virus",
+      "D": "None of these."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 17,
+    "question": ",d E-mail ID esa D;k gksrk gS\\",
+    "options": {
+      "A": "Letters, numbers",
+      "B": "Letter, number, @",
+      "C": "Username",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 18,
+    "question": "Secure Electronic Transaction protocol dk mi;ksx fd;k tkrk gS\\",
+    "options": {
+      "A": "Credit card payment",
+      "B": "Payment of small amounts for internet services",
+      "C": "Electronic cash payment",
+      "D": "Cheque payment"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 19,
+    "question": "Crypto currency is a ___ ?",
+    "options": {
+      "A": "Plastic money",
+      "B": "Digital payment",
+      "C": "Digital medium of exchange",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 20,
+    "question": "buesa ls dkSu lk E-mail medium ugh gS\\",
+    "options": {
+      "A": "Extranet",
+      "B": "Internet",
+      "C": "Paper",
+      "D": "Internet"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 21,
+    "question": "Operating system ‘kCn dk vFkZ gS\\",
+    "options": {
+      "A": "Program dk ,d set tks Computer ds work dks control djrk gSA",
+      "B": "ftl rjg ls Computer operator work djrk gSA",
+      "C": "High level language dk Machine level language esa conversion.",
+      "D": "Floppy disk drive ftl rjg ls operate gksrh gSA"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 22,
+    "question": "Instagram fdlls related gS\\",
+    "options": {
+      "A": "Facebook",
+      "B": "Microsoft",
+      "C": "Google",
+      "D": "YouTube"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 23,
+    "question": "IMAP Protocol dk mi;ksx fraud mailers }kjk fdl purpose ds fy, fd;k tkrk gS\\",
+    "options": {
+      "A": "Send spam",
+      "B": "Send fake mails",
+      "C": "Hack e-mail",
+      "D": "All of the above."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 24,
+    "question": "Computer dk operating system users vkSj ___ ds chp ,d software interface ds :i esa dk;Z djrk gS",
+    "options": {
+      "A": "Memory",
+      "B": "Peripheral",
+      "C": "Hardware",
+      "D": "Screen"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 25,
+    "question": "Default :i ls windows 10 vius vki battery sever feature dks pkyw dj nsrk gS tc Laptop dk battery charge uhps fxjrk gS\\",
+    "options": {
+      "A": "15 %",
+      "B": "20 %",
+      "C": "5 %",
+      "D": "10 %"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 26,
+    "question": "Screen background vkSj window dk main area gS tgka vki program open and restrict ¼izfrcaf/kr½ dj ldrs gSa\\",
+    "options": {
+      "A": "Windows settings",
+      "B": "Desktop",
+      "C": "Application window",
+      "D": "All application"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 27,
+    "question": ",d application dks desktop ij shortcut ds tfj, open fd;k tk ldrk gS\\",
+    "options": {
+      "A": "blds shortcut ij double click djsa",
+      "B": "Open option ij right click djsa vkSj select djsa",
+      "C": "Icon dks select djsa vkSj Enter key ncka,",
+      "D": "All of the above."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 28,
+    "question": "LibreOffice esa Power Point dks fdl uke ls tkuk tkrk gS\\",
+    "options": {
+      "A": "Writer",
+      "B": "Calc",
+      "C": "Impress",
+      "D": "Draw"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 29,
+    "question": "Printer and Scanner option esa ,d u;k printer dgk¡ add fd;k tk ldrk gS\\",
+    "options": {
+      "A": "Control Panel",
+      "B": "File Manager",
+      "C": "Dynamic data exchange",
+      "D": "None of these."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 30,
+    "question": "GUI dk mi;ksx ___ interface ds chp fd;k tkrk gS\\",
+    "options": {
+      "A": "Hardware and Software",
+      "B": "Human and Machine",
+      "C": "Software and Users",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 31,
+    "question": "Start menu ls vki ___ access dj ldrs gSa\\",
+    "options": {
+      "A": "Lock your computer",
+      "B": "Search for Applications, Settings and Files",
+      "C": "Turn off your computer",
+      "D": "All of the above."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 32,
+    "question": "vki file explorer esa viuh files and folders dk mi;ksx djds navigate dj ldrs gSa\\",
+    "options": {
+      "A": "Address bar",
+      "B": "Forward and backward button",
+      "C": "Search function",
+      "D": "All of the above."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 33,
+    "question": "Windows 10 esa ‘Sleep’ dk D;k vFkZ gS\\",
+    "options": {
+      "A": "Computer dks safe mode esa restart djsaA",
+      "B": "Computer dks sleep mode esa restart djsaA",
+      "C": "lHkh running applications dks end djrs gq, Computer dks off djsaA",
+      "D": "py jgs application dks can fd, fcuk Computer dks shutdown djsaA"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 34,
+    "question": "Operating system dk dk;Z D;k gS\\",
+    "options": {
+      "A": "Computer ds lalk/kuksa (resources) dks cgqr dq’kyrk ls izfrcaf/kr (restricted) djrk gSA",
+      "B": "Execution ds fy, Scheduling Job dh ns[kHkky djrk gSA",
+      "C": "Data and instructions ds flow dk management djrk gSA",
+      "D": "All of the above."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 35,
+    "question": "MS-Word esa gutter margin D;k gS\\",
+    "options": {
+      "A": "Margin tks print djrs le; left margin esa add fd;k tkrk gSA",
+      "B": "Margin tks print djrs le; page margin ds binding side esa add fd;k tkrk gSA",
+      "C": "Margin tks print djrs le; right margin esa add fd;k tkrk gSA",
+      "D": "Margin tks print djrs le; page ds outside esa add fd;k tkrk gSA"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 36,
+    "question": "fuEufyf[kr esa ls dkSu lcls rst] lcls cM+s vkSj lcls egaxs Computer dks lanfHkZr djrk gS\\",
+    "options": {
+      "A": "Super Computer",
+      "B": "Personal Computer",
+      "C": "Laptop",
+      "D": "Notebook"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 37,
+    "question": "tc ms-word load gks tkrk gS] rks opening screen ij ,d document fn[kkbZ nsrk gS ftldk uke gS\\",
+    "options": {
+      "A": "Document1",
+      "B": "Document",
+      "C": "Doc1",
+      "D": "None of these."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 38,
+    "question": "Ms-word dqN method provide djrk gS ftuds }kjk vki ,d document esa ?kwe ldrs gSa\\",
+    "options": {
+      "A": "Scroll djds",
+      "B": "fdlh particular page ij tkdj",
+      "C": "Both (a) and (b)",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 39,
+    "question": "Ms-word esa right aliment dh shortcut key D;k gS\\",
+    "options": {
+      "A": "Ctrl+E",
+      "B": "Ctrl+L",
+      "C": "Ctrl+R",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 40,
+    "question": ";fn vkidk document 200 ls vf/kd zoom gS] rks text area esa fdrus scroll bar fn[kkbZ nsrs gSa\\",
+    "options": {
+      "A": "4",
+      "B": "2",
+      "C": "1",
+      "D": "3"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 41,
+    "question": "Ms-word esa Chart insert djus ds fy, vki fdl Tab dk mi;ksx djsaxs\\",
+    "options": {
+      "A": "View",
+      "B": "References",
+      "C": "Insert",
+      "D": "Page layout"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 42,
+    "question": "Ms-word esa Page margin dks cnyus ds fy, vki fdl Tab dk mi;ksx djsaxs\\",
+    "options": {
+      "A": "Page layout",
+      "B": "View",
+      "C": "Insert",
+      "D": "Home"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 43,
+    "question": "dkSu lk Tab Different izdkj ds Font fn[kkrk gS tks mi;ksx ds fy, available gS\\",
+    "options": {
+      "A": "View",
+      "B": "Page layout",
+      "C": "References",
+      "D": "Home"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 44,
+    "question": "Print gksus ij Document dks ns[kus ds fy, vki fdl page view dk mi;ksx dj ldrs gSa\\",
+    "options": {
+      "A": "Outline view",
+      "B": "Draft view",
+      "C": "Read mode",
+      "D": "Print layout"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 45,
+    "question": "Ms-word 2013 esa fuEufyf[kr esa ls dkSu lk feature ugh gS\\",
+    "options": {
+      "A": "Ribbon",
+      "B": "Button",
+      "C": "Chart",
+      "D": "Drop down menu"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 46,
+    "question": "Top ij fLFkr NksVs Toolbar dk uke D;k gS tks save disk option fn[krk gS\\",
+    "options": {
+      "A": "My document",
+      "B": "Quick access",
+      "C": "Title bar",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 47,
+    "question": "Insert ribbon command dkSu lh ugh gS\\",
+    "options": {
+      "A": "Shape",
+      "B": "Clip art",
+      "C": "Page number",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 48,
+    "question": "Cell esa data enter djus ds fy, fuEufyf[kr esa ls fdl method dk mi;ksx ugh fd;k tk ldrk gS\\",
+    "options": {
+      "A": "Press the arrow key",
+      "B": "Press the tab key",
+      "C": "Press the Esc key",
+      "D": "Click on formula bar"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 49,
+    "question": "Excel file dk extension gS ___\\",
+    "options": {
+      "A": ".TMT",
+      "B": ".XXL",
+      "C": ".xlsx",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 50,
+    "question": "Excel window esa dkSu lk area value vkSj formula enter djus dh vuqefr nsrk gS\\",
+    "options": {
+      "A": "Home tab",
+      "B": "Format tab",
+      "C": "Formula bar",
+      "D": "Design tab"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 51,
+    "question": "Excel esa fuEufyf[kr esa ls dkSu lk valid data type ugh gS\\",
+    "options": {
+      "A": "Number",
+      "B": "Character",
+      "C": "Date and time",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 52,
+    "question": "Cell reference B2:B9 dks absolute row vkSj column reference esa replace djus ds fy, fuEufyf[kr esa ls dkSu lk lgh gS\\",
+    "options": {
+      "A": "B2:B9",
+      "B": "$B$2:$B$9",
+      "C": "B$2:B$9",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 53,
+    "question": "vki daily basis ij share market dh progress dks track djuk pkgrs gSa] mlds fy, vkidks fdl izdkj ds chart dk mi;ksx djuk pkfg,\\",
+    "options": {
+      "A": "Pie chart",
+      "B": "Line chart",
+      "C": "Column chart",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 54,
+    "question": "fuEufyf[kr esa ls dkSu ,d financial work ugh gS\\",
+    "options": {
+      "A": "IPMT()",
+      "B": "SUM()",
+      "C": "NPV()",
+      "D": "PMT()"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 55,
+    "question": "vki drag and drop method dk mi;ksx dj ldrs gSa ___ \\",
+    "options": {
+      "A": "Cell content dh copy cukus esa",
+      "B": "Cell content move djus esa",
+      "C": "Cell content tksM+us esa",
+      "D": "Both (a) and (b)"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 56,
+    "question": "izR;sd workbook ds bottom esa fn[kkbZ nsus okys tab dks D;k dgk tkrk gS\\",
+    "options": {
+      "A": "Location tab",
+      "B": "Sheet tab",
+      "C": "References tab",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 57,
+    "question": "tc ,d formatted number ,d cell ds Hkhrj fit ugh gksrh gS] rks ;g display gksrk gS\\",
+    "options": {
+      "A": "#####",
+      "B": "#DIV@",
+      "C": "#DIV/0",
+      "D": "None of these."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 58,
+    "question": "Excel esa SUM() function ds laca/k esa fuEufyf[kr esa ls dkSu lk syntax lgh gS\\",
+    "options": {
+      "A": "=SUM(A1,B1)",
+      "B": "=SUM(A1:B9)",
+      "C": "=SUM(A1:A9,B1:B9)",
+      "D": "All of the above."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 59,
+    "question": ",d worksheet esa dbZ cells dk selection djus ds fy, vki hold djrs le; cells ij click djsaxs ___\\",
+    "options": {
+      "A": "Alt key",
+      "B": "Ctrl+Shift key",
+      "C": "Shift key",
+      "D": "Ctrl key"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 60,
+    "question": "New slide insert djus ds fy, fuEu esa ls fdl shortcut dk mi;ksx fd;k tkrk gS\\",
+    "options": {
+      "A": "Ctrl+M",
+      "B": "Ctrl+N",
+      "C": "Ctrl+O",
+      "D": "None of these."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 61,
+    "question": "Default :i ls power point document dk extension D;k gksrk gS\\",
+    "options": {
+      "A": ".EXT",
+      "B": ".COM",
+      "C": ".ppt",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 62,
+    "question": "Handout master esa footer area fn[kkbZ nsrk gS ___ \\",
+    "options": {
+      "A": "Top of page",
+      "B": "Bottom of page",
+      "C": "Center of page",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 63,
+    "question": "vki ___ }kjk slide show ds nkSjku shortcut menu fn[kk ldrs gSa\\",
+    "options": {
+      "A": "Ribbon ij shortcut button ij click djds",
+      "B": "Present slide ij right-click djds",
+      "C": "Present slide ij ,d icon ij click djds",
+      "D": "Both (a) and (b)"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 64,
+    "question": "fuEufyf[kr esa ls dkSu vkidks ,d presentation esa ls ,d ls vf/kd slide dk selection djus dh permission nsrk gS\\",
+    "options": {
+      "A": "Alt key ds lkFk esa izR;sd slide ij click djsa",
+      "B": "izR;sd slide dks shift key ds lkFk esa drag djsa",
+      "C": "izR;sd slide ij shift ds lkFk esa click djsa",
+      "D": "izR;sd slide ij click djsa"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 65,
+    "question": "vius handout esa header ;k footer dks add djus ds fy, vki mi;ksx dj ldrs gS\\",
+    "options": {
+      "A": "Header / Footer",
+      "B": "Page number",
+      "C": "Comments",
+      "D": "None of these."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 66,
+    "question": "NIC D;k gS\\",
+    "options": {
+      "A": "Network interface card",
+      "B": "Network information card",
+      "C": "Network interface computer",
+      "D": "Network information computer"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 67,
+    "question": "Internet ds mi;ksx D;k gS\\",
+    "options": {
+      "A": "Communication",
+      "B": "Information retrieval",
+      "C": "Presentation of information",
+      "D": "All of the above."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 68,
+    "question": "fuEufyf[kr esa ls dkSu ,d internet browser ugh gS\\",
+    "options": {
+      "A": "Netscape navigator",
+      "B": "Edge",
+      "C": "Drupal",
+      "D": "Opera"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 69,
+    "question": "IMEI D;k gS\\",
+    "options": {
+      "A": "Mobile equipment international identity",
+      "B": "International mobile equipment identity",
+      "C": "International law instrument identity",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 70,
+    "question": "Browsing web ds fy, cable dk mi;ksx djus ds fy, vkidks ___ vko’;drk gksxh\\",
+    "options": {
+      "A": "A cable modem",
+      "B": "Network interface card",
+      "C": "Both (a) and (b)",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 71,
+    "question": "Broadband connection ds fy, minimum bandwidth dh vko’;drk gS\\",
+    "options": {
+      "A": "128 kbps",
+      "B": "256 kbps",
+      "C": "512 kbps",
+      "D": "None of thse."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 72,
+    "question": "Webpage dks specific :i ls igpkuk tkrk gS\\",
+    "options": {
+      "A": "IP Address",
+      "B": "Domain",
+      "C": "URL",
+      "D": "Name of file"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 73,
+    "question": "fuEufyf[kr esa ls dkSu lk networking solution fdlh building esa networking ds fy, mi;qDr gS\\",
+    "options": {
+      "A": "WAN",
+      "B": "MAN",
+      "C": "LAN",
+      "D": "All of the above."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 74,
+    "question": "Internet protocol dsoy igpkurk gS\\",
+    "options": {
+      "A": "IP Address",
+      "B": "Home Address",
+      "C": "Doc Address",
+      "D": "None of these."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 75,
+    "question": "fuEufyf[kr esa ls dkSu lk symbol e-mail address ds nks Hkkxksa dks vyx djrk gS\\",
+    "options": {
+      "A": "#",
+      "B": "&",
+      "C": "@",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 76,
+    "question": "vius inbox ls dksbZ message delete djus ls igys vkidks D;k djus dh vko’;drk gS\\",
+    "options": {
+      "A": "Delete the message",
+      "B": "Select the message",
+      "C": "Message dks Deselect djsa",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 77,
+    "question": "tc users dks e-mail download djuk gks rks mail access client ___ ls ‘kq: gksrk gS\\",
+    "options": {
+      "A": "Mail box",
+      "B": "Doc server",
+      "C": "Mail host",
+      "D": "Internet"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 78,
+    "question": "Digital India igy ds rgr online registration system developed gqvk Fkk\\",
+    "options": {
+      "A": "National information center",
+      "B": "Nationalism information center",
+      "C": "National Informatics Centre",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 79,
+    "question": "fuEufyf[kr esa ls dkSu ,d Social Networking Site ugh gS\\",
+    "options": {
+      "A": "Facebook",
+      "B": "LinkedIn",
+      "C": "Twitter",
+      "D": "Epic"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 80,
+    "question": "Umang App ij dkSu lh Services Available gSa\\",
+    "options": {
+      "A": "Employees Provident Fund Organization (EPFO)",
+      "B": "Pension Portal",
+      "C": "Both (a) and (b)",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 81,
+    "question": "Twitter is a example of ___ ?",
+    "options": {
+      "A": "Web URL",
+      "B": "Social networking",
+      "C": "E-mail system",
+      "D": "System application"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 82,
+    "question": "tc slide ls text box object dks delete dj fn;k tkrk gS rks ___\\",
+    "options": {
+      "A": "Object delete gks tkrk gS] ysfdu slide ij ,d text box vkSj text delete ugh gksrk gSA",
+      "B": "Text box vkSj text nksuksa delete gks tkrs gSaA",
+      "C": "Text box delete gks tkrk gS] vkSj text slide ij paste gks tkrk gSA",
+      "D": "Text delete gks tkrk gS] vkSj text box slide ij paste gks tkrk gSA"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 83,
+    "question": "Size of IPV4 is ___ ?",
+    "options": {
+      "A": "62",
+      "B": "48",
+      "C": "128",
+      "D": "32"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 84,
+    "question": "Website ds main page dks dgk tkrk gS ___ ?",
+    "options": {
+      "A": "Bookmark",
+      "B": "Index page",
+      "C": "Home page",
+      "D": "Main page"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 85,
+    "question": "fuEu esa ls dkSu lk file extensions paint esa cukbZ xbZ file dks indicate djrk gS\\",
+    "options": {
+      "A": ".ppt",
+      "B": ".xlsx",
+      "C": ".doc",
+      "D": ".bmp"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 86,
+    "question": "fuEufyf[kr esa ls dkSu ,d search engine ugh gS\\",
+    "options": {
+      "A": "Windows",
+      "B": "Google",
+      "C": "Bing",
+      "D": "Yahoo"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 87,
+    "question": "OTP Stands for ___ ?",
+    "options": {
+      "A": "On time password",
+      "B": "One time password",
+      "C": "Other time password",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 88,
+    "question": "fuEufyf[kr esa ls fdlds ikl digital :i ls money transfer dh Minimum dksbZ lhek ugh gS\\",
+    "options": {
+      "A": "RTGS",
+      "B": "Cheque",
+      "C": "NEFT",
+      "D": "IMPS"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 89,
+    "question": "CC in E-mail stands for ___ ?",
+    "options": {
+      "A": "Carbon coupon",
+      "B": "Consider copy",
+      "C": "Carbon copy",
+      "D": "Carbon catch"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 90,
+    "question": "dkSu lk option gesa ,d gh letter dks vyx&vyx yksxksa dks send djus esa help djrk gS\\",
+    "options": {
+      "A": "Templet",
+      "B": "Multiple letter",
+      "C": "Macros",
+      "D": "Mail merge"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 91,
+    "question": "Office dk use djrs le; help ysus ds fy,] vki click djsaxs ___ \\",
+    "options": {
+      "A": "F4 key",
+      "B": "F1 key",
+      "C": "F3 key",
+      "D": "F2 key"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 92,
+    "question": "Cell address dks absolute cukus ds fy, bLrseky fd;k tkus okyk symbol\\",
+    "options": {
+      "A": "!",
+      "B": "#",
+      "C": "$",
+      "D": "@"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 93,
+    "question": "Size of IPV6 is ___ ?",
+    "options": {
+      "A": "128",
+      "B": "62",
+      "C": "48",
+      "D": "32"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 94,
+    "question": "Telecommunication }kjk Computer, storage messages dk vknku&iznku djrk gS\\",
+    "options": {
+      "A": "E-web",
+      "B": "E-mail",
+      "C": "E-net",
+      "D": "E-chart"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 95,
+    "question": "USSD stands for ___ ?",
+    "options": {
+      "A": "Unstructured Supplementary Service Data",
+      "B": "Untransmitted Supply Service Data",
+      "C": "Untransmitted Supplemental Service Data",
+      "D": "None of these."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 96,
+    "question": "Presentation esa slides dks introduce djus ds fy, bLrseky fd, tkus okys special effects dks bl izdkj tkuk tkrk gS ___ \\",
+    "options": {
+      "A": "Custom animation",
+      "B": "Annotations",
+      "C": "Effects",
+      "D": "Transitions"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 97,
+    "question": "“Passport Seva” website is ___ ?",
+    "options": {
+      "A": "www.e-passportindia.gov.",
+      "B": "www.passportindia.gov.in.",
+      "C": "www.pasportindia.edu.",
+      "D": "www.pasportindia.com."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 98,
+    "question": "Spreadsheet ls ge D;k ugh dj ldrs gSa\\",
+    "options": {
+      "A": "Create a charts",
+      "B": "Create a graphs",
+      "C": "Calculations",
+      "D": "Create Graphics"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 99,
+    "question": "vki word dictionary esa available ugh gksus okys words dks blesa add dj ldrs gSa\\",
+    "options": {
+      "A": "Live dictionary",
+      "B": "Custom dictionary",
+      "C": "User dictionary",
+      "D": "My dictionary"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 100,
+    "question": "1 kilobyte ___ cjkcj gksrk gS\\",
+    "options": {
+      "A": "202400 bytes",
+      "B": "1043876 bytes",
+      "C": "1048 bytes",
+      "D": "1024 bytes"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 101,
+    "question": "UPI Stands for ___ ?",
+    "options": {
+      "A": "Unified Payment Interface.",
+      "B": "Union Paid Interface.",
+      "C": "Both (a) and (b)",
+      "D": "None of these."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 102,
+    "question": "Portrait dk mi;ksx page orientation dks lanfHkZr djus ds fy, fd;k tkrk gS\\",
+    "options": {
+      "A": "Flip",
+      "B": "Reverse",
+      "C": "Horizontal",
+      "D": "Vertical"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 103,
+    "question": "UPI is a payment service ___ ?",
+    "options": {
+      "A": "Offline",
+      "B": "Online",
+      "C": "Both (a) and (b)",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 104,
+    "question": "UPI fdlds }kjk ‘kq: fd;k x;k Fkk\\",
+    "options": {
+      "A": "Urjit patel",
+      "B": "R – Gandhi",
+      "C": "Raghuram rajan",
+      "D": "Narendra modi"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 105,
+    "question": "UMANG is integrated with ___ ?",
+    "options": {
+      "A": "DigiLocker only",
+      "B": "Aadhaar only",
+      "C": "Aadhaar and DigiLocker",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 106,
+    "question": "National Electronic Funds Transfer (NEFT) System ds ckjs esa fuEufyf[kr esa ls dkSu lk xyr gS\\",
+    "options": {
+      "A": "NEFT ds ek/;e ls ysu&nsu dh dksbZ limit ugh gSA",
+      "B": "NEFT per hour ¼izfr ?kaVk½ ds base ij lapkfyr gksrk gSA",
+      "C": "NEFT ,d payment system gS] tks ,d&ls&,d fund transfer dh lqfo/kk provide djrh gSA",
+      "D": "All of the above."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 107,
+    "question": "vkerkSj ij e-mail ds lkFk dkSu lk box overflow gksrk gS\\",
+    "options": {
+      "A": "Message box",
+      "B": "Address box",
+      "C": "Outbox",
+      "D": "Inbox"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 108,
+    "question": "Aadhaar Enabled Payment System (AePS) Banking ysu&nsu dh vuqefr nsrk gS\\",
+    "options": {
+      "A": "Balance inquiry",
+      "B": "Cash withdrawal",
+      "C": "Cash deposit",
+      "D": "All of the above."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 109,
+    "question": "G-mail ,d software gS] ftldk mi;ksx ___ ds fy, fd;k tkrk gS\\",
+    "options": {
+      "A": "Search files",
+      "B": "Check e-mails",
+      "C": "Search web pages",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 110,
+    "question": "Bitcoin fdlus cuk;k\\",
+    "options": {
+      "A": "Satoshi Nakamoto",
+      "B": "Samsung",
+      "C": "Jon maikafi",
+      "D": "None of these."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 111,
+    "question": "___ E-mail utility dk ,d example gS\\",
+    "options": {
+      "A": "Excel",
+      "B": "Photoshop",
+      "C": "Outlook",
+      "D": "MS-word"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 112,
+    "question": "dkSu lk IOT dk element ugh gS\\",
+    "options": {
+      "A": "Security",
+      "B": "Process",
+      "C": "People",
+      "D": "Things"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 113,
+    "question": "Memory esa bits dk group tks fdlh izdkj dh information ;k data dks represent djus ds fy, mi;ksx fd;k tkrk gS] ___ ds :i esa tkuk tkrk gS\\",
+    "options": {
+      "A": "PROM",
+      "B": "SRAM",
+      "C": "Memory",
+      "D": "Byte"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 114,
+    "question": "Internet of things (IOT) ls tqM+s devices dks automatic communication djuk gS] u fd humans ds through. bls D;k dgk tkrk gS\\",
+    "options": {
+      "A": "Business-to-business (B2B)",
+      "B": "Machine-to-machine (M2M)",
+      "C": "Intercloud",
+      "D": "Skynet"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 115,
+    "question": "fuEufyf[kr esa ls dkSu lk ,d ,slk application gS] tks users dks simple document create djus vkSj mls edit djus dh vuqefr nsrk gS\\",
+    "options": {
+      "A": "Browser",
+      "B": "E-mail utility",
+      "C": "Spreadsheet",
+      "D": "Word processor"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 116,
+    "question": "blockchain technology D;k gS\\",
+    "options": {
+      "A": ",d peer-to-peer network ij distributed ledger ¼cgh[kkrk½A",
+      "B": ",d izdkj dk cryptocurrency.",
+      "C": "Exchange djukA",
+      "D": ",d centralized ledger."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 117,
+    "question": "Computer esa information dsoy read djus ds fy, memory fdlds }kjk stored dh tkrh gS\\",
+    "options": {
+      "A": "Engineer",
+      "B": "Manufacturer",
+      "C": "Programmer",
+      "D": "User"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 118,
+    "question": "fdlh file esa ekStwn dqy lines, words vkSj characters dks count djus ds fy, fdl command dk use fd;k tkrk gS\\",
+    "options": {
+      "A": "countw",
+      "B": "wcount",
+      "C": "word count",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 119,
+    "question": "Mouse ds through Computer esa enter fd;k x;k data fdldk example gS\\",
+    "options": {
+      "A": "Direct input",
+      "B": "Indirect input",
+      "C": "Command",
+      "D": "Instruction"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 120,
+    "question": "Mobile application part (MAP) vkerkSj ij fdl protocol ds top ij run gksrk gS\\",
+    "options": {
+      "A": "Hyper text transfer protocol (HTTP)",
+      "B": "Signaling system 7 (SS7)",
+      "C": "Simple mail transfer protocol (SMTP)",
+      "D": "Simple network management protocol (SNMP)"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 121,
+    "question": "Linux esa fdlh file dks delete djus ds fy, fdl command dk mi;ksx fd;k tkrk gS\\",
+    "options": {
+      "A": "dm",
+      "B": "rm",
+      "C": "delete",
+      "D": "erase"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 122,
+    "question": "The full form of OSI is ?",
+    "options": {
+      "A": "Open system interconnection",
+      "B": "Operating system internet",
+      "C": "Optical system interconnection",
+      "D": "Operating system interface"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 123,
+    "question": "fuEufyf[kr esa ls dkSu l k transmission directions ,d valid transmission ugh gS\\",
+    "options": {
+      "A": "Double duplex",
+      "B": "Full duplex",
+      "C": "Half duplex",
+      "D": "Simplex"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 124,
+    "question": "Spreadsheet esa letters dk use ___ dks represent djus ds fy, fd;k tkrk gS\\",
+    "options": {
+      "A": "Blocks",
+      "B": "Columns",
+      "C": "Rows",
+      "D": "Cells"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 125,
+    "question": "OSI model esa fdrus layers gksrs gSa\\",
+    "options": {
+      "A": "6 layers",
+      "B": "5 layers",
+      "C": "7 layers",
+      "D": "9 layers"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 126,
+    "question": "The full form of POP is ___ ?",
+    "options": {
+      "A": "Post of protocol",
+      "B": "Post office protocol",
+      "C": "Pre office protocol",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 127,
+    "question": "buesa ls dkSu serial data transmission ds fy, ,d ekud (standard) interface gSa\\",
+    "options": {
+      "A": "Centronics",
+      "B": "2",
+      "C": "RS232C",
+      "D": "ASCII"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 128,
+    "question": "POP dk port number D;k gS\\",
+    "options": {
+      "A": "43",
+      "B": "25",
+      "C": "35",
+      "D": "110"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 129,
+    "question": "Directory dks gVkus ds fy, fdl command dk iz;ksx fd;k tkrk gS\\",
+    "options": {
+      "A": "rdir",
+      "B": "remove",
+      "C": "rd",
+      "D": "rmdir"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 130,
+    "question": "Electrical interface ds laidZ esa vkus okys Computer network esa data ys tkus ds fy, fdl type dk transmission medium lcls mi;qDr gS\\",
+    "options": {
+      "A": "Coaxial cable",
+      "B": "Microwave",
+      "C": "Unshielded twisted pair",
+      "D": "Optical fiber"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 131,
+    "question": "fuEufyf[kr esa ls dkSu lk ,d bit-oriented protocol gS\\",
+    "options": {
+      "A": "Hyper Text Transfer Protocol (HTTP)",
+      "B": "High-level Data Link Control (HDLC)",
+      "C": "Secure Sockets Layer (SSL)",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 132,
+    "question": "fuEufyf[kr esa ls dkSu lk ,d network topology ugh gS\\",
+    "options": {
+      "A": "Peer to peer",
+      "B": "Bus",
+      "C": "Ring",
+      "D": "Mesh"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 133,
+    "question": "Currently running processes dks display djus ds fy, fdl command dk mi;ksx fd;k tkrk gS\\",
+    "options": {
+      "A": "du",
+      "B": "pip",
+      "C": "ps",
+      "D": "au"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 134,
+    "question": "ml device dh igpku djsa] tks nks ltkrh; (homogeneous) packet broadcast local network dks link djrk gS\\",
+    "options": {
+      "A": "Gateway",
+      "B": "Bridge",
+      "C": "Router",
+      "D": "Hub"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 135,
+    "question": "og communication method ftlesa ,d time ij flQZ ,d gh direction esa data transmit dj ldrs gSa ___ dgykrk gS\\",
+    "options": {
+      "A": "Half duplex",
+      "B": "Full duplex",
+      "C": "Simplex",
+      "D": "None of these."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 136,
+    "question": "Computer data dks store djus vkSj mls calculate djus ds fy, ___ number system dk mi;ksx djrk gS\\",
+    "options": {
+      "A": "Binary",
+      "B": "Octal",
+      "C": "Decimal",
+      "D": "Hexadecimal"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 137,
+    "question": "The binary system uses power of ___ ?",
+    "options": {
+      "A": "16",
+      "B": "8",
+      "C": "10",
+      "D": "2"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 138,
+    "question": "fuEufyf[kr esa ls fdldk mi;ksx network ds fy, resources ¼lalk/kuksa½ dks allocate vkSj manage djus ds fy, fd;k tkrk gS\\",
+    "options": {
+      "A": "Node",
+      "B": "Server",
+      "C": "Bluetooth",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 139,
+    "question": "IP Address ds fdrus versions available gSa\\",
+    "options": {
+      "A": "4 version",
+      "B": "1 version",
+      "C": "6 version",
+      "D": "2 version"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 140,
+    "question": "Users dks virus dk irk yxkus vkSj muls cpus esa help djus ds fy, eq[; :i ls fdl software dk mi;ksx fd;k tkrk gS\\",
+    "options": {
+      "A": "Malware",
+      "B": "Antivirus",
+      "C": "Both (a) and (b)",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 141,
+    "question": "fuEufyf[kr esa ls dkSu lh layer TCP/IP model esa present ugh gS] ysfdu OSI model esa include gS\\",
+    "options": {
+      "A": "Transport layer",
+      "B": "Application layer",
+      "C": "Session layer",
+      "D": "Network layer"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 142,
+    "question": "Internet ij hyperlinked fd, x, documents dk collection gS\\",
+    "options": {
+      "A": "Mailing list",
+      "B": "E-mail system",
+      "C": "World Wide Web (WWW)",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 143,
+    "question": "fuEUfyf[kr esa ls dkSu lk domain dk xyr example gS\\",
+    "options": {
+      "A": "upciss::com",
+      "B": "Upcissyoutube.com",
+      "C": "Upciss.co.in",
+      "D": "None of these"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 144,
+    "question": "Domain name system (DNS) fdlh domain name dks fdlds fy, translate djrk gS\\",
+    "options": {
+      "A": "URL",
+      "B": "Binary",
+      "C": "IP",
+      "D": "Hexa"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 145,
+    "question": "Internet ij fdlh resource dh location fdlds }kjk nh tkrh gS\\",
+    "options": {
+      "A": "URL",
+      "B": "Protocol",
+      "C": "IP",
+      "D": "E-mail"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 146,
+    "question": "The full form of HTTP is ___ ?",
+    "options": {
+      "A": "Hyper text transfer program",
+      "B": "Hyper text transfer protocol",
+      "C": "Hyper text terminal protocol",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 147,
+    "question": "Identify the class of computer threats. dEI;wVj [krjksa ds oxZ dh igpku djsa\\",
+    "options": {
+      "A": "Soliciting",
+      "B": "DOS attack",
+      "C": "Phishing",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 148,
+    "question": "fuEufyf[kr esa ls dkSu lh memory non-volatile gS\\",
+    "options": {
+      "A": "ROM",
+      "B": "DRAM",
+      "C": "SRAM",
+      "D": "All of the above."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 149,
+    "question": "___ Computer ds :i esa ,d proxy server dk mi;ksx fd;k tkrk gS\\",
+    "options": {
+      "A": "Accessing user permission",
+      "B": "Performing file handling",
+      "C": "Acting as a backup",
+      "D": "With external access"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 150,
+    "question": "___ LAN users dks computer program vkSj data share djus dh permission nsrk gS\\",
+    "options": {
+      "A": "File server",
+      "B": "Data server",
+      "C": "Communication server",
+      "D": "None of these."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 151,
+    "question": "dkSu lh transmission technique xkjaVh nsrh gS fd data packets receiver dks mlh order esa received gksaxs] ftl order esa os sender }kjk Hksts x, Fks\\",
+    "options": {
+      "A": "Circuit switching",
+      "B": "Packet switching",
+      "C": "Unicasting",
+      "D": "Broadcasting"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 152,
+    "question": "fuEufyf[kr esa ls fdls cyber security dk ,d element ekuk tkrk gS\\",
+    "options": {
+      "A": "Application security",
+      "B": "Operational security",
+      "C": "Network security",
+      "D": "All of the above."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 153,
+    "question": "dkSu lh memory non-volatile gksrh gS vkSj bls dsoy ,d ckj fy[kk tk ldrk gS\\",
+    "options": {
+      "A": "PROM",
+      "B": "EPROM",
+      "C": "EEPROM",
+      "D": "RAM"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 154,
+    "question": "tc mail server other mail servers dks mail Hkstrk gS] rks ;g ___ gks tkrk gS\\",
+    "options": {
+      "A": "SMTP Server",
+      "B": "SMTP Client",
+      "C": "Peer to peer",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 155,
+    "question": "Proxy server dks fdl name ls Hkh tkuk tkrk gS\\",
+    "options": {
+      "A": "Application proxy",
+      "B": "Proxy tools",
+      "C": "Application-level gateway",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 156,
+    "question": "IP security ds nks modes dkSu ls gSa\\",
+    "options": {
+      "A": "Preshared and transport",
+      "B": "Certificate and tunnel",
+      "C": "Transport and tunnel",
+      "D": "Transport and certificate"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 157,
+    "question": "ml malware dh igpku djsa] tks fdlh infection ds through izfrÑfr (replicate) ;k clone ugh djrk gS\\",
+    "options": {
+      "A": "Virus",
+      "B": "Worms",
+      "C": "Trojans",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 158,
+    "question": "Binary numbering system esa 0 vkSj 1 dks binary digit ;k ___ dgk tkrk gS\\",
+    "options": {
+      "A": "Bits",
+      "B": "Decimal bytes",
+      "C": "Kilobytes",
+      "D": "Bytes"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 159,
+    "question": "fuEufyf[kr esa ls fdldk mi;ksx 802.3 Ethernet ds medium ds :i esa ugh fd;k tk ldrk gS\\",
+    "options": {
+      "A": "A fiber optical cable",
+      "B": "A microwave link",
+      "C": "A twisted pair cable",
+      "D": "A thin coaxial cable"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 160,
+    "question": "ml network dh igpku djsa] tks ,d public network ij ,d private network dk foLrkj djrk gS\\",
+    "options": {
+      "A": "Local Area Network",
+      "B": "Enterprise Private Network",
+      "C": "Virtual Private Network",
+      "D": "Storage Area Network"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 161,
+    "question": "Encryption vkSj Decryption ___ Layer dh responsibility gS\\",
+    "options": {
+      "A": "Datalink",
+      "B": "Application",
+      "C": "Network",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 162,
+    "question": "TCP/IP stack dh dkSu lh layer OSI model transport layer ls esy [kkrh gS\\",
+    "options": {
+      "A": "Network access",
+      "B": "Internet",
+      "C": "Application",
+      "D": "Host to host"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 163,
+    "question": "What is a HUB ?",
+    "options": {
+      "A": "Calculating device",
+      "B": "Network device",
+      "C": "Computing device",
+      "D": "Software"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 164,
+    "question": "Database management system ds operation ds fy, fuEu esa ls dkSu lk hardware component lcls important gS\\",
+    "options": {
+      "A": "Plotter",
+      "B": "High speed, large-capacity disk",
+      "C": "Printer",
+      "D": "High-resolution video display"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 165,
+    "question": "fuEufyf[kr esa ls dkSu lk network dynamic ;k adaptive routing dk iz;ksx djrk gS\\",
+    "options": {
+      "A": "System Network Architecture (SNA)",
+      "B": "ARPANET",
+      "C": "TYMNET",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 166,
+    "question": "Free calls djus ds fy, hackers }kjk bLrseky dh tkus okyh lcls iqjkuh phone hacking technique dh igpku djsa\\",
+    "options": {
+      "A": "Phishing",
+      "B": "Cracking",
+      "C": "Phreaking",
+      "D": "Spamming"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 167,
+    "question": "The term IPv4 stands for ___ ?",
+    "options": {
+      "A": "International Programming Version 4",
+      "B": "Internet Programming Version 4",
+      "C": "Internet Protocol Version 4",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 168,
+    "question": "What does a set of rules define?",
+    "options": {
+      "A": "Protocol",
+      "B": "IMAP",
+      "C": "FTP",
+      "D": "SMTP"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 169,
+    "question": "fdlh file esa time-to-time records dks add djuk] mls change djuk vkSj delete djuk ___ dgykrk gS\\",
+    "options": {
+      "A": "Renewing",
+      "B": "Restructuring",
+      "C": "Upgrading",
+      "D": "Updating"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 170,
+    "question": "Computer dk basic architecture fdlds }kjk developed fd;k x;k Fkk\\",
+    "options": {
+      "A": "Garden Moore",
+      "B": "Blaise Pascal",
+      "C": "Charles Babbage",
+      "D": "John Von Neumann"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 171,
+    "question": "fuEufyf[kr esa ls fdl platforms dk mi;ksx cloud esa information dh safety vkSj protection ds fy, fd;k tkrk gS\\",
+    "options": {
+      "A": "One drive",
+      "B": "Cloud security protocols",
+      "C": "Cloud workload protection platforms",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 172,
+    "question": "buesa ls dkSu nks Computers ds chp esa data share djrk gS\\",
+    "options": {
+      "A": "Integrated system",
+      "B": "Grouping",
+      "C": "Network",
+      "D": "Library"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 173,
+    "question": "fuEufyf[kr esa ls igpkfu,] ftldk mi;ksx eq[; :i ls website dks host djus ds fy, fd;k tkrk gS\\",
+    "options": {
+      "A": "Database Server",
+      "B": "Web Server",
+      "C": "Mail Server",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 174,
+    "question": "Database management system dks D;k name fn;k x;k gS tks full text data, image data, audio vkSj video dks handle djus esa l{ke gS\\",
+    "options": {
+      "A": "Hypertext",
+      "B": "Multimedia",
+      "C": "Graphics media",
+      "D": "Full media"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 175,
+    "question": "og time ftlds nkSjku computer }kjk fdlh dk;Z dks lalkf/kr (processed) fd;k tkrk gS\\",
+    "options": {
+      "A": "Waiting Time",
+      "B": "Real Time",
+      "C": "Delay Time",
+      "D": "Execution Time"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 176,
+    "question": "Wi-fi security esa fdl protocol dk lcls vf/kd iz;ksx fd;k tkrk gS\\",
+    "options": {
+      "A": "WPA2",
+      "B": "WPA",
+      "C": "WPS",
+      "D": "None of these."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 177,
+    "question": "Default :i ls LibreOffice writer esa line spacing ___ gS\\",
+    "options": {
+      "A": "1.5",
+      "B": "Double",
+      "C": "Single",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 178,
+    "question": "Internet banking dk mi;ksx djus ds fy, customer dks fuEufyf[kr esa ls fdldh t:jr iM+rh gS\\",
+    "options": {
+      "A": "Customer ID and password",
+      "B": "Customer name and password",
+      "C": "Customer ID and date of birth",
+      "D": "Customer ID and phone number"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 179,
+    "question": "Cookie visibility ds scope dks configure djus ds fy, fuEu esa ls fdldk mi;ksx fd;k tk ldrk gS\\",
+    "options": {
+      "A": "Path",
+      "B": "Domain",
+      "C": "Server",
+      "D": "Both (a) and (b)"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 180,
+    "question": "fuEufyf[kr esa ls dkSu lh topology arrangements ,d point-to-point configuration gS\\",
+    "options": {
+      "A": "Star topology",
+      "B": "Mesh topology",
+      "C": "Ring topology",
+      "D": "All of the above."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 181,
+    "question": "fuEufyf[kr esa ls dkSu ,d valid e-mail address gS\\",
+    "options": {
+      "A": "upciss@gmail.com",
+      "B": "upciss@gmail",
+      "C": "gmail.com",
+      "D": "None of these."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 182,
+    "question": "fuEufyf[kr esa ls dkSu lk database administrator dk function gS\\",
+    "options": {
+      "A": "Performance Monitoring",
+      "B": "Backup the Database",
+      "C": "Database Design",
+      "D": "All of the above."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 183,
+    "question": "fuEufyf[kr esa ls dkSu computer dh fo’ks”krk ugh gS\\",
+    "options": {
+      "A": "Automation",
+      "B": "Versatility",
+      "C": "Speed",
+      "D": "Intelligence"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 184,
+    "question": "The full form of DBMS is ___ ?",
+    "options": {
+      "A": "Database Management Software",
+      "B": "Domain based Management Software",
+      "C": "Database Management System",
+      "D": "Digital Bar Management System"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 185,
+    "question": "fuEufyf[kr esa ls ,d sequential access memory gS\\",
+    "options": {
+      "A": "Optical Disk",
+      "B": "Magnetic Disk",
+      "C": "Magnetic Tape",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 186,
+    "question": "BIOS ,d izdkj dk gksrk gS ___ \\",
+    "options": {
+      "A": "Operating System",
+      "B": "Hardware",
+      "C": "Software",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 187,
+    "question": "What is Worm Booting ¼Worm Booting D;k gS½\\",
+    "options": {
+      "A": "Starting the Computer normally",
+      "B": "Restart Computer",
+      "C": "Both (a) and (b)",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 188,
+    "question": "fdlh image ds unwanted ¼vokafNr½ part dks remove djus dh process dgykrh gS\\",
+    "options": {
+      "A": "Cropping",
+      "B": "Merging",
+      "C": "Cutting",
+      "D": "Hiding"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 189,
+    "question": "fdlh document ds first 5 pages dks print djus ds fy, dkSu lh command nh tk,xh\\",
+    "options": {
+      "A": "Print all",
+      "B": "From__ To__",
+      "C": "Both (a) and (b)",
+      "D": "None of these."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 190,
+    "question": "What is the output of Round(1550,-2)?",
+    "options": {
+      "A": "1800",
+      "B": "1740",
+      "C": "1600",
+      "D": "1700"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 191,
+    "question": "fdlh shape ;k picture dks rotate djus ds fy, fdl animation dk use fd;k tkrk gS\\",
+    "options": {
+      "A": "Flyer over",
+      "B": "Zoom",
+      "C": "Color plus",
+      "D": "Spin"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 192,
+    "question": "First graphical browser Fkk ___\\",
+    "options": {
+      "A": "Opera",
+      "B": "Chrome",
+      "C": "Edge",
+      "D": "Mosaic"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 193,
+    "question": "___ protocol dk mi;ksx remote login }kjk fd;k tkrk gS\\",
+    "options": {
+      "A": "SMTP",
+      "B": "Telnet",
+      "C": "FTP",
+      "D": "HTTP"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 194,
+    "question": "fuEufyf[kr esa ls dkSu valid domain name gS\\",
+    "options": {
+      "A": "www.upcissyoutube.com",
+      "B": "www.com.upcissyoutube",
+      "C": "Both (a) and (b)",
+      "D": "None of these."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 195,
+    "question": "___ SMTP dk mi;ksx message send djus ds fy, fd;k tkrk gS\\",
+    "options": {
+      "A": "User Mailbox",
+      "B": "User Terminal",
+      "C": "Both (a) and (b)",
+      "D": "None of these."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 196,
+    "question": "ge telegram group esa maximum fdrus yksxksa dks add dj ldrs gSa\\",
+    "options": {
+      "A": "150000",
+      "B": "500000",
+      "C": "200000",
+      "D": "50000"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 197,
+    "question": "fuEufyf[kr esa ls dkSu Internet ds ek/;e ls funds transfer djus dk ,d method gS\\",
+    "options": {
+      "A": "Core Banking",
+      "B": "NEFT",
+      "C": "SMTP",
+      "D": "MICR"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 198,
+    "question": "BHIM UPI ds through ,d fnu esa fdruk iSlk Hkstk tk ldrk gS\\",
+    "options": {
+      "A": "1 lakh",
+      "B": "5 lakhs",
+      "C": "20 lakhs",
+      "D": "50 thousand"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 199,
+    "question": "Which is benefit of cloud computing?",
+    "options": {
+      "A": "More secure",
+      "B": "Fast speed",
+      "C": "Low cost",
+      "D": "All of the above."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 200,
+    "question": "fuEufyf[kr esa ls dkSu ,d cryptocurrency gS\\",
+    "options": {
+      "A": "Bitcoin",
+      "B": "Voice coin",
+      "C": "Sia coin",
+      "D": "All of the above."
+    },
+    "answer": "d"
+  }
 ]
-    
+
