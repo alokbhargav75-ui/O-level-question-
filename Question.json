@@ -996,9 +996,569 @@
 "answer": "C",
 "explanation": "Ctrl + Enter forces a manual page break in LibreOffice Writer."
 }
-  ]
+
+
+
+
+
+
   
-  
+  {
+    "question": "First Generation Computers used:",
+    "options": ["VLSI technique", "Integrated circuits", "Transistors", "Vacuum tubes"],
+    "answer": "Vacuum tubes"
+  },
+  {
+    "question": "A byte consists of:",
+    "options": ["One bit", "Four bits", "Eight bits", "Sixteen bits"],
+    "answer": "Eight bits"
+  },
+  {
+    "question": "The term \"red book\", \"yellow book\" and \"orange book\" refers to:",
+    "options": ["SCSI", "IDE", "floppy drive", "CD-ROM standards"],
+    "answer": "CD-ROM standards"
+  },
+  {
+    "question": "The main circuit board in a computer is called a:",
+    "options": ["RAM", "CPU", "Motherboard", "All of the above"],
+    "answer": "Motherboard"
+  },
+  {
+    "question": "Third Generation Computer used:",
+    "options": ["VLSI technique", "Integrated circuits", "Transistors", "Vacuum tubes"],
+    "answer": "Integrated circuits"
+  },
+  {
+    "question": "Which one is not a type of memory?",
+    "options": ["ROM", "Cache", "EEPROM", "Joy-stick"],
+    "answer": "Joy-stick"
+  },
+  {
+    "question": "A light-sensitive device that converts drawing, printed text or other images into digital form is:",
+    "options": ["Keyboard", "Plotter", "Scanner", "OMR"],
+    "answer": "Scanner"
+  },
+  {
+    "question": "Fourth Generation Computer used:",
+    "options": ["VLSI or Microprocessors", "Integrated circuits or Transistors", "Transistors or Vacuum tubes", "VLSI or Vacuum tubes"],
+    "answer": "VLSI or Microprocessors"
+  },
+  {
+    "question": "Which Characteristic of computer distinguish it from electronic Calculators?",
+    "options": ["Accuracy", "Versatility", "Storage", "Automatic"],
+    "answer": "Accuracy"
+  },
+  {
+    "question": "A DVD is an example of:",
+    "options": ["Solid-state storage device", "Output device", "Hard disk", "Optical disk"],
+    "answer": "Optical disk"
+  },
+  {
+    "question": "Any data or instruction entered into the memory of a computer is considered as:",
+    "options": ["Storage", "Output", "Input", "information"],
+    "answer": "Input"
+  },
+  {
+    "question": "What kind of language can computer understand?",
+    "options": ["Normal language", "High-level language", "Computer language", "Assembly language"],
+    "answer": "Assembly language"
+  },
+  {
+    "question": "Which of the following is an impact printer?",
+    "options": ["Laser", "Ink-jet", "Dot-matrix", "None of the options"],
+    "answer": "Dot-matrix"
+  },
+  {
+    "question": "Fifth Generation of computer was based on which technology?",
+    "options": ["Artificial Intelligence", "Programming Intelligence", "System Knowledge", "VVLSI"],
+    "answer": "Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is considered to be the first supercomputer developed in India?",
+    "options": ["SAHASRA T", "SAGA 220", "PARAM YUVA II", "PARAM 8000"],
+    "answer": "PARAM 8000"
+  },
+  {
+    "question": "Which one is the invalid size of Cache memory?",
+    "options": ["2048 Kilobytes", "3072 Kilobytes", "92162 Kilobytes", "512 Kilobytes"],
+    "answer": "92162 Kilobytes"
+  },
+  {
+    "question": "Which of the following is the fastest memory?",
+    "options": ["Secondary Memory", "Auxiliary Memory", "Cache Memory", "Virtual Memory"],
+    "answer": "Cache Memory"
+  },
+  {
+    "question": "1 Petabyte (PB) = 1024:",
+    "options": ["Zettabytes (ZB)", "Exabytes (EB)", "Terabytes (TB)", "Gigabytes (GB)"],
+    "answer": "Gigabytes (GB)"
+  },
+  {
+    "question": "Second Generation Computer used:",
+    "options": ["VLSI technique", "Integrated circuits", "Transistors", "Vacuum tubes"],
+    "answer": "Transistors"
+  },
+  {
+    "question": "Data items grouped together for storage purpose is called a:",
+    "options": ["Random", "Compiler", "Record", "Accuracy"],
+    "answer": "Record"
+  },
+  {
+    "question": "One can copy files from one location to another using mouse. It is known as:",
+    "options": ["Drag & drop", "Framing", "Random", "Compiler"],
+    "answer": "Drag & drop"
+  },
+  {
+    "question": "Which of the following is a soft copy output device?",
+    "options": ["Daisy wheel printer", "Plotter", "Laser printer", "Monitor"],
+    "answer": "Monitor"
+  },
+  {
+    "question": "The term GIGO is related to:",
+    "options": ["Compiler", "Accuracy", "Binary", "Virtual Memory"],
+    "answer": "Accuracy"
+  },
+  {
+    "question": "Machine language is:",
+    "options": ["Machine dependent", "Difficult to program", "Error prone", "All of above"],
+    "answer": "All of above"
+  },
+  {
+    "question": "BIOS is used by?",
+    "options": ["Operating system", "Compiler", "Interpreter", "Application software"],
+    "answer": "Operating system"
+  },
+  {
+    "question": "Logical extension of multiprogramming operating system is:",
+    "options": ["time-sharing", "multi-tasking", "single programing", "both a and b"],
+    "answer": "both a and b"
+  },
+  {
+    "question": "What is the Default File Extension after . (Dot) in Web files?",
+    "options": [".gtml", ".html or .htm", ".com", ".xtml"],
+    "answer": ".html or .htm"
+  },
+  {
+    "question": "In which directory are the local user profile settings stored by default in Windows 2000?",
+    "options": ["C:\\USERS", "C:\\NETLOGON", "C:\\WIN NTUSER.DAT", "C:\\Documents and settings"],
+    "answer": "C:\\Documents and settings"
+  },
+  {
+    "question": "The situation when two or more programs are hung up is referred to as:",
+    "options": ["Multiprogramming", "Failed Mutual Exclusion", "Deadlocks", "Improper Synchronization"],
+    "answer": "Deadlocks"
+  },
+  {
+    "question": "Which of the following is not an operating system?",
+    "options": ["Windows", "Linux", "Oracle", "DOS"],
+    "answer": "Oracle"
+  },
+  {
+    "question": "Linux is a ______ and ______ operating system.",
+    "options": ["Multiuser, Single-tasking", "Multiuser, Multitasking", "Single user, Multitasking", "None of the above"],
+    "answer": "Multiuser, Multitasking"
+  },
+  {
+    "question": "What does OS X have?",
+    "options": ["monolithic kernel with modules", "microkernel", "monolithic kernel", "hybrid kernel"],
+    "answer": "hybrid kernel"
+  },
+  {
+    "question": "Windows 95 is an example of which type of operating system?",
+    "options": ["Single-User Operating System", "Multi-User Operating System", "Real-Time Operating System", "Distributed Operating System"],
+    "answer": "Single-User Operating System"
+  },
+  {
+    "question": "Which of the following supports Windows 64-bit?",
+    "options": ["Window 1998", "Window 2000", "Window XP", "None of these"],
+    "answer": "Window XP"
+  },
+  {
+    "question": "Which of the following is an example of system software?",
+    "options": ["Operating system", "Loader", "Linker", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the full name of the DSM?",
+    "options": ["Direct system module", "Direct system memory", "Distributed shared memory", "Demoralized system memory"],
+    "answer": "Distributed shared memory"
+  },
+  {
+    "question": "Conditional formatting can be done in LibreOffice Calc based on ______.",
+    "options": ["Date", "Formula", "cell Value", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "question": "Which of the following is used to hold running program instructions?",
+    "options": ["Primary Storage", "Virtual Storage", "Internal Storage", "Minor Devices"],
+    "answer": "Primary Storage"
+  },
+  {
+    "question": "Which protocol is used for secure communication over the Internet?",
+    "options": ["FTP", "SMTP", "HTTPS", "Telnet"],
+    "answer": "HTTPS"
+  },
+  {
+    "question": "In which of the following web portals can users create their free email account?",
+    "options": ["hotmail.com", "yahoo.com", "gmail.com", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following does not belong to the group?",
+    "options": ["UNIX", "MS-DOS", "WINDOWS", "FIREWALL"],
+    "answer": "FIREWALL"
+  },
+  {
+    "question": "Saas stands for?",
+    "options": ["Software as a service", "System Software and services", "Software as a system", "System as a service"],
+    "answer": "Software as a service"
+  },
+  {
+    "question": "A device, which is used for making drawing, graphics, and for menu selection is __________.",
+    "options": ["Keyboard", "Mouse", "Light Pen", "Touch screen"],
+    "answer": "Light Pen"
+  },
+  {
+    "question": "Which device connects multiple networks together and forwards data packets between them?",
+    "options": ["Router", "Switch", "Hub", "Bridge"],
+    "answer": "Router"
+  },
+  {
+    "question": "Which protocol is used to dynamically assign IP addresses to network devices?",
+    "options": ["TCP", "UDP", "IPsec", "DHCP"],
+    "answer": "DHCP"
+  },
+  {
+    "question": "What’s an easy way to apply different animations to test slides?",
+    "options": ["apply effects in the custom animation text pane", "apply an animation scheme", "All of the options", "Customize bullets with animated clipart"],
+    "answer": "All of the options"
+  },
+  {
+    "question": "Which of the following describes e-commerce?",
+    "options": ["Doing business electronically", "Doing business", "Sale of goods", "All of the above"],
+    "answer": "Doing business electronically"
+  },
+  {
+    "question": "From which date all the banks have started sharing the cost of their ATMs for transactions?",
+    "options": ["1 September 2009", "1 January 2009", "1 April 2009", "1 July 2009"],
+    "answer": "1 April 2009"
+  },
+  {
+    "question": "If the system time and date is wrong then you can reset using ……….?",
+    "options": ["Right File", "Calendar", "Right", "System Settings"],
+    "answer": "System Settings"
+  },
+  {
+    "question": "Name the order from largest to smallest among the following?",
+    "options": ["TB. GB. MB. KB.", "TB. MB. KB. GB.", "GB. TB. MB. KB.", "TB. GB. KB. MB."],
+    "answer": "TB. GB. MB. KB."
+  },
+  {
+    "question": "Which of the following is an example of Flipkart?",
+    "options": ["C2B", "C2C", "B2C", "B2B"],
+    "answer": "B2C"
+  },
+  {
+    "question": "Who can edit sent emails?",
+    "options": ["Sender", "Receiver", "None", "No one change"],
+    "answer": "No one change"
+  },
+  {
+    "question": "Shortcut Key for unformatted text",
+    "options": ["Ctrl + Shift + Alt + V", "Ctrl + shift + V", "Ctrl + M", "Ctrl + v"],
+    "answer": "Ctrl + Shift + Alt + V"
+  },
+  {
+    "question": "Faulty inputs lead to faulty results. It is known as ________",
+    "options": ["Diligence", "Versatility", "GIGO", "None of the Above"],
+    "answer": "GIGO"
+  },
+  {
+    "question": "Which of the following are mandatory part of complete PC system?",
+    "options": ["Floppy and hard disk", "Hardware and Software", "Input and output", "Keyboard and printer"],
+    "answer": "Hardware and Software"
+  },
+  {
+    "question": "First Generation computers used ________ for circuitry and ________ for memory.",
+    "options": ["Transistor and Magnetic Core", "IC and Magnetic Memory", "Vacuum tubes and Magnetic drum", "IC and Magnetic Core"],
+    "answer": "Vacuum tubes and Magnetic drum"
+  },
+  {
+    "question": "You can send file up to ___ MB in attachments in gmail.",
+    "options": ["20", "25", "30", "35"],
+    "answer": "25"
+  },
+  {
+    "question": "What is the shortcut key to delete the selected text?",
+    "options": ["Backspace", "Delete", "Both a & b", "None"],
+    "answer": "Both a & b"
+  },
+  {
+    "question": "What is a ‘trigger’ in the context of animation?",
+    "options": ["Performs an action when an item is clicked on the slide", "An action button that takes us to the next slide", "The name of a motion path", "All of the option"],
+    "answer": "Performs an action when an item is clicked on the slide"
+  },
+  {
+    "question": "Which of the following is wrong with respect to Telegram?",
+    "options": ["Voice over IP service", "Allows reading e-books", "Shares multimedia data", "Sends instant messages"],
+    "answer": "Allows reading e-books"
+  },
+  {
+    "question": "Which is the most powerful computer with specialized equipment and software?",
+    "options": ["Supercomputer", "Network Server", "Workstation", "Mainframe"],
+    "answer": "Supercomputer"
+  },
+  {
+    "question": "Which of the following are sound files?",
+    "options": ["LOG Files", "WAV Files", "DRV Files", "DAT Files"],
+    "answer": "WAV Files"
+  },
+  {
+    "question": "It is also called Bootstrapping.",
+    "options": ["Fast boot", "Quick boot", "Hot boot", "Cold boot"],
+    "answer": "Cold boot"
+  },
+  {
+    "question": "Which of the inputs in AEPS determines the bank’s of the customer?",
+    "options": ["PIN", "IFSC", "IIN", "SWIFT"],
+    "answer": "IIN"
+  },
+  {
+    "question": "Which language was used to program Second Generation computers?",
+    "options": ["Binary Coded language", "Assembly language", "Machine language", "None of the Above"],
+    "answer": "Assembly language"
+  },
+  {
+    "question": "“Stored Program” concept was developed by ________",
+    "options": ["Maurice Wilkes", "Von Neumann", "M.H.A. Newman", "None of the Above"],
+    "answer": "Von Neumann"
+  },
+  {
+    "question": "Which of the following network devices operates at the Application Layer of the OSI model?",
+    "options": ["Router", "Switch", "Firewall", "Hub"],
+    "answer": "Firewall"
+  },
+  {
+    "question": "A ________ terminal can display images as well as text.",
+    "options": ["text", "dumb", "graphical", "None of the Above"],
+    "answer": "graphical"
+  },
+  {
+    "question": "Which network device operates at the Physical Layer of the OSI model?",
+    "options": ["Router", "Switch", "Repeater", "Firewall"],
+    "answer": "Repeater"
+  },
+  {
+    "question": "A ________ terminal does not process or store data.",
+    "options": ["Dumb", "Intelligent", "Both (A) & (B)", "None of the Above"],
+    "answer": "Dumb"
+  },
+  {
+    "question": "What is the capacity of a 3.5 inch floppy disk?",
+    "options": ["1.40 Mb", "1.44 Gb", "1.40 Gb", "1.44 Mb"],
+    "answer": "1.44 Mb"
+  },
+  {
+    "question": "Which of the following three options are available in the Media Menu of the Insert Tab?",
+    "options": ["Group", "Gallery, Scan, Audio or Video", "Clipart, Picture, Shapes", "Clipart, From File, Shapes"],
+    "answer": "Gallery, Scan, Audio or Video"
+  },
+  {
+    "question": "How much is Google Drive storage capacity?",
+    "options": ["10 GB", "15 GB", "20 GB", "25 GB"],
+    "answer": "15 GB"
+  },
+  {
+    "question": "In a spreadsheet, letters are used to represent ________.",
+    "options": ["Cells", "Rows", "Columns", "Blocks"],
+    "answer": "Columns"
+  },
+  {
+    "question": "Spreadsheets cannot:",
+    "options": ["do calculations", "create graphics", "plot graphs", "plot charts"],
+    "answer": "create graphics"
+  },
+  {
+    "question": "Which among the following is an application that allows the user to compose and edit simple documents?",
+    "options": ["Word processor", "Spreadsheet", "E-mail utility", "Browsers"],
+    "answer": "Word processor"
+  },
+  {
+    "question": "________ is an example of e-mail utility.",
+    "options": ["Word", "Outlook", "Explorer", "Excel"],
+    "answer": "Outlook"
+  },
+  {
+    "question": "Odt stands for:",
+    "options": ["Open office writer document file", "Office writer document file", "Open document file", "Office document file"],
+    "answer": "Open office writer document file"
+  },
+  {
+    "question": "Special effects used to introduce slides in a presentation are known as ________.",
+    "options": ["transitions", "effects", "custom animations", "annotations"],
+    "answer": "transitions"
+  },
+  {
+    "question": "Group of bits in a memory which is used to represent information or data of some type is known as:",
+    "options": ["byte", "memory word", "SRAM", "PROM"],
+    "answer": "memory word"
+  },
+  {
+    "question": "Information in computer read only memory is stored by:",
+    "options": ["user", "programmer", "manufacturer", "engineer"],
+    "answer": "manufacturer"
+  },
+  {
+    "question": "Data entered into computer through keyboard and mouse is an example of:",
+    "options": ["instruction", "command", "indirect input", "direct input"],
+    "answer": "direct input"
+  },
+  {
+    "question": "1 kilobyte is equals to:",
+    "options": ["1024 bytes", "1048576 bytes", "102400 bytes", "1048 bytes"],
+    "answer": "1024 bytes"
+  },
+  {
+    "question": "Which of the following is a type of network topology?",
+    "options": ["Star", "Ring", "Bus", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the full form of CPU?",
+    "options": ["Central Processing Unit", "Computer Personal Unit", "Central Process Unit", "Central Processor Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Which of the following is temporary memory?",
+    "options": ["ROM", "RAM", "Hard Disk", "Cache"],
+    "answer": "RAM"
+  },
+  {
+    "question": "What is the shortcut key for Save As in LibreOffice?",
+    "options": ["Ctrl + S", "Ctrl + Shift + S", "Ctrl + A", "Ctrl + P"],
+    "answer": "Ctrl + Shift + S"
+  },
+  {
+    "question": "Under which menu is the Template option available?",
+    "options": ["File", "Edit", "View", "Insert"],
+    "answer": "File"
+  },
+  {
+    "question": "What is the default view in LibreOffice Writer?",
+    "options": ["Print Layout", "Web Layout", "Normal", "Full Screen"],
+    "answer": "Print Layout"
+  },
+  {
+    "question": "What is the shortcut key for Print Preview?",
+    "options": ["Ctrl + P", "Ctrl + Shift + P", "Ctrl + F2", "Ctrl + Alt + P"],
+    "answer": "Ctrl + Shift + O"
+  },
+  {
+    "question": "Which function is used to find the length of a string in LibreOffice Calc?",
+    "options": ["ABS()", "VAR()", "LEN()", "CHAR()"],
+    "answer": "LEN()"
+  },
+  {
+    "question": "What is the number of rows in LibreOffice Calc spreadsheet?",
+    "options": ["1048576", "65536", "1024", "16384"],
+    "answer": "1048576"
+  },
+  {
+    "question": "LibreOffice Calc file is saved with which extension?",
+    "options": [".ods", ".odt", ".ott", ".odf"],
+    "answer": ".ods"
+  },
+  {
+    "question": "What will be the result of =SUM(1, 0, True, False)?",
+    "options": ["Error", "#Name?", "1", "2"],
+    "answer": "2"
+  },
+  {
+    "question": "What will be the result of =IF(1+1, 2+2, 3+3)?",
+    "options": ["2", "4", "6", "Error"],
+    "answer": "4"
+  },
+  {
+    "question": "What is the full form of ISDN?",
+    "options": ["Integrated Services Digital Network", "Integrated System Digital Network", "Internet Services Digital Network", "Internal Services Digital Network"],
+    "answer": "Integrated Services Digital Network"
+  },
+  {
+    "question": "Who invented the World Wide Web (WWW)?",
+    "options": ["Bill Gates", "Tim Berners-Lee", "Steve Jobs", "Charles Babbage"],
+    "answer": "Tim Berners-Lee"
+  },
+  {
+    "question": "What is the full form of MQTT?",
+    "options": ["Message Queuing Telemetry Transport", "Message Query Telemetry Transport", "Message Queuing Transport Telemetry", "Message Query Transport Telemetry"],
+    "answer": "Message Queuing Telemetry Transport"
+  },
+  {
+    "question": "What is the full form of DNS?",
+    "options": ["Domain Name System", "Domain Naming Service", "Domain Name Server", "Domain Network System"],
+    "answer": "Domain Name System"
+  },
+  {
+    "question": "What is the shortcut key to insert a new slide in LibreOffice Impress?",
+    "options": ["Ctrl + M", "Ctrl + N", "Ctrl + S", "Ctrl + P"],
+    "answer": "Ctrl + M"
+  },
+  {
+    "question": "What is the shortcut key to start a slide show?",
+    "options": ["F5", "F2", "F7", "F9"],
+    "answer": "F5"
+  },
+  {
+    "question": "What is the full form of AEPS?",
+    "options": ["Aadhaar Enabled Payment System", "Aadhaar Electronic Payment System", "Aadhaar Enabled Personal System", "Aadhaar Electronic Personal System"],
+    "answer": "Aadhaar Enabled Payment System"
+  },
+  {
+    "question": "What is the full form of IFSC?",
+    "options": ["Indian Financial System Code", "International Financial System Code", "Indian Financial Service Code", "International Financial Service Code"],
+    "answer": "Indian Financial System Code"
+  },
+  {
+    "question": "What is the full form of IIN?",
+    "options": ["Issuer Identification Number", "Indian Identification Number", "International Identification Number", "Issuer Indian Number"],
+    "answer": "Issuer Identification Number"
+  },
+  {
+    "question": "What is the full form of HTTPS?",
+    "options": ["HyperText Transfer Protocol Secure", "HyperText Transfer Protocol Standard", "HyperText Transfer Protocol System", "HyperText Transfer Protocol Server"],
+    "answer": "HyperText Transfer Protocol Secure"
+  },
+  {
+    "question": "What is the full form of DHCP?",
+    "options": ["Dynamic Host Configuration Protocol", "Dynamic Host Control Protocol", "Dynamic Host Communication Protocol", "Dynamic Host Connection Protocol"],
+    "answer": "Dynamic Host Configuration Protocol"
+  },
+  {
+    "question": "What is the full form of GUI?",
+    "options": ["Graphical User Interface", "Graphical User Interchange", "Graphical User Interaction", "Graphical User Internet"],
+    "answer": "Graphical User Interface"
+  },
+  {
+    "question": "What is the full form of CLI?",
+    "options": ["Command Line Interface", "Command Line Interchange", "Command Line Interaction", "Command Line Internet"],
+    "answer": "Command Line Interface"
+  },
+  {
+    "question": "What is the full form of RTOS?",
+    "options": ["Real-Time Operating System", "Real-Time Online System", "Real-Time Open System", "Real-Time Operating Server"],
+    "answer": "Real-Time Operating System"
+  },
+  {
+    "question": "What is the full form of GIGO?",
+    "options": ["Garbage In Garbage Out", "Garbage In Garbage On", "Garbage In Garbage Off", "Garbage In Garbage Over"],
+    "answer": "Garbage In Garbage Out"
+  },
+  {
+    "question": "What is the full form of BIOS?",
+    "options": ["Basic Input Output System", "Binary Input Output System", "Basic Integrated Operating System", "Binary Integrated Operating Software"],
+    "answer": "Basic Input Output System"
+  }
+]
 
 
   
