@@ -126,4 +126,879 @@
   {"id": 118, "topic": "IT Applications & e-Governance", "question": "MyGov Portal किस उद्देश्य से बनाया गया?", "options": {"A": "Citizen Engagement के लिए", "B": "केवल Entertainment के लिए", "C": "Games के लिए", "D": "Music Streaming के लिए"}, "answer": "A"},
   {"id": 119, "topic": "IT Applications & e-Governance", "question": "e-Governance में G2C का अर्थ क्या है?", "options": {"A": "Government to Citizen", "B": "Government to Company", "C": "Government to Country", "D": "Government to Cloud"}, "answer": "A"},
   {"id": 120, "topic": "IT Applications & e-Governance", "question": "e-Governance में G2B का अर्थ क्या है?", "options": {"A": "Government to Business", "B": "Government to Bank", "C": "Government to Bureau", "D": "Government to Branch"}, "answer": "A"}
-]
+
+
+
+
+
+{"id": 121, "topic": "Computer Appreciation & Organization", "question": "Computer Generation में Vacuum Tubes का उपयोग किस Generation में हुआ?", "options": {"A": "First Generation", "B": "Second Generation", "C": "Third Generation", "D": "Fourth Generation"}, "answer": "A"},
+  {"id": 122, "topic": "Computer Appreciation & Organization", "question": "Microprocessor का उपयोग किस Generation के Computers में हुआ?", "options": {"A": "Fourth Generation", "B": "First Generation", "C": "Second Generation", "D": "Third Generation"}, "answer": "A"},
+  {"id": 123, "topic": "Computer Appreciation & Organization", "question": "1 MB में कितने KB होते हैं?", "options": {"A": "1024", "B": "1000", "C": "512", "D": "2048"}, "answer": "A"},
+  {"id": 124, "topic": "Computer Appreciation & Organization", "question": "Control Unit का मुख्य कार्य क्या है?", "options": {"A": "अन्य Units को निर्देशित और नियंत्रित करना", "B": "Data Store करना", "C": "Calculation करना", "D": "Data Print करना"}, "answer": "A"},
+  {"id": 125, "topic": "Computer Appreciation & Organization", "question": "SMPS का पूरा नाम क्या है?", "options": {"A": "Switched Mode Power Supply", "B": "System Mode Power Supply", "C": "Serial Mode Power Supply", "D": "Static Mode Power Supply"}, "answer": "A"},
+  {"id": 126, "topic": "Computer Appreciation & Organization", "question": "Joystick किस प्रकार का Device है?", "options": {"A": "Input Device", "B": "Output Device", "C": "Storage Device", "D": "Processing Device"}, "answer": "A"},
+  {"id": 127, "topic": "Computer Appreciation & Organization", "question": "Optical Disk का उदाहरण है?", "options": {"A": "CD/DVD", "B": "Hard Disk", "C": "RAM", "D": "ROM"}, "answer": "A"},
+  {"id": 128, "topic": "Computer Appreciation & Organization", "question": "Barcode Reader किस Category का Device है?", "options": {"A": "Input Device", "B": "Output Device", "C": "Storage Device", "D": "Processing Device"}, "answer": "A"},
+  {"id": 129, "topic": "Computer Appreciation & Organization", "question": "1 GB में कितने MB होते हैं?", "options": {"A": "1024", "B": "1000", "C": "512", "D": "2048"}, "answer": "A"},
+  {"id": 130, "topic": "Computer Appreciation & Organization", "question": "Plotter का उपयोग किसके लिए होता है?", "options": {"A": "बड़े आकार के Graphics/Drawings Print करने के लिए", "B": "Text Type करने के लिए", "C": "Data Store करने के लिए", "D": "Internet चलाने के लिए"}, "answer": "A"},
+  {"id": 131, "topic": "Computer Appreciation & Organization", "question": "Register किसका हिस्सा है?", "options": {"A": "CPU", "B": "Monitor", "C": "Keyboard", "D": "Printer"}, "answer": "A"},
+  {"id": 132, "topic": "Computer Appreciation & Organization", "question": "SSD का पूरा नाम क्या है?", "options": {"A": "Solid State Drive", "B": "Secondary State Drive", "C": "Static State Drive", "D": "System State Drive"}, "answer": "A"},
+
+  {"id": 133, "topic": "Operating System", "question": "Windows Explorer/File Explorer का उपयोग किसलिए होता है?", "options": {"A": "Files और Folders Manage करने के लिए", "B": "Internet चलाने के लिए", "C": "Email भेजने के लिए", "D": "Music बजाने के लिए"}, "answer": "A"},
+  {"id": 133, "topic": "Operating System", "question": "Single User OS का उदाहरण है?", "options": {"A": "MS-DOS", "B": "Unix", "C": "Linux Server", "D": "Windows Server"}, "answer": "A"},
+  {"id": 134, "topic": "Operating System", "question": "Formatting का अर्थ क्या है?", "options": {"A": "Storage Device को उपयोग के लिए तैयार करना", "B": "File को Print करना", "C": "File को Copy करना", "D": "Internet चलाना"}, "answer": "A"},
+  {"id": 135, "topic": "Operating System", "question": "Kernel क्या है?", "options": {"A": "OS का Core भाग जो Hardware को Manage करता है", "B": "एक Application Software", "C": "एक Antivirus", "D": "एक Browser"}, "answer": "A"},
+  {"id": 136, "topic": "Operating System", "question": "Windows में Shortcut बनाने के लिए किस Key का उपयोग होता है (Right Click Menu में)?", "options": {"A": "Create Shortcut", "B": "Delete", "C": "Rename", "D": "Copy"}, "answer": "A"},
+  {"id": 137, "topic": "Operating System", "question": "Real Time OS का उपयोग कहाँ होता है?", "options": {"A": "Medical Equipment जैसे Critical Systems में", "B": "केवल Games में", "C": "केवल Word Processing में", "D": "केवल Email में"}, "answer": "A"},
+  {"id": 138, "topic": "Operating System", "question": "Linux में File List देखने की Command क्या है?", "options": {"A": "ls", "B": "dir", "C": "list", "D": "show"}, "answer": "A"},
+  {"id": 139, "topic": "Operating System", "question": "Windows में Files को Search करने की Shortcut Key क्या है?", "options": {"A": "Windows+S", "B": "Ctrl+F", "C": "Alt+F", "D": "Ctrl+S"}, "answer": "A"},
+  {"id": 140, "topic": "Operating System", "question": "Batch Processing OS में Jobs कैसे Execute होते हैं?", "options": {"A": "Group में एक साथ बिना User Interaction के", "B": "एक-एक करके User की Permission से", "C": "Random Order में", "D": "कभी Execute नहीं होते"}, "answer": "A"},
+  {"id": 141, "topic": "Operating System", "question": "Linux में Password बदलने की Command क्या है?", "options": {"A": "passwd", "B": "changepass", "C": "setpass", "D": "newpass"}, "answer": "A"},
+  {"id": 142, "topic": "Operating System", "question": "Windows में Safe Mode किसलिए उपयोग होता है?", "options": {"A": "Problem Solve करने के लिए Minimal Configuration में Boot करना", "B": "Games खेलने के लिए", "C": "Internet Speed बढ़ाने के लिए", "D": "File Print करने के लिए"}, "answer": "A"},
+
+  {"id": 143, "topic": "Word Processing", "question": "Thesaurus Feature का उपयोग किसलिए होता है?", "options": {"A": "Synonyms खोजने के लिए", "B": "Spelling Check के लिए", "C": "Table बनाने के लिए", "D": "Image Insert करने के लिए"}, "answer": "A"},
+  {"id": 144, "topic": "Word Processing", "question": "Ctrl+A का उपयोग किसके लिए होता है?", "options": {"A": "Select All", "B": "Align Text", "C": "Add Page", "D": "Auto Save"}, "answer": "A"},
+  {"id": 145, "topic": "Word Processing", "question": "Watermark का उपयोग किसलिए होता है?", "options": {"A": "Document के Background में हल्का Text/Image दिखाने के लिए", "B": "Font बदलने के लिए", "C": "Table बनाने के लिए", "D": "File Save करने के लिए"}, "answer": "A"},
+  {"id": 146, "topic": "Word Processing", "question": "Line Spacing किसे Control करता है?", "options": {"A": "Lines के बीच की दूरी", "B": "Font का रंग", "C": "Page का आकार", "D": "File का नाम"}, "answer": "A"},
+  {"id": 147, "topic": "Word Processing", "question": "Ctrl+X का उपयोग किसके लिए होता है?", "options": {"A": "Cut", "B": "Copy", "C": "Paste", "D": "Save"}, "answer": "A"},
+  {"id": 148, "topic": "Word Processing", "question": "Table of Contents किसलिए उपयोग होता है?", "options": {"A": "Document की Structure को सूचीबद्ध करने के लिए", "B": "Image Insert करने के लिए", "C": "Spelling Check के लिए", "D": "File Delete करने के लिए"}, "answer": "A"},
+  {"id": 149, "topic": "Word Processing", "question": "Font Size बढ़ाने की Shortcut Key क्या है?", "options": {"A": "Ctrl+Shift+>", "B": "Ctrl+B", "C": "Ctrl+I", "D": "Ctrl+U"}, "answer": "A"},
+  {"id": 150, "topic": "Word Processing", "question": "Ctrl+S का उपयोग किसके लिए होता है?", "options": {"A": "Save", "B": "Select", "C": "Search", "D": "Send"}, "answer": "A"},
+  {"id": 151, "topic": "Word Processing", "question": "Column Feature का उपयोग किसलिए होता है (MS Word में)?", "options": {"A": "Text को Newspaper Style में विभाजित करने के लिए", "B": "Table बनाने के लिए", "C": "Image Insert करने के लिए", "D": "Font बदलने के लिए"}, "answer": "A"},
+  {"id": 152, "topic": "Word Processing", "question": "Drop Cap Feature क्या करता है?", "options": {"A": "पहले अक्षर को बड़ा और Stylish बनाता है", "B": "Table बनाता है", "C": "Spelling Check करता है", "D": "File Save करता है"}, "answer": "A"},
+
+  {"id": 153, "topic": "Spreadsheet", "question": "COUNTIF() Function क्या करता है?", "options": {"A": "Condition के अनुसार Cells गिनता है", "B": "सभी Cells जोड़ता है", "C": "औसत निकालता है", "D": "Maximum Value निकालता है"}, "answer": "A"},
+  {"id": 154, "topic": "Spreadsheet", "question": "VLOOKUP() Function का उपयोग किसलिए होता है?", "options": {"A": "Table में Vertically Data ढूंढने के लिए", "B": "Data Sort करने के लिए", "C": "Chart बनाने के लिए", "D": "File Save करने के लिए"}, "answer": "A"},
+  {"id": 155, "topic": "Spreadsheet", "question": "Merge Cells Feature क्या करता है?", "options": {"A": "कई Cells को एक Cell में जोड़ता है", "B": "एक Cell को कई भागों में बांटता है", "C": "Data Delete करता है", "D": "File Save करता है"}, "answer": "A"},
+  {"id": 156, "topic": "Spreadsheet", "question": "ROUND() Function किसलिए उपयोग होता है?", "options": {"A": "Number को Round करने के लिए", "B": "Text जोड़ने के लिए", "C": "Date निकालने के लिए", "D": "Chart बनाने के लिए"}, "answer": "A"},
+  {"id": 157, "topic": "Spreadsheet", "question": "Conditional Formatting का उद्देश्य क्या है?", "options": {"A": "Condition के आधार पर Cells को Format करना", "B": "Cells को Delete करना", "C": "File Save करना", "D": "Chart बनाना"}, "answer": "A"},
+  {"id": 158, "topic": "Spreadsheet", "question": "Pivot Table का उपयोग किसलिए होता है?", "options": {"A": "Large Data को Summarize और Analyze करने के लिए", "B": "Text Type करने के लिए", "C": "Image Insert करने के लिए", "D": "File Delete करने के लिए"}, "answer": "A"},
+  {"id": 159, "topic": "Spreadsheet", "question": "CONCATENATE() Function क्या करता है?", "options": {"A": "कई Text Strings को जोड़ता है", "B": "Numbers जोड़ता है", "C": "Cells Delete करता है", "D": "Chart बनाता है"}, "answer": "A"},
+  {"id": 160, "topic": "Spreadsheet", "question": "Data Validation Feature किसलिए उपयोग होता है?", "options": {"A": "Cell में Valid Data ही Enter होने देने के लिए", "B": "Data Delete करने के लिए", "C": "Chart बनाने के लिए", "D": "File Save करने के लिए"}, "answer": "A"},
+  {"id": 161, "topic": "Spreadsheet", "question": "Relative Cell Reference Copy करने पर क्या होता है?", "options": {"A": "Reference नए Location के अनुसार बदल जाता है", "B": "Reference हमेशा Fixed रहता है", "C": "Formula Delete हो जाता है", "D": "Cell खाली हो जाता है"}, "answer": "A"},
+  {"id": 162, "topic": "Spreadsheet", "question": "Excel में Row और Column के Intersection को क्या कहते हैं?", "options": {"A": "Cell", "B": "Sheet", "C": "Range", "D": "Workbook"}, "answer": "A"},
+
+  {"id": 163, "topic": "Presentation", "question": "Slide Layout किसे Control करता है?", "options": {"A": "Slide पर Content की व्यवस्था", "B": "File का Extension", "C": "Presentation का नाम", "D": "File का Size"}, "answer": "A"},
+  {"id": 164, "topic": "Presentation", "question": "Custom Animation से क्या Control किया जा सकता है?", "options": {"A": "Objects की Entry, Exit और Motion Effects", "B": "केवल Font Color", "C": "केवल Table Size", "D": "केवल File Name"}, "answer": "A"},
+  {"id": 165, "topic": "Presentation", "question": "Presentation में Hyperlink का उपयोग किसलिए होता है?", "options": {"A": "अन्य Slide या Webpage से Link करने के लिए", "B": "Text Bold करने के लिए", "C": "Table बनाने के लिए", "D": "Chart बनाने के लिए"}, "answer": "A"},
+  {"id": 166, "topic": "Presentation", "question": "Rehearse Timings Feature का उपयोग किसलिए होता है?", "options": {"A": "प्रत्येक Slide के लिए समय Set करने के लिए", "B": "Font बदलने के लिए", "C": "Image Insert करने के लिए", "D": "File Delete करने के लिए"}, "answer": "A"},
+  {"id": 167, "topic": "Presentation", "question": "Outline View का उपयोग किसलिए होता है?", "options": {"A": "Presentation की Text Content पर Focus करने के लिए", "B": "Slides Print करने के लिए", "C": "Animation जोड़ने के लिए", "D": "File Save करने के लिए"}, "answer": "A"},
+  {"id": 168, "topic": "Presentation", "question": "PowerPoint में Slide Number Insert करने के लिए किस Tab का उपयोग होता है?", "options": {"A": "Insert", "B": "Home", "C": "Review", "D": "File"}, "answer": "A"},
+  {"id": 169, "topic": "Presentation", "question": "Action Button का उपयोग किसलिए होता है?", "options": {"A": "Presentation में Navigation Control देने के लिए", "B": "Text Bold करने के लिए", "C": "Font बदलने के लिए", "D": "File Save करने के लिए"}, "answer": "A"},
+  {"id": 170, "topic": "Presentation", "question": "Reading View किस उद्देश्य से उपयोग होता है?", "options": {"A": "पूरी Screen पर Presentation देखने के लिए Window के अंदर", "B": "Slides Edit करने के लिए", "C": "Chart बनाने के लिए", "D": "File Delete करने के लिए"}, "answer": "A"},
+
+  {"id": 171, "topic": "Internet & Networking", "question": "Protocol क्या होता है?", "options": {"A": "Data Communication के नियमों का समूह", "B": "एक Hardware Device", "C": "एक Software Application", "D": "एक Storage Device"}, "answer": "A"},
+  {"id": 172, "topic": "Internet & Networking", "question": "MAN का पूरा नाम क्या है?", "options": {"A": "Metropolitan Area Network", "B": "Main Area Network", "C": "Multiple Area Network", "D": "Mobile Area Network"}, "answer": "A"},
+  {"id": 173, "topic": "Internet & Networking", "question": "Ring Topology में Devices कैसे जुड़े होते हैं?", "options": {"A": "एक Circular Chain में", "B": "Central Hub से", "C": "Random तरीके से", "D": "Bus Line से"}, "answer": "A"},
+  {"id": 174, "topic": "Internet & Networking", "question": "Bus Topology में सभी Devices किससे जुड़े होते हैं?", "options": {"A": "एक Central Cable से", "B": "एक दूसरे से Directly", "C": "Ring में", "D": "Star में"}, "answer": "A"},
+  {"id": 175, "topic": "Internet & Networking", "question": "Hub और Switch में मुख्य अंतर क्या है?", "options": {"A": "Switch Data को Specific Port पर भेजता है, Hub सभी Ports पर भेजता है", "B": "कोई अंतर नहीं है", "C": "Hub तेज़ है", "D": "Switch पुराना है"}, "answer": "A"},
+  {"id": 176, "topic": "Internet & Networking", "question": "FTP का पूरा नाम क्या है?", "options": {"A": "File Transfer Protocol", "B": "Fast Transfer Protocol", "C": "File Transmission Protocol", "D": "Fast Transmission Program"}, "answer": "A"},
+  {"id": 177, "topic": "Internet & Networking", "question": "Gateway का कार्य क्या है?", "options": {"A": "दो अलग-अलग Networks को जोड़ना", "B": "File Print करना", "C": "Internet Speed बढ़ाना", "D": "Data Delete करना"}, "answer": "A"},
+  {"id": 178, "topic": "Internet & Networking", "question": "Broadband किस प्रकार का Internet Connection है?", "options": {"A": "High Speed Internet Connection", "B": "Low Speed Internet Connection", "C": "केवल Wireless Connection", "D": "केवल Mobile Connection"}, "answer": "A"},
+  {"id": 179, "topic": "Internet & Networking", "question": "Domain Name System (DNS) का कार्य क्या है?", "options": {"A": "Domain Names को IP Address में बदलना", "B": "File Print करना", "C": "Password Generate करना", "D": "Email भेजना"}, "answer": "A"},
+  {"id": 180, "topic": "Internet & Networking", "question": "Hotspot का उपयोग किसलिए होता है?", "options": {"A": "Wi-Fi के माध्यम से Internet Share करने के लिए", "B": "File Print करने के लिए", "C": "Antivirus चलाने के लिए", "D": "Document बनाने के लिए"}, "answer": "A"},
+
+  {"id": 181, "topic": "WWW, Email & Cyber Security", "question": "Inbox किसे कहते हैं?", "options": {"A": "प्राप्त हुए Emails की List", "B": "भेजे गए Emails की List", "C": "Deleted Emails की List", "D": "Draft Emails की List"}, "answer": "A"},
+  {"id": 182, "topic": "WWW, Email & Cyber Security", "question": "Attachment का उपयोग Email में किसलिए होता है?", "options": {"A": "File को Email के साथ भेजने के लिए", "B": "Email Delete करने के लिए", "C": "Font बदलने के लिए", "D": "Password Reset करने के लिए"}, "answer": "A"},
+  {"id": 183, "topic": "WWW, Email & Cyber Security", "question": "Ransomware क्या करता है?", "options": {"A": "Data को Encrypt करके पैसे की मांग करता है", "B": "System की Speed बढ़ाता है", "C": "Antivirus का कार्य करता है", "D": "File को Organize करता है"}, "answer": "A"},
+  {"id": 184, "topic": "WWW, Email & Cyber Security", "question": "Web Browser का मुख्य कार्य क्या है?", "options": {"A": "Websites को Access और Display करना", "B": "File Print करना", "C": "Document बनाना", "D": "Data Store करना"}, "answer": "A"},
+  {"id": 185, "topic": "WWW, Email & Cyber Security", "question": "Trojan Horse किस प्रकार का Malware है?", "options": {"A": "Legitimate Software का रूप लेकर हानि पहुंचाने वाला Program", "B": "एक Antivirus", "C": "एक Search Engine", "D": "एक Browser"}, "answer": "A"},
+  {"id": 186, "topic": "WWW, Email & Cyber Security", "question": "Encryption का उद्देश्य क्या है?", "options": {"A": "Data को Unauthorized Access से Secure करना", "B": "Data को Delete करना", "C": "Internet Speed बढ़ाना", "D": "File Size बढ़ाना"}, "answer": "A"},
+  {"id": 187, "topic": "WWW, Email & Cyber Security", "question": "Worm किस प्रकार का Malware है?", "options": {"A": "खुद को Replicate करके Network में फैलने वाला Program", "B": "एक Antivirus Software", "C": "एक Firewall", "D": "एक Search Engine"}, "answer": "A"},
+  {"id": 188, "topic": "WWW, Email & Cyber Security", "question": "Hyperlink क्या होता है?", "options": {"A": "एक Webpage से दूसरे Webpage को जोड़ने वाला Link", "B": "एक Antivirus", "C": "एक Hardware Device", "D": "एक File Format"}, "answer": "A"},
+  {"id": 189, "topic": "WWW, Email & Cyber Security", "question": "Draft Folder में Email कब जाता है?", "options": {"A": "जब Email बिना भेजे Save किया जाता है", "B": "जब Email Delete किया जाता है", "C": "जब Email Read किया जाता है", "D": "जब Email Forward किया जाता है"}, "answer": "A"},
+  {"id": 190, "topic": "WWW, Email & Cyber Security", "question": "Social Engineering Attack में क्या किया जाता है?", "options": {"A": "लोगों को Manipulate करके जानकारी निकाली जाती है", "B": "Hardware ठीक किया जाता है", "C": "Software Install किया जाता है", "D": "Internet Speed बढ़ाई जाती है"}, "answer": "A"},
+
+  {"id": 191, "topic": "IT Applications & e-Governance", "question": "e-Governance में G2G का अर्थ क्या है?", "options": {"A": "Government to Government", "B": "Government to Guest", "C": "Government to Group", "D": "Government to Global"}, "answer": "A"},
+  {"id": 192, "topic": "IT Applications & e-Governance", "question": "BHIM App किस उद्देश्य से बनाई गई है?", "options": {"A": "UPI के माध्यम से Digital Payment के लिए", "B": "Games खेलने के लिए", "C": "Video Editing के लिए", "D": "Music सुनने के लिए"}, "answer": "A"},
+  {"id": 193, "topic": "IT Applications & e-Governance", "question": "e-Hospital Portal किसलिए बनाया गया है?", "options": {"A": "Online Appointment और Health सेवाओं के लिए", "B": "Games बनाने के लिए", "C": "Shopping के लिए", "D": "Music Store के लिए"}, "answer": "A"},
+  {"id": 194, "topic": "IT Applications & e-Governance", "question": "Online Voting System का लाभ क्या है?", "options": {"A": "आसान और सुरक्षित मतदान प्रक्रिया", "B": "Booth पर जाना अनिवार्य है", "C": "केवल Paper आधारित है", "D": "Internet की आवश्यकता नहीं"}, "answer": "A"},
+  {"id": 195, "topic": "IT Applications & e-Governance", "question": "e-Filing का अर्थ क्या है?", "options": {"A": "Documents/Returns को Online Submit करना", "B": "केवल Manual Filing", "C": "Paper Print करना", "D": "File Delete करना"}, "answer": "A"},
+  {"id": 196, "topic": "IT Applications & e-Governance", "question": "e-District Portal किसलिए उपयोग होता है?", "options": {"A": "District Level Government Services Online प्रदान करने के लिए", "B": "Games खेलने के लिए", "C": "Online Shopping के लिए", "D": "Music सुनने के लिए"}, "answer": "A"},
+  {"id": 197, "topic": "IT Applications & e-Governance", "question": "e-Governance में B2G का अर्थ क्या है?", "options": {"A": "Business to Government", "B": "Bank to Government", "C": "Business to Group", "D": "Bureau to Government"}, "answer": "A"},
+  {"id": 198, "topic": "IT Applications & e-Governance", "question": "National e-Governance Plan (NeGP) कब शुरू हुआ?", "options": {"A": "2006", "B": "2010", "C": "2014", "D": "2018"}, "answer": "A"},
+  {"id": 199, "topic": "IT Applications & e-Governance", "question": "Umang App किस उद्देश्य से बनाई गई है?", "options": {"A": "एक ही Platform पर कई Government Services देने के लिए", "B": "Games खेलने के लिए", "C": "Movies देखने के लिए", "D": "Shopping के लिए"}, "answer": "A"},
+  {"id": 200, "topic": "IT Applications & e-Governance", "question": "e-Kranti Programme किससे संबंधित है?", "options": {"A": "e-Governance Services के Electronic Delivery से", "B": "केवल Agriculture से", "C": "केवल Sports से", "D": "केवल Tourism से"}, "answer": "A"},
+
+  {"id": 201, "topic": "Computer Appreciation & Organization", "question": "Third Generation Computers में किसका उपयोग हुआ?", "options": {"A": "Integrated Circuits (IC)", "B": "Vacuum Tubes", "C": "Transistors", "D": "Microprocessors"}, "answer": "A"},
+  {"id": 202, "topic": "Operating System", "question": "Windows में Snipping Tool का उपयोग किसलिए होता है?", "options": {"A": "Screenshot लेने के लिए", "B": "File Print करने के लिए", "C": "Internet चलाने के लिए", "D": "Email भेजने के लिए"}, "answer": "A"},
+  {"id": 203, "topic": "Word Processing", "question": "Ctrl+U का उपयोग किसके लिए होता है?", "options": {"A": "Underline", "B": "Undo", "C": "Update", "D": "Upload"}, "answer": "A"},
+  {"id": 204, "topic": "Spreadsheet", "question": "TODAY() Function क्या Return करता है?", "options": {"A": "आज की तारीख", "B": "Cell का Value", "C": "Column Name", "D": "Sheet Name"}, "answer": "A"},
+  {"id": 205, "topic": "Presentation", "question": "Insert Tab से PowerPoint में क्या Insert किया जा सकता है?", "options": {"A": "Table, Chart, Image, Video आदि", "B": "केवल Text", "C": "केवल Font", "D": "केवल Color"}, "answer": "A"},
+  {"id": 206, "topic": "Internet & Networking", "question": "SMTP का पूरा नाम क्या है?", "options": {"A": "Simple Mail Transfer Protocol", "B": "Simple Message Transfer Protocol", "C": "System Mail Transfer Protocol", "D": "Simple Mail Transmission Program"}, "answer": "A"},
+  {"id": 207, "topic": "WWW, Email & Cyber Security", "question": "Cyber Crime का उदाहरण है?", "options": {"A": "Hacking", "B": "File Printing", "C": "Document Editing", "D": "Table Formatting"}, "answer": "A"},
+  {"id": 208, "topic": "IT Applications & e-Governance", "question": "e-Governance से Public Services में क्या सुधार होता है?", "options": {"A": "Speed और Accessibility बढ़ती है", "B": "Services बंद हो जाती हैं", "C": "Cost बढ़ती है और Speed घटती है", "D": "कोई फर्क नहीं पड़ता"}, "answer": "A"},
+  {"id": 209, "topic": "Computer Appreciation & Organization", "question": "Fourth Generation Computers की मुख्य विशेषता क्या थी?", "options": {"A": "Microprocessor का उपयोग", "B": "Vacuum Tubes का उपयोग", "C": "Transistors का उपयोग", "D": "Mechanical Parts का उपयोग"}, "answer": "A"},
+  {"id": 210, "topic": "Operating System", "question": "Windows में Shortcut Icon को कैसे पहचाना जाता है?", "options": {"A": "एक छोटे Arrow Symbol से", "B": "Red Color से", "C": "Blue Border से", "D": "Yellow Highlight से"}, "answer": "A"},
+  {"id": 211, "topic": "Word Processing", "question": "Ctrl+I का उपयोग किसके लिए होता है?", "options": {"A": "Italic", "B": "Insert", "C": "Indent", "D": "Image"}, "answer": "A"},
+  {"id": 212, "topic": "Spreadsheet", "question": "Wrap Text Feature क्या करता है?", "options": {"A": "Cell के अंदर Text को कई Lines में Fit करता है", "B": "Cell Delete करता है", "C": "Chart बनाता है", "D": "File Save करता है"}, "answer": "A"},
+  {"id": 213, "topic": "Presentation", "question": "Notes Page View किसलिए उपयोग होता है?", "options": {"A": "Slide और उसके Speaker Notes एक साथ देखने के लिए", "B": "Slide Print करने के लिए", "C": "Animation जोड़ने के लिए", "D": "File Delete करने के लिए"}, "answer": "A"},
+  {"id": 214, "topic": "Internet & Networking", "question": "POP3 का पूरा नाम क्या है?", "options": {"A": "Post Office Protocol 3", "B": "Public Office Protocol 3", "C": "Post Office Program 3", "D": "Personal Office Protocol 3"}, "answer": "A"},
+  {"id": 215, "topic": "WWW, Email & Cyber Security", "question": "Spyware क्या करता है?", "options": {"A": "बिना जानकारी के User की गतिविधियों की जासूसी करता है", "B": "System को Fast बनाता है", "C": "Antivirus का कार्य करता है", "D": "File को Organize करता है"}, "answer": "A"},
+  {"id": 216, "topic": "IT Applications & e-Governance", "question": "e-Panchayat Portal किसलिए बनाया गया है?", "options": {"A": "Panchayat Level Governance को Digital बनाने के लिए", "B": "Games खेलने के लिए", "C": "Shopping के लिए", "D": "Music के लिए"}, "answer": "A"},
+  {"id": 217, "topic": "Computer Appreciation & Organization", "question": "Touch Screen किस प्रकार का Device है?", "options": {"A": "Input और Output दोनों", "B": "केवल Input", "C": "केवल Output", "D": "केवल Storage"}, "answer": "A"},
+  {"id": 218, "topic": "Operating System", "question": "System Restore Feature क्या करता है?", "options": {"A": "System को पहले की Working State में वापस लाता है", "B": "System को Format करता है", "C": "File Delete करता है", "D": "Internet बंद करता है"}, "answer": "A"},
+  {"id": 219, "topic": "Word Processing", "question": "Ctrl+Y का उपयोग किसके लिए होता है?", "options": {"A": "Redo", "B": "Undo", "C": "Yield", "D": "Yank"}, "answer": "A"},
+  {"id": 220, "topic": "Spreadsheet", "question": "AutoFill Feature का उद्देश्य क्या है?", "options": {"A": "Pattern के आधार पर Cells को अपने आप भरना", "B": "Cells Delete करना", "C": "Chart बनाना", "D": "File Save करना"}, "answer": "A"}
+
+
+
+
+
+  {
+    "id": 1,
+    "topic": "Introduction to Computer",
+    "question": "Which of the following is considered the brain of the computer system?",
+    "options": {
+      "A": "ALU",
+      "B": "CPU",
+      "C": "RAM",
+      "D": "Control Unit"
+    },
+    "answer": "B",
+    "explanation": "CPU (Central Processing Unit) controls all operations and processes instructions in a computer."
+  },
+  {
+    "id": 2,
+    "topic": "Introduction to Computer",
+    "question": "Which type of memory is non-volatile and retains its data when power is turned off?",
+    "options": {
+      "A": "RAM",
+      "B": "SRAM",
+      "C": "ROM",
+      "D": "DRAM"
+    },
+    "answer": "C",
+    "explanation": "ROM (Read Only Memory) is permanent non-volatile memory."
+  },
+  {
+    "id": 3,
+    "topic": "Introduction to Operating System",
+    "question": "Which Linux command is used to display the current working directory?",
+    "options": {
+      "A": "cd",
+      "B": "pwd",
+      "C": "ls",
+      "D": "dir"
+    },
+    "answer": "B",
+    "explanation": "'pwd' stands for 'print working directory'."
+  },
+  {
+    "id": 4,
+    "topic": "Introduction to Operating System",
+    "question": "In Linux, which command is used to remove an empty directory?",
+    "options": {
+      "A": "rm",
+      "B": "del",
+      "C": "rmdir",
+      "D": "remove"
+    },
+    "answer": "C",
+    "explanation": "The 'rmdir' command removes an empty directory in Linux."
+  },
+  {
+    "id": 5,
+    "topic": "Word Processing (LibreOffice Writer)",
+    "question": "What is the default file extension of a LibreOffice Writer document?",
+    "options": {
+      "A": ".odt",
+      "B": ".ods",
+      "C": ".odp",
+      "D": ".docx"
+    },
+    "answer": "A",
+    "explanation": "LibreOffice Writer saves text documents in OpenDocument Text (.odt) format by default."
+  },
+  {
+    "id": 6,
+    "topic": "Word Processing (LibreOffice Writer)",
+    "question": "What is the shortcut key for Print Preview in LibreOffice Writer?",
+    "options": {
+      "A": "Ctrl + P",
+      "B": "Ctrl + Shift + O",
+      "C": "Ctrl + F2",
+      "D": "Ctrl + Shift + P"
+    },
+    "answer": "B",
+    "explanation": "Ctrl + Shift + O opens Print Preview in LibreOffice Writer."
+  },
+  {
+    "id": 7,
+    "topic": "Spreadsheet (LibreOffice Calc)",
+    "question": "What is the default extension of LibreOffice Calc spreadsheet?",
+    "options": {
+      "A": ".odt",
+      "B": ".ods",
+      "C": ".odp",
+      "D": ".xlsx"
+    },
+    "answer": "B",
+    "explanation": "LibreOffice Calc documents use OpenDocument Spreadsheet (.ods) format."
+  },
+  {
+    "id": 8,
+    "topic": "Spreadsheet (LibreOffice Calc)",
+    "question": "Which symbol is mandatory before entering any formula in LibreOffice Calc?",
+    "options": {
+      "A": "@",
+      "B": "#",
+      "C": "=",
+      "D": "$"
+    },
+    "answer": "C",
+    "explanation": "Every formula in Calc must start with an equal sign (=)."
+  },
+  {
+    "id": 9,
+    "topic": "Spreadsheet (LibreOffice Calc)",
+    "question": "What is the shortcut key to insert a new function in LibreOffice Calc?",
+    "options": {
+      "A": "Ctrl + F2",
+      "B": "Ctrl + F3",
+      "C": "Shift + F3",
+      "D": "F4"
+    },
+    "answer": "A",
+    "explanation": "Ctrl + F2 opens the Function Wizard in LibreOffice Calc."
+  },
+  {
+    "id": 10,
+    "topic": "Presentation (LibreOffice Impress)",
+    "question": "What is the default file extension of LibreOffice Impress?",
+    "options": {
+      "A": ".odp",
+      "B": ".ods",
+      "C": ".odt",
+      "D": ".pptx"
+    },
+    "answer": "A",
+    "explanation": "LibreOffice Impress presentations use OpenDocument Presentation (.odp) format."
+  },
+  {
+    "id": 11,
+    "topic": "Presentation (LibreOffice Impress)",
+    "question": "Which shortcut key starts a slide show from the first slide in LibreOffice Impress?",
+    "options": {
+      "A": "Shift + F5",
+      "B": "F5",
+      "C": "Ctrl + F5",
+      "D": "F4"
+    },
+    "answer": "B",
+    "explanation": "F5 starts the presentation from the first slide, while Shift + F5 starts from the current slide."
+  },
+  {
+    "id": 12,
+    "topic": "Introduction to Internet and WWW",
+    "question": "What is the full form of URL?",
+    "options": {
+      "A": "Uniform Resource Locator",
+      "B": "Uniform Resource Link",
+      "C": "Universal Reference Locator",
+      "D": "Unified Resource Locator"
+    },
+    "answer": "A",
+    "explanation": "URL stands for Uniform Resource Locator."
+  },
+  {
+    "id": 13,
+    "topic": "Introduction to Internet and WWW",
+    "question": "What is the size of an IPv4 address?",
+    "options": {
+      "A": "16 bits",
+      "B": "32 bits",
+      "C": "64 bits",
+      "D": "128 bits"
+    },
+    "answer": "B",
+    "explanation": "An IPv4 address consists of 32 bits (4 octets)."
+  },
+  {
+    "id": 14,
+    "topic": "Introduction to Internet and WWW",
+    "question": "Which protocol is primarily used to securely browse websites over the internet?",
+    "options": {
+      "A": "HTTP",
+      "B": "FTP",
+      "C": "HTTPS",
+      "D": "SMTP"
+    },
+    "answer": "C",
+    "explanation": "HTTPS (Hypertext Transfer Protocol Secure) provides encrypted communication over SSL/TLS."
+  },
+  {
+    "id": 15,
+    "topic": "E-mail, Social Networking and e-Governance Services",
+    "question": "Which protocol is used to send emails between servers?",
+    "options": {
+      "A": "POP3",
+      "B": "IMAP",
+      "C": "SMTP",
+      "D": "HTTP"
+    },
+    "answer": "C",
+    "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending outgoing mail."
+  },
+  {
+    "id": 16,
+    "topic": "E-mail, Social Networking and e-Governance Services",
+    "question": "What does BCC stand for in email terminology?",
+    "options": {
+      "A": "Blind Carbon Copy",
+      "B": "Basic Carbon Copy",
+      "C": "Binary Carbon Copy",
+      "D": "Business Carbon Copy"
+    },
+    "answer": "A",
+    "explanation": "BCC hides the email addresses of recipients from other recipients."
+  },
+  {
+    "id": 17,
+    "topic": "Digital Financial Tools and Applications",
+    "question": "What is the USSD service code used to access banking services without internet in India?",
+    "options": {
+      "A": "*99#",
+      "B": "*121#",
+      "C": "*199#",
+      "D": "*100#"
+    },
+    "answer": "A",
+    "explanation": "*99# is the USSD-based mobile banking service offered by NUUP."
+  },
+  {
+    "id": 18,
+    "topic": "Digital Financial Tools and Applications",
+    "question": "What is the full form of AEPS in digital banking?",
+    "options": {
+      "A": "Aadhaar Enabled Payment System",
+      "B": "Automated Electronic Payment Service",
+      "C": "Aadhaar Electronic Payment Solution",
+      "D": "Advanced Electronic Processing System"
+    },
+    "answer": "A",
+    "explanation": "AEPS stands for Aadhaar Enabled Payment System, powered by NPCI."
+  },
+  {
+    "id": 19,
+    "topic": "Overview of FutureSkills and Cyber Security",
+    "question": "What is the full form of IoT?",
+    "options": {
+      "A": "Internet of Technology",
+      "B": "Internet of Things",
+      "C": "Interconnection of Telecommunication",
+      "D": "Information of Technology"
+    },
+    "answer": "B",
+    "explanation": "IoT stands for Internet of Things, connecting physical objects to the web."
+  },
+  {
+    "id": 20,
+    "topic": "Overview of FutureSkills and Cyber Security",
+    "question": "What type of malware demands a payment from the victim to restore access to their encrypted files?",
+    "options": {
+      "A": "Spyware",
+      "B": "Adware",
+      "C": "Ransomware",
+      "D": "Worm"
+    },
+    "answer": "C",
+    "explanation": "Ransomware encrypts user data and demands ransom for decryption keys."
+  }
+
+
+
+
+
+
+
+
+  
+  {"id": 221, "topic": "Computer Appreciation & Organization", "question": "Fifth Generation Computers किस Technology पर आधारित हैं?", "options": {"A": "Artificial Intelligence", "B": "Vacuum Tubes", "C": "Transistors", "D": "Mechanical Gears"}, "answer": "A"},
+  {"id": 222, "topic": "Computer Appreciation & Organization", "question": "Supercomputer का उपयोग किसलिए होता है?", "options": {"A": "बहुत जटिल और बड़ी Calculations के लिए", "B": "केवल Email भेजने के लिए", "C": "केवल Games खेलने के लिए", "D": "केवल Music सुनने के लिए"}, "answer": "A"},
+  {"id": 223, "topic": "Computer Appreciation & Organization", "question": "Laptop और Desktop में मुख्य अंतर क्या है?", "options": {"A": "Laptop Portable होता है", "B": "Desktop Portable होता है", "C": "दोनों एक जैसे होते हैं", "D": "Laptop में CPU नहीं होता"}, "answer": "A"},
+  {"id": 224, "topic": "Computer Appreciation & Organization", "question": "Digital Camera किस Category का Device है?", "options": {"A": "Input Device", "B": "Output Device", "C": "Processing Device", "D": "Networking Device"}, "answer": "A"},
+  {"id": 225, "topic": "Computer Appreciation & Organization", "question": "Microcomputer का एक उदाहरण क्या है?", "options": {"A": "Personal Computer (PC)", "B": "Mainframe", "C": "Supercomputer", "D": "Minicomputer"}, "answer": "A"},
+  {"id": 226, "topic": "Computer Appreciation & Organization", "question": "Headphone किस Category का Device है?", "options": {"A": "Output Device", "B": "Input Device", "C": "Storage Device", "D": "Processing Device"}, "answer": "A"},
+  {"id": 227, "topic": "Computer Appreciation & Organization", "question": "Microphone किस Category का Device है?", "options": {"A": "Input Device", "B": "Output Device", "C": "Storage Device", "D": "Processing Device"}, "answer": "A"},
+  {"id": 228, "topic": "Computer Appreciation & Organization", "question": "Pen Drive किस प्रकार की Memory है?", "options": {"A": "Secondary Storage", "B": "Primary Storage", "C": "Cache Memory", "D": "Register"}, "answer": "A"},
+  {"id": 229, "topic": "Computer Appreciation & Organization", "question": "Mainframe Computer का उपयोग मुख्यतः किसलिए होता है?", "options": {"A": "बड़े Organizations में Bulk Data Processing के लिए", "B": "Personal Use के लिए", "C": "केवल Games के लिए", "D": "केवल Photography के लिए"}, "answer": "A"},
+  {"id": 230, "topic": "Computer Appreciation & Organization", "question": "1 TB में कितने GB होते हैं?", "options": {"A": "1024", "B": "1000", "C": "512", "D": "2048"}, "answer": "A"},
+  {"id": 231, "topic": "Computer Appreciation & Organization", "question": "Webcam किस Category का Device है?", "options": {"A": "Input Device", "B": "Output Device", "C": "Storage Device", "D": "Processing Device"}, "answer": "A"},
+  {"id": 232, "topic": "Computer Appreciation & Organization", "question": "BIOS का पूरा नाम क्या है?", "options": {"A": "Basic Input Output System", "B": "Basic Internal Output System", "C": "Binary Input Output System", "D": "Basic Input Operating System"}, "answer": "A"},
+
+  {"id": 233, "topic": "Operating System", "question": "Windows में Notepad किस प्रकार का Application है?", "options": {"A": "Text Editor", "B": "Image Editor", "C": "Video Editor", "D": "Audio Editor"}, "answer": "A"},
+  {"id": 234, "topic": "Operating System", "question": "Windows में Paint Application किसलिए उपयोग होता है?", "options": {"A": "Drawing और Image Editing के लिए", "B": "Text Type करने के लिए", "C": "Internet चलाने के लिए", "D": "Email भेजने के लिए"}, "answer": "A"},
+  {"id": 235, "topic": "Operating System", "question": "Linux में Directory बनाने की Command क्या है?", "options": {"A": "mkdir", "B": "makedir", "C": "newdir", "D": "createdir"}, "answer": "A"},
+  {"id": 236, "topic": "Operating System", "question": "Windows में सभी Open Windows को एक साथ Minimize करने की Shortcut क्या है?", "options": {"A": "Windows+D", "B": "Windows+M", "C": "Windows+E", "D": "Windows+R"}, "answer": "A"},
+  {"id": 237, "topic": "Operating System", "question": "Distributed OS का क्या अर्थ है?", "options": {"A": "कई Computers एक Single System की तरह कार्य करते हैं", "B": "केवल एक Computer कार्य करता है", "C": "OS Install नहीं होता", "D": "Internet की आवश्यकता नहीं"}, "answer": "A"},
+  {"id": 238, "topic": "Operating System", "question": "Linux में वर्तमान Directory दिखाने की Command क्या है?", "options": {"A": "pwd", "B": "cd", "C": "ls", "D": "dir"}, "answer": "A"},
+  {"id": 239, "topic": "Operating System", "question": "Windows Update का उद्देश्य क्या है?", "options": {"A": "System को नए Features और Security Patches देना", "B": "File Delete करना", "C": "Internet बंद करना", "D": "Antivirus हटाना"}, "answer": "A"},
+  {"id": 240, "topic": "Operating System", "question": "Disk Cleanup Tool किसलिए उपयोग होता है?", "options": {"A": "अनावश्यक Files हटाकर Space खाली करने के लिए", "B": "Internet चलाने के लिए", "C": "File बनाने के लिए", "D": "Email भेजने के लिए"}, "answer": "A"},
+  {"id": 241, "topic": "Operating System", "question": "Windows में Multiple Files Select करने के लिए किस Key का उपयोग होता है?", "options": {"A": "Ctrl", "B": "Alt", "C": "Tab", "D": "Esc"}, "answer": "A"},
+  {"id": 242, "topic": "Operating System", "question": "Linux में File Delete करने की Command क्या है?", "options": {"A": "rm", "B": "del", "C": "delete", "D": "remove"}, "answer": "A"},
+
+  {"id": 243, "topic": "Word Processing", "question": "Page Break का उपयोग किसलिए होता है?", "options": {"A": "एक नए Page पर Content शुरू करने के लिए", "B": "Table बनाने के लिए", "C": "Image Insert करने के लिए", "D": "Font बदलने के लिए"}, "answer": "A"},
+  {"id": 244, "topic": "Word Processing", "question": "Ctrl+End का क्या कार्य है?", "options": {"A": "Cursor को Document के अंत में ले जाना", "B": "Document Save करना", "C": "Document Print करना", "D": "Document Close करना"}, "answer": "A"},
+  {"id": 245, "topic": "Word Processing", "question": "Ctrl+Home का क्या कार्य है?", "options": {"A": "Cursor को Document के शुरुआत में ले जाना", "B": "Document Save करना", "C": "Document Print करना", "D": "Document Close करना"}, "answer": "A"},
+  {"id": 246, "topic": "Word Processing", "question": "Text Alignment में कौन सा Option नहीं है?", "options": {"A": "Rotate", "B": "Left", "C": "Center", "D": "Justify"}, "answer": "A"},
+  {"id": 247, "topic": "Word Processing", "question": "Footnote का उपयोग किसलिए होता है?", "options": {"A": "Page के नीचे Additional Information देने के लिए", "B": "Table बनाने के लिए", "C": "Image Insert करने के लिए", "D": "Font बदलने के लिए"}, "answer": "A"},
+  {"id": 248, "topic": "Word Processing", "question": "Ctrl+F का उपयोग किसके लिए होता है?", "options": {"A": "Find", "B": "Font", "C": "File", "D": "Format"}, "answer": "A"},
+  {"id": 249, "topic": "Word Processing", "question": "Clip Art का उपयोग किसलिए होता है?", "options": {"A": "Ready-made Images Document में Insert करने के लिए", "B": "Text Type करने के लिए", "C": "Spelling Check करने के लिए", "D": "File Save करने के लिए"}, "answer": "A"},
+  {"id": 250, "topic": "Word Processing", "question": "Ctrl+O का उपयोग किसके लिए होता है?", "options": {"A": "Open", "B": "Organize", "C": "Outline", "D": "Overwrite"}, "answer": "A"},
+  {"id": 251, "topic": "Word Processing", "question": "SmartArt का उपयोग किसलिए होता है?", "options": {"A": "Visual Diagrams और Graphics बनाने के लिए", "B": "Spelling Check के लिए", "C": "File Save के लिए", "D": "Print के लिए"}, "answer": "A"},
+  {"id": 252, "topic": "Word Processing", "question": "Format Painter Tool क्या करता है?", "options": {"A": "एक Text की Formatting को दूसरे Text पर Copy करता है", "B": "Text को Delete करता है", "C": "File Save करता है", "D": "Table बनाता है"}, "answer": "A"},
+
+  {"id": 253, "topic": "Spreadsheet", "question": "Excel में Sheet Tab का उपयोग किसलिए होता है?", "options": {"A": "अलग-अलग Sheets के बीच Switch करने के लिए", "B": "File Save करने के लिए", "C": "Chart बनाने के लिए", "D": "Data Delete करने के लिए"}, "answer": "A"},
+  {"id": 254, "topic": "Spreadsheet", "question": "Name Box का कार्य क्या है?", "options": {"A": "Selected Cell का Address दिखाना", "B": "Chart का Title दिखाना", "C": "File का Size दिखाना", "D": "Sheet का Color दिखाना"}, "answer": "A"},
+  {"id": 255, "topic": "Spreadsheet", "question": "Formula Bar में क्या Display होता है?", "options": {"A": "Selected Cell का Content/Formula", "B": "केवल Cell का Color", "C": "File का Name", "D": "Sheet Number"}, "answer": "A"},
+  {"id": 256, "topic": "Spreadsheet", "question": "TRIM() Function क्या करता है?", "options": {"A": "Text से Extra Spaces हटाता है", "B": "Numbers जोड़ता है", "C": "Cells Delete करता है", "D": "Chart बनाता है"}, "answer": "A"},
+  {"id": 257, "topic": "Spreadsheet", "question": "Insert Tab से Excel में क्या Insert किया जा सकता है?", "options": {"A": "Chart, PivotTable, Picture आदि", "B": "केवल Text", "C": "केवल Numbers", "D": "केवल Formula"}, "answer": "A"},
+  {"id": 258, "topic": "Spreadsheet", "question": "LEN() Function क्या Return करता है?", "options": {"A": "Text की Length (Characters की संख्या)", "B": "Cell का Color", "C": "Row Number", "D": "Column Letter"}, "answer": "A"},
+  {"id": 259, "topic": "Spreadsheet", "question": "Excel में एक Worksheet में अधिकतम कितने Rows होते हैं (Modern Excel)?", "options": {"A": "10,48,576", "B": "65,536", "C": "1,00,000", "D": "5,00,000"}, "answer": "A"},
+  {"id": 260, "topic": "Spreadsheet", "question": "UPPER() Function क्या करता है?", "options": {"A": "Text को Uppercase में बदलता है", "B": "Text को Lowercase में बदलता है", "C": "Numbers Round करता है", "D": "Cells Delete करता है"}, "answer": "A"},
+  {"id": 261, "topic": "Spreadsheet", "question": "Excel Chart में Legend क्या दिखाता है?", "options": {"A": "अलग-अलग Data Series की पहचान", "B": "Chart का Title", "C": "X-Axis का Value", "D": "File का Name"}, "answer": "A"},
+  {"id": 262, "topic": "Spreadsheet", "question": "Goal Seek Feature किसलिए उपयोग होता है?", "options": {"A": "एक Desired Result के लिए Input Value ढूंढने के लिए", "B": "Data Sort करने के लिए", "C": "Chart बनाने के लिए", "D": "File Save करने के लिए"}, "answer": "A"},
+
+  {"id": 263, "topic": "Presentation", "question": "Blank Presentation Option किसलिए उपयोग होता है?", "options": {"A": "बिना Design के नई Presentation शुरू करने के लिए", "B": "पुरानी Presentation खोलने के लिए", "C": "Presentation Print करने के लिए", "D": "Presentation Delete करने के लिए"}, "answer": "A"},
+  {"id": 264, "topic": "Presentation", "question": "Slide Background बदलने के लिए किस Tab का उपयोग होता है?", "options": {"A": "Design", "B": "Home", "C": "Review", "D": "View"}, "answer": "A"},
+  {"id": 265, "topic": "Presentation", "question": "Presentation को Save As करते समय किसे बदला जा सकता है?", "options": {"A": "File Name और File Format", "B": "केवल Font", "C": "केवल Color", "D": "केवल Slide Number"}, "answer": "A"},
+  {"id": 266, "topic": "Presentation", "question": "WordArt का उपयोग किसलिए होता है?", "options": {"A": "Stylish और Decorative Text बनाने के लिए", "B": "Table बनाने के लिए", "C": "Chart बनाने के लिए", "D": "File Save करने के लिए"}, "answer": "A"},
+  {"id": 267, "topic": "Presentation", "question": "PowerPoint में एक Slide को Duplicate करने का उद्देश्य क्या है?", "options": {"A": "Similar Content वाली नई Slide बनाना", "B": "Slide Delete करना", "C": "Slide Print करना", "D": "File Close करना"}, "answer": "A"},
+  {"id": 268, "topic": "Presentation", "question": "PowerPoint Ribbon में Home Tab में क्या होता है?", "options": {"A": "Font, Paragraph, Slides जैसे Basic Options", "B": "केवल Animation Options", "C": "केवल Review Options", "D": "केवल Chart Options"}, "answer": "A"},
+  {"id": 269, "topic": "Presentation", "question": "Presenter View का उद्देश्य क्या है?", "options": {"A": "Presenter को Notes और Next Slide दिखाना जबकि Audience केवल Slide देखे", "B": "Slide Delete करना", "C": "Font बदलना", "D": "File Save करना"}, "answer": "A"},
+  {"id": 270, "topic": "Presentation", "question": "PowerPoint में Slide Size बदलने का Option कहाँ मिलता है?", "options": {"A": "Design Tab में", "B": "Home Tab में", "C": "Review Tab में", "D": "Insert Tab में"}, "answer": "A"},
+
+  {"id": 271, "topic": "Internet & Networking", "question": "Peer to Peer Network में क्या होता है?", "options": {"A": "सभी Computers समान अधिकार रखते हैं", "B": "एक Central Server होता है", "C": "कोई Computer जुड़ा नहीं होता", "D": "केवल एक Computer कार्य करता है"}, "answer": "A"},
+  {"id": 272, "topic": "Internet & Networking", "question": "Client-Server Network में Server का क्या कार्य है?", "options": {"A": "Resources और Services प्रदान करना", "B": "केवल Data प्राप्त करना", "C": "Internet बंद करना", "D": "File Delete करना"}, "answer": "A"},
+  {"id": 273, "topic": "Internet & Networking", "question": "Mesh Topology में Devices कैसे जुड़े होते हैं?", "options": {"A": "हर Device सीधे हर दूसरे Device से जुड़ा होता है", "B": "एक Central Hub से", "C": "एक Circular Chain में", "D": "एक Single Line में"}, "answer": "A"},
+  {"id": 274, "topic": "Internet & Networking", "question": "Ethernet Cable का उपयोग किसलिए होता है?", "options": {"A": "Wired Network Connection के लिए", "B": "Wireless Connection के लिए", "C": "Bluetooth के लिए", "D": "Satellite Connection के लिए"}, "answer": "A"},
+  {"id": 275, "topic": "Internet & Networking", "question": "Network Interface Card (NIC) का कार्य क्या है?", "options": {"A": "Computer को Network से जोड़ना", "B": "File Print करना", "C": "Data Delete करना", "D": "Antivirus चलाना"}, "answer": "A"},
+  {"id": 276, "topic": "Internet & Networking", "question": "Satellite Communication का उपयोग किसमें होता है?", "options": {"A": "लंबी दूरी के Communication में", "B": "केवल Local Network में", "C": "केवल Bluetooth में", "D": "केवल USB Connection में"}, "answer": "A"},
+  {"id": 277, "topic": "Internet & Networking", "question": "IPv4 Address में कितने Bits होते हैं?", "options": {"A": "32", "B": "64", "C": "128", "D": "16"}, "answer": "A"},
+  {"id": 278, "topic": "Internet & Networking", "question": "Optical Fiber Cable किस माध्यम से Data भेजता है?", "options": {"A": "Light Signals", "B": "Electrical Signals", "C": "Radio Waves", "D": "Sound Waves"}, "answer": "A"},
+  {"id": 279, "topic": "Internet & Networking", "question": "Bandwidth किसे मापता है?", "options": {"A": "Network की Data Transfer Capacity", "B": "File का Size", "C": "Computer की Speed", "D": "Screen का Resolution"}, "answer": "A"},
+  {"id": 280, "topic": "Internet & Networking", "question": "Telnet Protocol का उपयोग किसलिए होता है?", "options": {"A": "Remote Computer को Access करने के लिए", "B": "Email भेजने के लिए", "C": "File Print करने के लिए", "D": "Chart बनाने के लिए"}, "answer": "A"},
+
+  {"id": 281, "topic": "WWW, Email & Cyber Security", "question": "Web Page और Website में क्या अंतर है?", "options": {"A": "Website कई Web Pages का समूह होती है", "B": "दोनों एक ही चीज़ हैं", "C": "Web Page बड़ी होती है", "D": "Website में केवल एक Page होता है"}, "answer": "A"},
+  {"id": 282, "topic": "WWW, Email & Cyber Security", "question": "Adware क्या है?", "options": {"A": "अवांछित Advertisements दिखाने वाला Software", "B": "एक Antivirus", "C": "एक Firewall", "D": "एक Search Engine"}, "answer": "A"},
+  {"id": 283, "topic": "WWW, Email & Cyber Security", "question": "Keylogger क्या करता है?", "options": {"A": "User की Keystrokes को गुप्त रूप से Record करता है", "B": "System को Fast बनाता है", "C": "File को Compress करता है", "D": "Internet Speed बढ़ाता है"}, "answer": "A"},
+  {"id": 284, "topic": "WWW, Email & Cyber Security", "question": "Digital Signature का उद्देश्य क्या है?", "options": {"A": "Document की Authenticity Verify करना", "B": "File Delete करना", "C": "Internet Speed बढ़ाना", "D": "File Compress करना"}, "answer": "A"},
+  {"id": 285, "topic": "WWW, Email & Cyber Security", "question": "Web Hosting का अर्थ क्या है?", "options": {"A": "Website को Internet पर उपलब्ध कराने की सेवा", "B": "Email भेजने की सेवा", "C": "File Print करने की सेवा", "D": "Antivirus सेवा"}, "answer": "A"},
+  {"id": 286, "topic": "WWW, Email & Cyber Security", "question": "Cyber Security का मुख्य उद्देश्य क्या है?", "options": {"A": "Systems और Data को Cyber Attacks से बचाना", "B": "Internet Speed बढ़ाना", "C": "File Size घटाना", "D": "Email भेजना आसान बनाना"}, "answer": "A"},
+  {"id": 287, "topic": "WWW, Email & Cyber Security", "question": "Identity Theft क्या है?", "options": {"A": "किसी की Personal Information चुराकर धोखाधड़ी करना", "B": "Password बदलना", "C": "Email Delete करना", "D": "Antivirus Update करना"}, "answer": "A"},
+  {"id": 288, "topic": "WWW, Email & Cyber Security", "question": "Bookmark Feature (Browser में) किसलिए उपयोग होता है?", "options": {"A": "पसंदीदा Websites को Save करने के लिए", "B": "File Delete करने के लिए", "C": "Password बदलने के लिए", "D": "Email भेजने के लिए"}, "answer": "A"},
+  {"id": 289, "topic": "WWW, Email & Cyber Security", "question": "Incognito/Private Browsing Mode का क्या लाभ है?", "options": {"A": "Browsing History Save नहीं होती", "B": "Internet Speed बढ़ती है", "C": "Virus से पूरी तरह सुरक्षा मिलती है", "D": "File Size घटता है"}, "answer": "A"},
+  {"id": 290, "topic": "WWW, Email & Cyber Security", "question": "OTP का पूरा नाम क्या है?", "options": {"A": "One Time Password", "B": "Online Transfer Protocol", "C": "One Time Protocol", "D": "Open Transfer Password"}, "answer": "A"},
+
+  {"id": 291, "topic": "IT Applications & e-Governance", "question": "e-Governance की एक चुनौती क्या हो सकती है?", "options": {"A": "Digital Divide (सभी तक Internet न पहुंचना)", "B": "Services का तेज़ होना", "C": "Transparency बढ़ना", "D": "Corruption कम होना"}, "answer": "A"},
+  {"id": 292, "topic": "IT Applications & e-Governance", "question": "Jeevan Pramaan किसलिए उपयोग होता है?", "options": {"A": "Pensioners के लिए Digital Life Certificate", "B": "Games खेलने के लिए", "C": "Shopping के लिए", "D": "Music सुनने के लिए"}, "answer": "A"},
+  {"id": 293, "topic": "IT Applications & e-Governance", "question": "e-Office Application किसलिए उपयोग होता है?", "options": {"A": "Government Offices में Paperless Work के लिए", "B": "Games के लिए", "C": "Movies देखने के लिए", "D": "Shopping के लिए"}, "answer": "A"},
+  {"id": 294, "topic": "IT Applications & e-Governance", "question": "e-Courts Project का उद्देश्य क्या है?", "options": {"A": "Court Processes को ICT से बेहतर बनाना", "B": "Games बनाना", "C": "Music Streaming", "D": "Online Shopping"}, "answer": "A"},
+  {"id": 295, "topic": "IT Applications & e-Governance", "question": "e-Sign Service किसलिए उपयोग होती है?", "options": {"A": "Documents पर Digitally Sign करने के लिए", "B": "Games खेलने के लिए", "C": "Music सुनने के लिए", "D": "Video देखने के लिए"}, "answer": "A"},
+  {"id": 296, "topic": "IT Applications & e-Governance", "question": "Bharat Net Project का उद्देश्य क्या है?", "options": {"A": "गाँवों तक Broadband Connectivity पहुंचाना", "B": "केवल शहरों में Internet देना", "C": "Games Develop करना", "D": "Movies बनाना"}, "answer": "A"},
+  {"id": 297, "topic": "IT Applications & e-Governance", "question": "e-Nam Portal किस क्षेत्र से संबंधित है?", "options": {"A": "Agriculture (कृषि उत्पादों की Online Trading)", "B": "Education", "C": "Health", "D": "Entertainment"}, "answer": "A"},
+  {"id": 298, "topic": "IT Applications & e-Governance", "question": "e-Governance में C2G Interaction का क्या अर्थ है?", "options": {"A": "Citizen to Government", "B": "Company to Government", "C": "Citizen to Company", "D": "Company to Citizen"}, "answer": "A"},
+  {"id": 299, "topic": "IT Applications & e-Governance", "question": "Swayam Portal किस उद्देश्य से बनाया गया है?", "options": {"A": "Free Online Education Courses प्रदान करने के लिए", "B": "Shopping के लिए", "C": "Banking के लिए", "D": "Gaming के लिए"}, "answer": "A"},
+  {"id": 300, "topic": "IT Applications & e-Governance", "question": "e-Governance Infrastructure में SWAN का पूरा नाम क्या है?", "options": {"A": "State Wide Area Network", "B": "System Wide Area Network", "C": "Software Wide Area Network", "D": "State Wireless Area Network"}, "answer": "A"},
+
+
+
+
+
+{
+"id": 1,
+"topic": "Introduction to Computer",
+"question": "How many bits are there in one Nibble?",
+"options": {
+"A": "2 bits",
+"B": "4 bits",
+"C": "8 bits",
+"D": "16 bits"
+},
+"answer": "B",
+"explanation": "One nibble is equal to 4 bits, and one byte is equal to 8 bits."
+},
+{
+"id": 2,
+"topic": "Introduction to Computer",
+"question": "Which of the following is NOT an input device?",
+"options": {
+"A": "Keyboard",
+"B": "Mouse",
+"C": "Monitor",
+"D": "Scanner"
+},
+"answer": "C",
+"explanation": "A monitor is an output device used to display visual information."
+},
+{
+"id": 3,
+"topic": "Introduction to Computer",
+"question": "What does VDU stand for?",
+"options": {
+"A": "Video Display Unit",
+"B": "Visual Display Unit",
+"C": "Virtual Display Unit",
+"D": "Visual Data Unit"
+},
+"answer": "B",
+"explanation": "VDU stands for Visual Display Unit, which is another name for a monitor."
+},
+{
+"id": 4,
+"topic": "Introduction to Operating System",
+"question": "Which of the following is NOT an open-source operating system?",
+"options": {
+"A": "Linux",
+"B": "Ubuntu",
+"C": "Windows 11",
+"D": "Android"
+},
+"answer": "C",
+"explanation": "Windows 11 is a proprietary operating system developed by Microsoft."
+},
+{
+"id": 5,
+"topic": "Introduction to Operating System",
+"question": "What is the core component of the Linux operating system?",
+"options": {
+"A": "Shell",
+"B": "GUI",
+"C": "Terminal",
+"D": "Kernel"
+},
+"answer": "D",
+"explanation": "The Kernel is the core component of Linux that manages system resources and hardware."
+},
+{
+"id": 6,
+"topic": "Introduction to Operating System",
+"question": "What is the shortcut key to lock the screen in Windows operating system?",
+"options": {
+"A": "Ctrl + L",
+"B": "Windows Key + L",
+"C": "Shift + L",
+"D": "Alt + L"
+},
+"answer": "B",
+"explanation": "Pressing the Windows Key + L quickly locks the Windows desktop."
+},
+{
+"id": 7,
+"topic": "Word Processing (LibreOffice Writer)",
+"question": "What is the maximum zoom percentage supported in LibreOffice Writer?",
+"options": {
+"A": "300%",
+"B": "400%",
+"C": "500%",
+"D": "600%"
+},
+"answer": "D",
+"explanation": "LibreOffice Writer allows you to zoom in up to a maximum of 600%."
+},
+{
+"id": 8,
+"topic": "Word Processing (LibreOffice Writer)",
+"question": "What is the shortcut key for 'Save As' in LibreOffice Writer?",
+"options": {
+"A": "Ctrl + Shift + S",
+"B": "F12",
+"C": "Ctrl + S",
+"D": "Alt + S"
+},
+"answer": "A",
+"explanation": "Ctrl + Shift + S is used for the 'Save As' command in LibreOffice."
+},
+{
+"id": 9,
+"topic": "Word Processing (LibreOffice Writer)",
+"question": "What is the default font name in LibreOffice Writer?",
+"options": {
+"A": "Times New Roman",
+"B": "Arial",
+"C": "Liberation Serif",
+"D": "Calibri"
+},
+"answer": "C",
+"explanation": "The default font in LibreOffice Writer is Liberation Serif."
+},
+{
+"id": 10,
+"topic": "Spreadsheet (LibreOffice Calc)",
+"question": "How many total rows are there in a LibreOffice Calc spreadsheet?",
+"options": {
+"A": "65536",
+"B": "1048576",
+"C": "1024",
+"D": "16384"
+},
+"answer": "B",
+"explanation": "LibreOffice Calc has a maximum of 1,048,576 rows per sheet."
+},
+{
+"id": 11,
+"topic": "Spreadsheet (LibreOffice Calc)",
+"question": "What is the address of the last column in LibreOffice Calc?",
+"options": {
+"A": "XFD",
+"B": "AMJ",
+"C": "IV",
+"D": "ZZZ"
+},
+"answer": "B",
+"explanation": "The last column in LibreOffice Calc is AMJ (which is the 1024th column)."
+},
+{
+"id": 12,
+"topic": "Spreadsheet (LibreOffice Calc)",
+"question": "Which shortcut key is used to insert a new cell/row/column in LibreOffice Calc?",
+"options": {
+"A": "Ctrl + N",
+"B": "Ctrl + I",
+"C": "Ctrl + Plus (+)",
+"D": "Shift + Plus (+)"
+},
+"answer": "C",
+"explanation": "Ctrl + + (Plus sign) opens the dialog box to insert cells, rows, or columns."
+},
+{
+"id": 13,
+"topic": "Presentation (LibreOffice Impress)",
+"question": "What is the shortcut key to insert a New Slide in LibreOffice Impress?",
+"options": {
+"A": "Ctrl + N",
+"B": "Ctrl + M",
+"C": "Ctrl + S",
+"D": "Ctrl + K"
+},
+"answer": "B",
+"explanation": "Ctrl + M is the standard shortcut to add a new slide in Impress."
+},
+{
+"id": 14,
+"topic": "Presentation (LibreOffice Impress)",
+"question": "In which menu is the 'Master Slide' option available in LibreOffice Impress?",
+"options": {
+"A": "Slide",
+"B": "Format",
+"C": "View",
+"D": "Tools"
+},
+"answer": "C",
+"explanation": "The Master Slide option can be accessed from the View menu."
+},
+{
+"id": 15,
+"topic": "Presentation (LibreOffice Impress)",
+"question": "What is the maximum zoom percentage in LibreOffice Impress?",
+"options": {
+"A": "400%",
+"B": "600%",
+"C": "3000%",
+"D": "100%"
+},
+"answer": "C",
+"explanation": "LibreOffice Impress allows a maximum zoom of 3000%."
+},
+{
+"id": 16,
+"topic": "Introduction to Internet and WWW",
+"question": "Who is considered the inventor of the World Wide Web (WWW)?",
+"options": {
+"A": "Vint Cerf",
+"B": "Charles Babbage",
+"C": "Tim Berners-Lee",
+"D": "Bob Kahn"
+},
+"answer": "C",
+"explanation": "Tim Berners-Lee invented the World Wide Web in 1989."
+},
+{
+"id": 17,
+"topic": "Introduction to Internet and WWW",
+"question": "What is the size of an IPv6 address?",
+"options": {
+"A": "32 bits",
+"B": "64 bits",
+"C": "128 bits",
+"D": "256 bits"
+},
+"answer": "C",
+"explanation": "IPv6 addresses are 128-bit identifiers, whereas IPv4 addresses are 32-bit."
+},
+{
+"id": 18,
+"topic": "Introduction to Internet and WWW",
+"question": "What is the size of a MAC (Media Access Control) address?",
+"options": {
+"A": "16 bits",
+"B": "32 bits",
+"C": "48 bits",
+"D": "64 bits"
+},
+"answer": "C",
+"explanation": "A MAC address is a 48-bit unique identifier assigned to a network interface controller."
+},
+{
+"id": 19,
+"topic": "E-mail, Social Networking and e-Governance Services",
+"question": "What is the maximum attachment size allowed in Gmail?",
+"options": {
+"A": "10 MB",
+"B": "15 MB",
+"C": "20 MB",
+"D": "25 MB"
+},
+"answer": "D",
+"explanation": "You can send attachments up to 25 MB in size through Gmail."
+},
+{
+"id": 20,
+"topic": "E-mail, Social Networking and e-Governance Services",
+"question": "Which protocol is used for receiving emails?",
+"options": {
+"A": "SMTP",
+"B": "POP3",
+"C": "FTP",
+"D": "UDP"
+},
+"answer": "B",
+"explanation": "POP3 (Post Office Protocol version 3) and IMAP are used to receive emails."
+},
+{
+"id": 21,
+"topic": "E-mail, Social Networking and e-Governance Services",
+"question": "What does UMANG stand for in e-Governance?",
+"options": {
+"A": "Unified Mobile Application for New-age Governance",
+"B": "Universal Mobile App for National Governance",
+"C": "Unified Machine Application for New Governance",
+"D": "Unique Mobile App for Nation Governance"
+},
+"answer": "A",
+"explanation": "UMANG is a Government of India initiative providing access to central and state government services."
+},
+{
+"id": 22,
+"topic": "Digital Financial Tools and Applications",
+"question": "What is the minimum limit for fund transfer using RTGS?",
+"options": {
+"A": "Rs. 50,000",
+"B": "Rs. 1,00,000",
+"C": "Rs. 2,00,000",
+"D": "No minimum limit"
+},
+"answer": "C",
+"explanation": "The minimum amount to be remitted through Real Time Gross Settlement (RTGS) is Rs. 2 Lakhs."
+},
+{
+"id": 23,
+"topic": "Digital Financial Tools and Applications",
+"question": "Which organization manages the NEFT system in India?",
+"options": {
+"A": "SBI",
+"B": "RBI",
+"C": "NPCI",
+"D": "SEBI"
+},
+"answer": "B",
+"explanation": "National Electronic Funds Transfer (NEFT) is a nationwide payment system owned and operated by the Reserve Bank of India (RBI)."
+},
+{
+"id": 24,
+"topic": "Digital Financial Tools and Applications",
+"question": "UPI (Unified Payments Interface) was developed by which organization?",
+"options": {
+"A": "RBI",
+"B": "SBI",
+"C": "NPCI",
+"D": "UIDAI"
+},
+"answer": "C",
+"explanation": "UPI was developed by the National Payments Corporation of India (NPCI)."
+},
+{
+"id": 25,
+"topic": "Overview of FutureSkills and Cyber Security",
+"question": "Who is known as the father of Artificial Intelligence (AI)?",
+"options": {
+"A": "Alan Turing",
+"B": "John McCarthy",
+"C": "Charles Babbage",
+"D": "Dennis Ritchie"
+},
+"answer": "B",
+"explanation": "John McCarthy coined the term Artificial Intelligence in 1955 and is considered the father of AI."
+},
+{
+"id": 26,
+"topic": "Overview of FutureSkills and Cyber Security",
+"question": "Which of the following is a symmetric key cryptography algorithm?",
+"options": {
+"A": "RSA",
+"B": "DES",
+"C": "Diffie-Hellman",
+"D": "DSA"
+},
+"answer": "B",
+"explanation": "DES (Data Encryption Standard) is a symmetric-key method of data encryption."
+},
+{
+"id": 27,
+"topic": "Overview of FutureSkills and Cyber Security",
+"question": "What is the primary function of a Firewall?",
+"options": {
+"A": "To transfer files",
+"B": "To monitor and control incoming and outgoing network traffic",
+"C": "To create spreadsheets",
+"D": "To scan for viruses on local storage"
+},
+"answer": "B",
+"explanation": "A firewall acts as a barrier between a trusted network and an untrusted network to protect against cyber threats."
+},
+{
+"id": 28,
+"topic": "Introduction to Computer",
+"question": "Which memory is closest to the CPU and is the fastest?",
+"options": {
+"A": "RAM",
+"B": "ROM",
+"C": "Cache Memory",
+"D": "Hard Disk"
+},
+"answer": "C",
+"explanation": "Cache memory is highly fast semiconductor memory that speeds up the CPU by storing frequently used data."
+},
+{
+"id": 29,
+"topic": "Spreadsheet (LibreOffice Calc)",
+"question": "What will be the result of the formula =SUM(10, 20, 30)?",
+"options": {
+"A": "40",
+"B": "50",
+"C": "60",
+"D": "None of the above"
+},
+"answer": "C",
+"explanation": "The SUM function adds the provided values together (10+20+30 = 60)."
+},
+{
+"id": 30,
+"topic": "Word Processing (LibreOffice Writer)",
+"question": "Which shortcut key is used to insert a Page Break in LibreOffice Writer?",
+"options": {
+"A": "Enter",
+"B": "Shift + Enter",
+"C": "Ctrl + Enter",
+"D": "Alt + Enter"
+},
+"answer": "C",
+"explanation": "Ctrl + Enter forces a manual page break in LibreOffice Writer."
+}
+  ]
+  
+  
+
+
+  
