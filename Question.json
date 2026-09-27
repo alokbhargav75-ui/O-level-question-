@@ -1,552 +1,602 @@
-  [
-    {
-    "id": 1,
-    "question": "fuEu esa ls proprietary software dkSu lk gS\\",
+[
+  {
+    "id": 233,
+    "topic": "Computer और उसके Latest IT Gadgets",
+    "question": "Smartwatch किस प्रकार का IT Gadget है?",
     "options": {
-      "A": "AutoCAD",
-      "B": "Adobe Photoshop",
-      "C": "CorelDRAW",
-      "D": "All of the above."
+      "A": "केवल Input Device",
+      "B": "Wearable Smart Device",
+      "C": "केवल Storage Device",
+      "D": "केवल Output Device"
     },
-    "answer": "d"
+    "answer": "B"
   },
   {
-    "id": 2,
-    "question": "LibreOffice esa PowerPoint dks fdl uke ls tkuk tkrk gS\\",
+    "id": 234,
+    "topic": "Hardware और Software की मूल बातें",
+    "question": "Computer का कौन-सा भाग Hardware का उदाहरण है?",
     "options": {
-      "A": "Impress",
-      "B": "Draw",
-      "C": "Calc",
-      "D": "Writer"
+      "A": "Windows",
+      "B": "MS Word",
+      "C": "Keyboard",
+      "D": "Antivirus"
     },
-    "answer": "a"
+    "answer": "C"
   },
   {
-    "id": 3,
-    "question": "fuEu esa ls RAM, CPU, ROM vkSj Expansion card dks ___ j[krk gS\\",
+    "id": 235,
+    "topic": "Central Processing Unit (CPU) और Input/Output Devices",
+    "question": "CPU का कौन-सा भाग Arithmetic और Logical Operations करता है?",
     "options": {
-      "A": "Hard Disk",
+      "A": "ALU",
+      "B": "CU",
+      "C": "Register",
+      "D": "Cache"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 236,
+    "topic": "Computer Memory और Storage",
+    "question": "RAM की मुख्य विशेषता क्या है?",
+    "options": {
+      "A": "यह Permanent Memory है",
+      "B": "यह केवल Read होती है",
+      "C": "Power बंद होने पर Data बना रहता है",
+      "D": "यह Volatile Memory है"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 237,
+    "topic": "Application Software, System Software और Utility Software",
+    "question": "Windows किस प्रकार का Software है?",
+    "options": {
+      "A": "Application Software",
+      "B": "System Software",
+      "C": "Utility Software",
+      "D": "Programming Language"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 238,
+    "topic": "Open Source और Proprietary Software",
+    "question": "Open Source Software की प्रमुख विशेषता क्या है?",
+    "options": {
+      "A": "Source Code उपलब्ध हो सकता है",
+      "B": "यह हमेशा Paid होता है",
+      "C": "इसे केवल एक कंपनी उपयोग कर सकती है",
+      "D": "इसमें Source Code कभी उपलब्ध नहीं होता"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 239,
+    "topic": "Mobile Apps",
+    "question": "Android में Apps सामान्यतः कहाँ से Download किए जाते हैं?",
+    "options": {
+      "A": "BIOS",
+      "B": "Control Panel",
+      "C": "Google Play Store",
+      "D": "Task Manager"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 240,
+    "topic": "Computer और उसके Latest IT Gadgets",
+    "question": "Tablet Computer की प्रमुख विशेषता क्या है?",
+    "options": {
+      "A": "यह केवल Keyboard से चलता है",
+      "B": "यह सामान्यतः Touchscreen आधारित होता है",
+      "C": "इसमें Processor नहीं होता",
+      "D": "यह केवल Printing के लिए होता है"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 241,
+    "topic": "Hardware और Software की मूल बातें",
+    "question": "Software का अर्थ क्या है?",
+    "options": {
+      "A": "Computer के Physical Parts",
+      "B": "Computer की Cabinet",
+      "C": "Instructions और Programs का समूह",
+      "D": "केवल Keyboard और Mouse"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 242,
+    "topic": "Central Processing Unit (CPU) और Input/Output Devices",
+    "question": "CPU में Control Unit का मुख्य कार्य क्या है?",
+    "options": {
+      "A": "Computer की विभिन्न गतिविधियों को Control करना",
+      "B": "केवल Data Store करना",
+      "C": "केवल Printing करना",
+      "D": "केवल Audio चलाना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 243,
+    "topic": "Computer Memory और Storage",
+    "question": "ROM का पूरा नाम क्या है?",
+    "options": {
+      "A": "Random Output Memory",
+      "B": "Read Only Memory",
+      "C": "Read Output Module",
+      "D": "Random Only Module"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 244,
+    "topic": "Application Software, System Software और Utility Software",
+    "question": "MS Word किस प्रकार का Software है?",
+    "options": {
+      "A": "System Software",
+      "B": "Utility Software",
+      "C": "Application Software",
+      "D": "Firmware"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 245,
+    "topic": "Open Source और Proprietary Software",
+    "question": "निम्न में से कौन-सा Open Source Operating System है?",
+    "options": {
+      "A": "Linux",
+      "B": "Windows",
+      "C": "iOS",
+      "D": "MS-DOS"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 246,
+    "topic": "Mobile Apps",
+    "question": "Mobile App क्या है?",
+    "options": {
+      "A": "Mobile Device पर चलने वाला Application",
+      "B": "Computer का Hardware",
+      "C": "केवल Network Cable",
+      "D": "केवल Storage Chip"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 247,
+    "topic": "Computer और उसके Latest IT Gadgets",
+    "question": "Smartphone में Internet से जुड़ने के लिए कौन-सी Technology उपयोग की जा सकती है?",
+    "options": {
+      "A": "Wi-Fi",
       "B": "Floppy Disk",
-      "C": "Mother Board",
-      "D": "None of these."
+      "C": "Plotter",
+      "D": "Scanner"
     },
-    "answer": "c"
+    "answer": "A"
   },
   {
-    "id": 4,
-    "question": "fuEufyf[kr esa ls dkSu lh memory data ds fy, backup storage provide djrh gS\\",
+    "id": 248,
+    "topic": "Hardware और Software की मूल बातें",
+    "question": "Mouse किसका उदाहरण है?",
     "options": {
-      "A": "Internal processor memory",
-      "B": "Primary memory",
-      "C": "Secondary memory",
-      "D": "None of these."
+      "A": "Software",
+      "B": "Input Hardware",
+      "C": "System Software",
+      "D": "Utility Software"
     },
-    "answer": "c"
+    "answer": "B"
   },
   {
-    "id": 5,
-    "question": "Operating system fdl rjg dk software gS\\",
+    "id": 249,
+    "topic": "Central Processing Unit (CPU) और Input/Output Devices",
+    "question": "Monitor किस प्रकार का Device है?",
     "options": {
-      "A": "Active software",
-      "B": "System software",
-      "C": "Application software",
-      "D": "Interactive software"
+      "A": "Input Device",
+      "B": "Storage Device",
+      "C": "Output Device",
+      "D": "Processing Device"
     },
-    "answer": "b"
+    "answer": "C"
   },
   {
-    "id": 6,
-    "question": "CD-ROM ___ ?",
+    "id": 250,
+    "topic": "Computer Memory और Storage",
+    "question": "SSD का मुख्य लाभ क्या है?",
     "options": {
-      "A": "Temporary memory",
-      "B": "Permanent memory",
-      "C": "Magnetic memory",
-      "D": "None of these."
+      "A": "इसमें Moving Parts अधिक होते हैं",
+      "B": "यह HDD की तुलना में सामान्यतः तेज होती है",
+      "C": "यह केवल RAM के रूप में काम करती है",
+      "D": "इसमें Data Store नहीं किया जा सकता"
     },
-    "answer": "b"
+    "answer": "B"
   },
   {
-    "id": 7,
-    "question": "Information retrieval ¼lwpuk iquizkZfIr½ lcls fast gS\\",
+    "id": 251,
+    "topic": "Application Software, System Software और Utility Software",
+    "question": "Antivirus Software का मुख्य उद्देश्य क्या है?",
+    "options": {
+      "A": "Malware से सुरक्षा करना",
+      "B": "केवल Video चलाना",
+      "C": "केवल Document बनाना",
+      "D": "केवल Internet Speed बढ़ाना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 252,
+    "topic": "Open Source और Proprietary Software",
+    "question": "Proprietary Software सामान्यतः किसके नियंत्रण में होता है?",
+    "options": {
+      "A": "किसी Developer या Company के",
+      "B": "सभी Users के समान रूप से",
+      "C": "केवल Government के",
+      "D": "किसी के नहीं"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 253,
+    "topic": "Mobile Apps",
+    "question": "Mobile App को Update करने का सामान्य लाभ क्या है?",
+    "options": {
+      "A": "नई सुविधाएँ और Security Improvements मिल सकती हैं",
+      "B": "फोन का Storage हमेशा समाप्त हो जाता है",
+      "C": "SIM Card बदल जाता है",
+      "D": "Battery हमेशा खराब हो जाती है"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 254,
+    "topic": "Computer और उसके Latest IT Gadgets",
+    "question": "Virtual Reality (VR) में User को मुख्य रूप से क्या अनुभव कराया जाता है?",
+    "options": {
+      "A": "एक Computer-generated Environment",
+      "B": "केवल Printed Text",
+      "C": "केवल Audio Recording",
+      "D": "केवल सामान्य Calculator"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 255,
+    "topic": "Hardware और Software की मूल बातें",
+    "question": "Firmware क्या होता है?",
+    "options": {
+      "A": "Hardware में Embedded Software",
+      "B": "केवल Spreadsheet",
+      "C": "केवल Web Browser",
+      "D": "केवल Antivirus"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 256,
+    "topic": "Central Processing Unit (CPU) और Input/Output Devices",
+    "question": "Scanner का उपयोग मुख्यतः किसके लिए किया जाता है?",
+    "options": {
+      "A": "Digital रूप में Image या Document Input करने के लिए",
+      "B": "Audio Output के लिए",
+      "C": "Data Processing के लिए",
+      "D": "Computer को Power देने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 257,
+    "topic": "Computer Memory और Storage",
+    "question": "Cache Memory का उपयोग मुख्यतः क्यों किया जाता है?",
+    "options": {
+      "A": "CPU को Frequently Used Data तेजी से उपलब्ध कराने के लिए",
+      "B": "केवल Files Print करने के लिए",
+      "C": "Internet Connection बनाने के लिए",
+      "D": "Permanent Backup के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 258,
+    "topic": "Application Software, System Software और Utility Software",
+    "question": "Disk Cleanup किस प्रकार की Utility का उदाहरण है?",
+    "options": {
+      "A": "System Utility",
+      "B": "Gaming Software",
+      "C": "Presentation Software",
+      "D": "Programming Language"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 259,
+    "topic": "Open Source और Proprietary Software",
+    "question": "निम्न में से कौन-सा Proprietary Software का उदाहरण है?",
+    "options": {
+      "A": "Linux",
+      "B": "Mozilla Firefox",
+      "C": "Microsoft Windows",
+      "D": "Ubuntu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 260,
+    "topic": "Mobile Apps",
+    "question": "Mobile App में Permission का उद्देश्य क्या होता है?",
+    "options": {
+      "A": "App को कुछ Device Features या Data तक Access देना",
+      "B": "Phone का Processor बदलना",
+      "C": "SIM का Number बदलना",
+      "D": "Screen का Size बदलना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 261,
+    "topic": "Computer और उसके Latest IT Gadgets",
+    "question": "IoT का पूरा नाम क्या है?",
+    "options": {
+      "A": "Internet of Things",
+      "B": "Input of Technology",
+      "C": "Internet of Tools",
+      "D": "Internal Online Technology"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 262,
+    "topic": "Hardware और Software की मूल बातें",
+    "question": "Keyboard किस प्रकार का Device है?",
+    "options": {
+      "A": "Output Device",
+      "B": "Input Device",
+      "C": "Storage Device",
+      "D": "Processing Device"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 263,
+    "topic": "Central Processing Unit (CPU) और Input/Output Devices",
+    "question": "Printer किस प्रकार का Device है?",
+    "options": {
+      "A": "Input Device",
+      "B": "Output Device",
+      "C": "Processing Device",
+      "D": "Memory Device"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 264,
+    "topic": "Computer Memory और Storage",
+    "question": "HDD में Data Store करने के लिए मुख्य रूप से किसका उपयोग होता है?",
+    "options": {
+      "A": "Magnetic Platters",
+      "B": "Touchscreen",
+      "C": "Laser Beam",
+      "D": "Keyboard Keys"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 265,
+    "topic": "Application Software, System Software और Utility Software",
+    "question": "Web Browser किस प्रकार का Software है?",
+    "options": {
+      "A": "Application Software",
+      "B": "Firmware",
+      "C": "System Hardware",
+      "D": "Device Driver"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 266,
+    "topic": "Open Source और Proprietary Software",
+    "question": "Open Source Software में Source Code के साथ क्या किया जा सकता है, License की शर्तों के अनुसार?",
+    "options": {
+      "A": "Code को देखना और Modify करना",
+      "B": "Computer को हमेशा बंद करना",
+      "C": "केवल Print करना",
+      "D": "केवल Video चलाना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 267,
+    "topic": "Mobile Apps",
+    "question": "GPS का उपयोग Mobile में मुख्यतः किसके लिए होता है?",
+    "options": {
+      "A": "Location और Navigation के लिए",
+      "B": "Document Printing के लिए",
+      "C": "RAM बढ़ाने के लिए",
+      "D": "Screen Brightness बढ़ाने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 268,
+    "topic": "Computer और उसके Latest IT Gadgets",
+    "question": "Bluetooth Technology का उपयोग मुख्यतः किसके लिए किया जाता है?",
+    "options": {
+      "A": "Short-range Wireless Communication",
+      "B": "Hard Disk Formatting",
+      "C": "CPU Manufacturing",
+      "D": "Paper Printing Only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 269,
+    "topic": "Hardware और Software की मूल बातें",
+    "question": "Computer Hardware को किस रूप में परिभाषित किया जा सकता है?",
+    "options": {
+      "A": "Computer के Physical Components",
+      "B": "Computer Programs",
+      "C": "Operating System",
+      "D": "Mobile Applications"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 270,
+    "topic": "Central Processing Unit (CPU) और Input/Output Devices",
+    "question": "Speaker किस प्रकार का Device है?",
+    "options": {
+      "A": "Input Device",
+      "B": "Output Device",
+      "C": "Storage Device",
+      "D": "Processing Device"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 271,
+    "topic": "Computer Memory और Storage",
+    "question": "RAM में Stored Data सामान्यतः कब खो जाता है?",
+    "options": {
+      "A": "Computer की Power बंद होने पर",
+      "B": "Mouse हटाने पर",
+      "C": "Printer बंद करने पर",
+      "D": "Monitor बंद करने पर"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 272,
+    "topic": "Application Software, System Software और Utility Software",
+    "question": "Operating System का मुख्य कार्य क्या है?",
+    "options": {
+      "A": "Hardware और Software Resources को Manage करना",
+      "B": "केवल Music चलाना",
+      "C": "केवल Documents Print करना",
+      "D": "केवल Games Install करना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 273,
+    "topic": "Open Source और Proprietary Software",
+    "question": "Ubuntu किससे संबंधित है?",
+    "options": {
+      "A": "Linux-based Operating System",
+      "B": "Proprietary Antivirus",
+      "C": "Graphics Card",
+      "D": "Database Hardware"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 274,
+    "topic": "Mobile Apps",
+    "question": "Mobile App में Push Notification का उपयोग किसलिए किया जाता है?",
+    "options": {
+      "A": "User को App से संबंधित सूचना दिखाने के लिए",
+      "B": "Battery को Physical रूप से Charge करने के लिए",
+      "C": "RAM को बदलने के लिए",
+      "D": "SIM Card को Format करने के लिए"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 275,
+    "topic": "Computer और उसके Latest IT Gadgets",
+    "question": "Artificial Intelligence आधारित Gadget का उदाहरण कौन-सा हो सकता है?",
+    "options": {
+      "A": "AI Voice Assistant वाला Smart Speaker",
+      "B": "साधारण Paper Notebook",
+      "C": "Mechanical Stapler",
+      "D": "Wooden Table"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 276,
+    "topic": "Hardware और Software की मूल बातें",
+    "question": "Device Driver का मुख्य कार्य क्या है?",
+    "options": {
+      "A": "Operating System को Hardware Device के साथ Communication करने में मदद करना",
+      "B": "केवल Internet Speed बढ़ाना",
+      "C": "केवल Documents बनाना",
+      "D": "केवल Computer Games चलाना"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 277,
+    "topic": "Central Processing Unit (CPU) और Input/Output Devices",
+    "question": "Touchscreen किस प्रकार Input और Output दोनों का कार्य कर सकता है?",
+    "options": {
+      "A": "हाँ, यह Touch Input लेता है और Display Output देता है",
+      "B": "नहीं, यह केवल Storage Device है",
+      "C": "नहीं, यह केवल CPU है",
+      "D": "हाँ, लेकिन केवल Printing करता है"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 278,
+    "topic": "Computer Memory और Storage",
+    "question": "निम्न में से कौन-सा Secondary Storage का उदाहरण है?",
     "options": {
       "A": "Hard Disk",
-      "B": "CD",
-      "C": "SSD",
-      "D": "All of the above."
-    },
-    "answer": "c"
-  },
-  {
-    "id": 8,
-    "question": "Internet ij fd, tkus okys dk;Z dks ___ dgk tkrk gS\\",
-    "options": {
-      "A": "Surfing",
-      "B": "Gambling",
-      "C": "Both (a) and (b)",
-      "D": "None of these."
-    },
-    "answer": "a"
-  },
-  {
-    "id": 9,
-    "question": "RAM dk vFkZ gS ___\\",
-    "options": {
-      "A": "Random access memory",
-      "B": "Read only memory",
-      "C": "Read access memory",
-      "D": "Random also memory"
-    },
-    "answer": "a"
-  },
-  {
-    "id": 10,
-    "question": "fuEUfyf[kr esa ls dkSu real security vkSj privacy threats ¼xksiuh;rk [krjksa½ dk example gS\\",
-    "options": {
-      "A": "Virus",
-      "B": "Hackers",
-      "C": "Worm",
-      "D": "Spam"
-    },
-    "answer": "d"
-  },
-  {
-    "id": 11,
-    "question": "fuEu esa ls dkSu lk ,d secondary memory device gS\\",
-    "options": {
-      "A": "CD ROM",
       "B": "RAM",
-      "C": "Both (a) and (b)",
-      "D": "None of these."
+      "C": "CPU Register",
+      "D": "Cache"
     },
-    "answer": "a"
+    "answer": "A"
   },
   {
-    "id": 12,
-    "question": "Network ds ___ dks csgrj cukus ds fy, password dk use fd;k tkrk gS\\",
+    "id": 279,
+    "topic": "Application Software, System Software और Utility Software",
+    "question": "File Compression Utility का उपयोग किसलिए किया जाता है?",
     "options": {
-      "A": "Reliability",
-      "B": "Security",
-      "C": "Performance",
-      "D": "Longevity"
+      "A": "Files का Size कम करने के लिए",
+      "B": "CPU की Speed Physically बढ़ाने के लिए",
+      "C": "Monitor की Resolution बदलने के लिए",
+      "D": "Keyboard की Keys बदलने के लिए"
     },
-    "answer": "b"
+    "answer": "A"
   },
   {
-    "id": 13,
-    "question": "Computer dks le>us vkSj execute djus okyh language dks ___ dgk tkrk gS\\",
+    "id": 280,
+    "topic": "Open Source और Proprietary Software",
+    "question": "Proprietary Software में Source Code के बारे में सामान्यतः क्या होता है?",
     "options": {
-      "A": "Machine language",
-      "B": "High level language",
-      "C": "Both (a) and (b)",
-      "D": "None of these."
+      "A": "यह मालिक या विक्रेता द्वारा नियंत्रित और अक्सर सार्वजनिक रूप से उपलब्ध नहीं होता",
+      "B": "यह हमेशा सभी के लिए खुला होता है",
+      "C": "यह केवल RAM में रहता है",
+      "D": "इसका कोई License नहीं होता"
     },
-    "answer": "a"
+    "answer": "A"
   },
   {
-    "id": 14,
-    "question": "fuEufyf[kr esa ls dkSu ,d anti-virus program gS\\",
+    "id": 281,
+    "topic": "Mobile Apps",
+    "question": "Mobile App Store का मुख्य उद्देश्य क्या है?",
     "options": {
-      "A": "K7",
-      "B": "Quick heal",
-      "C": "Norton",
-      "D": "All of the above."
+      "A": "Apps को खोजने, Download और Update करने की सुविधा देना",
+      "B": "केवल Photos Print करना",
+      "C": "Computer का CPU बनाना",
+      "D": "Hard Disk Repair करना"
     },
-    "answer": "d"
+    "answer": "A"
   },
   {
-    "id": 15,
-    "question": "fuEufyf[kr esa ls dkSu input device ugh gS\\",
+    "id": 282,
+    "topic": "Computer और उसके Latest IT Gadgets",
+    "question": "Smart TV की प्रमुख विशेषता क्या है?",
     "options": {
-      "A": "Microphone",
-      "B": "Mouse",
-      "C": "Scanner",
-      "D": "None of these."
+      "A": "Internet और Apps जैसी Smart Features का Support",
+      "B": "इसमें कोई Display नहीं होता",
+      "C": "यह केवल Calculator की तरह काम करता है",
+      "D": "यह केवल Keyboard से चलता है"
     },
-    "answer": "d"
-  },
-  {
-    "id": 16,
-    "question": "Firewall ,d izdkj dk gS ___ \\",
-    "options": {
-      "A": "Security threat",
-      "B": "Worm",
-      "C": "Virus",
-      "D": "None of these."
-    },
-    "answer": "d"
-  },
-  {
-    "id": 17,
-    "question": ",d E-mail ID esa D;k gksrk gS\\",
-    "options": {
-      "A": "Letters, numbers",
-      "B": "Letter, number, @",
-      "C": "Username",
-      "D": "None of these."
-    },
-    "answer": "b"
-  },
-  {
-    "id": 18,
-    "question": "Secure Electronic Transaction protocol dk mi;ksx fd;k tkrk gS\\",
-    "options": {
-      "A": "Credit card payment",
-      "B": "Payment of small amounts for internet services",
-      "C": "Electronic cash payment",
-      "D": "Cheque payment"
-    },
-    "answer": "a"
-  },
-  {
-    "id": 19,
-    "question": "Crypto currency is a ___ ?",
-    "options": {
-      "A": "Plastic money",
-      "B": "Digital payment",
-      "C": "Digital medium of exchange",
-      "D": "None of these."
-    },
-    "answer": "c"
-  },
-  {
-    "id": 20,
-    "question": "buesa ls dkSu lk E-mail medium ugh gS\\",
-    "options": {
-      "A": "Extranet",
-      "B": "Internet",
-      "C": "Paper",
-      "D": "Internet"
-    },
-    "answer": "c"
-  },
-  {
-    "id": 21,
-    "question": "Operating system ‘kCn dk vFkZ gS\\",
-    "options": {
-      "A": "Program dk ,d set tks Computer ds work dks control djrk gSA",
-      "B": "ftl rjg ls Computer operator work djrk gSA",
-      "C": "High level language dk Machine level language esa conversion.",
-      "D": "Floppy disk drive ftl rjg ls operate gksrh gSA"
-    },
-    "answer": "a"
-  },
-  {
-    "id": 22,
-    "question": "Instagram fdlls related gS\\",
-    "options": {
-      "A": "Facebook",
-      "B": "Microsoft",
-      "C": "Google",
-      "D": "YouTube"
-    },
-    "answer": "a"
-  },
-  {
-    "id": 23,
-    "question": "IMAP Protocol dk mi;ksx fraud mailers }kjk fdl purpose ds fy, fd;k tkrk gS\\",
-    "options": {
-      "A": "Send spam",
-      "B": "Send fake mails",
-      "C": "Hack e-mail",
-      "D": "All of the above."
-    },
-    "answer": "d"
-  },
-  {
-    "id": 24,
-    "question": "Computer dk operating system users vkSj ___ ds chp ,d software interface ds :i esa dk;Z djrk gS",
-    "options": {
-      "A": "Memory",
-      "B": "Peripheral",
-      "C": "Hardware",
-      "D": "Screen"
-    },
-    "answer": "c"
-  },
-  {
-    "id": 25,
-    "question": "Default :i ls windows 10 vius vki battery sever feature dks pkyw dj nsrk gS tc Laptop dk battery charge uhps fxjrk gS\\",
-    "options": {
-      "A": "15 %",
-      "B": "20 %",
-      "C": "5 %",
-      "D": "10 %"
-    },
-    "answer": "b"
-  },
-  {
-    "id": 26,
-    "question": "Screen background vkSj window dk main area gS tgka vki program open and restrict ¼izfrcaf/kr½ dj ldrs gSa\\",
-    "options": {
-      "A": "Windows settings",
-      "B": "Desktop",
-      "C": "Application window",
-      "D": "All application"
-    },
-    "answer": "c"
-  },
-  {
-    "id": 27,
-    "question": ",d application dks desktop ij shortcut ds tfj, open fd;k tk ldrk gS\\",
-    "options": {
-      "A": "blds shortcut ij double click djsa",
-      "B": "Open option ij right click djsa vkSj select djsa",
-      "C": "Icon dks select djsa vkSj Enter key ncka,",
-      "D": "All of the above."
-    },
-    "answer": "d"
-  },
-  {
-    "id": 28,
-    "question": "LibreOffice esa Power Point dks fdl uke ls tkuk tkrk gS\\",
-    "options": {
-      "A": "Writer",
-      "B": "Calc",
-      "C": "Impress",
-      "D": "Draw"
-    },
-    "answer": "c"
-  },
-  {
-    "id": 29,
-    "question": "Printer and Scanner option esa ,d u;k printer dgk¡ add fd;k tk ldrk gS\\",
-    "options": {
-      "A": "Control Panel",
-      "B": "File Manager",
-      "C": "Dynamic data exchange",
-      "D": "None of these."
-    },
-    "answer": "a"
-  },
-  {
-    "id": 30,
-    "question": "GUI dk mi;ksx ___ interface ds chp fd;k tkrk gS\\",
-    "options": {
-      "A": "Hardware and Software",
-      "B": "Human and Machine",
-      "C": "Software and Users",
-      "D": "None of these."
-    },
-    "answer": "c"
-  },
-  {
-    "id": 31,
-    "question": "Start menu ls vki ___ access dj ldrs gSa\\",
-    "options": {
-      "A": "Lock your computer",
-      "B": "Search for Applications, Settings and Files",
-      "C": "Turn off your computer",
-      "D": "All of the above."
-    },
-    "answer": "d"
-  },
-  {
-    "id": 32,
-    "question": "vki file explorer esa viuh files and folders dk mi;ksx djds navigate dj ldrs gSa\\",
-    "options": {
-      "A": "Address bar",
-      "B": "Forward and backward button",
-      "C": "Search function",
-      "D": "All of the above."
-    },
-    "answer": "d"
-  },
-  {
-    "id": 33,
-    "question": "Windows 10 esa ‘Sleep’ dk D;k vFkZ gS\\",
-    "options": {
-      "A": "Computer dks safe mode esa restart djsaA",
-      "B": "Computer dks sleep mode esa restart djsaA",
-      "C": "lHkh running applications dks end djrs gq, Computer dks off djsaA",
-      "D": "py jgs application dks can fd, fcuk Computer dks shutdown djsaA"
-    },
-    "answer": "d"
-  },
-  {
-    "id": 34,
-    "question": "Operating system dk dk;Z D;k gS\\",
-    "options": {
-      "A": "Computer ds lalk/kuksa (resources) dks cgqr dq’kyrk ls izfrcaf/kr (restricted) djrk gSA",
-      "B": "Execution ds fy, Scheduling Job dh ns[kHkky djrk gSA",
-      "C": "Data and instructions ds flow dk management djrk gSA",
-      "D": "All of the above."
-    },
-    "answer": "d"
-  },
-  {
-    "id": 35,
-    "question": "MS-Word esa gutter margin D;k gS\\",
-    "options": {
-      "A": "Margin tks print djrs le; left margin esa add fd;k tkrk gSA",
-      "B": "Margin tks print djrs le; page margin ds binding side esa add fd;k tkrk gSA",
-      "C": "Margin tks print djrs le; right margin esa add fd;k tkrk gSA",
-      "D": "Margin tks print djrs le; page ds outside esa add fd;k tkrk gSA"
-    },
-    "answer": "b"
-  },
-  {
-    "id": 36,
-    "question": "fuEufyf[kr esa ls dkSu lcls rst] lcls cM+s vkSj lcls egaxs Computer dks lanfHkZr djrk gS\\",
-    "options": {
-      "A": "Super Computer",
-      "B": "Personal Computer",
-      "C": "Laptop",
-      "D": "Notebook"
-    },
-    "answer": "a"
-  },
-  {
-    "id": 37,
-    "question": "tc ms-word load gks tkrk gS] rks opening screen ij ,d document fn[kkbZ nsrk gS ftldk uke gS\\",
-    "options": {
-      "A": "Document1",
-      "B": "Document",
-      "C": "Doc1",
-      "D": "None of these."
-    },
-    "answer": "a"
-  },
-  {
-    "id": 38,
-    "question": "Ms-word dqN method provide djrk gS ftuds }kjk vki ,d document esa ?kwe ldrs gSa\\",
-    "options": {
-      "A": "Scroll djds",
-      "B": "fdlh particular page ij tkdj",
-      "C": "Both (a) and (b)",
-      "D": "None of these."
-    },
-    "answer": "c"
-  },
-  {
-    "id": 39,
-    "question": "Ms-word esa right aliment dh shortcut key D;k gS\\",
-    "options": {
-      "A": "Ctrl+E",
-      "B": "Ctrl+L",
-      "C": "Ctrl+R",
-      "D": "None of these."
-    },
-    "answer": "c"
-  },
-  {
-    "id": 40,
-    "question": ";fn vkidk document 200 ls vf/kd zoom gS] rks text area esa fdrus scroll bar fn[kkbZ nsrs gSa\\",
-    "options": {
-      "A": "4",
-      "B": "2",
-      "C": "1",
-      "D": "3"
-    },
-    "answer": "b"
-  },
-  {
-    "id": 41,
-    "question": "Ms-word esa Chart insert djus ds fy, vki fdl Tab dk mi;ksx djsaxs\\",
-    "options": {
-      "A": "View",
-      "B": "References",
-      "C": "Insert",
-      "D": "Page layout"
-    },
-    "answer": "c"
-  },
-  {
-    "id": 42,
-    "question": "Ms-word esa Page margin dks cnyus ds fy, vki fdl Tab dk mi;ksx djsaxs\\",
-    "options": {
-      "A": "Page layout",
-      "B": "View",
-      "C": "Insert",
-      "D": "Home"
-    },
-    "answer": "a"
-  },
-  {
-    "id": 43,
-    "question": "dkSu lk Tab Different izdkj ds Font fn[kkrk gS tks mi;ksx ds fy, available gS\\",
-    "options": {
-      "A": "View",
-      "B": "Page layout",
-      "C": "References",
-      "D": "Home"
-    },
-    "answer": "d"
-  },
-  {
-    "id": 44,
-    "question": "Print gksus ij Document dks ns[kus ds fy, vki fdl page view dk mi;ksx dj ldrs gSa\\",
-    "options": {
-      "A": "Outline view",
-      "B": "Draft view",
-      "C": "Read mode",
-      "D": "Print layout"
-    },
-    "answer": "d"
-  },
-  {
-    "id": 45,
-    "question": "Ms-word 2013 esa fuEufyf[kr esa ls dkSu lk feature ugh gS\\",
-    "options": {
-      "A": "Ribbon",
-      "B": "Button",
-      "C": "Chart",
-      "D": "Drop down menu"
-    },
-    "answer": "d"
-  },
-  {
-    "id": 46,
-    "question": "Top ij fLFkr NksVs Toolbar dk uke D;k gS tks save disk option fn[krk gS\\",
-    "options": {
-      "A": "My document",
-      "B": "Quick access",
-      "C": "Title bar",
-      "D": "None of these."
-    },
-    "answer": "b"
-  },
-  {
-    "id": 47,
-    "question": "Insert ribbon command dkSu lh ugh gS\\",
-    "options": {
-      "A": "Shape",
-      "B": "Clip art",
-      "C": "Page number",
-      "D": "None of these."
-    },
-    "answer": "b"
-  },
-  {
-    "id": 48,
-    "question": "Cell esa data enter djus ds fy, fuEufyf[kr esa ls fdl method dk mi;ksx ugh fd;k tk ldrk gS\\",
-    "options": {
-      "A": "Press the arrow key",
-      "B": "Press the tab key",
-      "C": "Press the Esc key",
-      "D": "Click on formula bar"
-    },
-    "answer": "c"
-  },
-  {
-    "id": 49,
-    "question": "Excel file dk extension gS ___\\",
-    "options": {
-      "A": ".TMT",
-      "B": ".XXL",
-      "C": ".xlsx",
-      "D": "None of these."
-    },
-    "answer": "c"
-  },
-  {
-    "id": 50,
-    "question": "Excel window esa dkSu lk area value vkSj formula enter djus dh vuqefr nsrk gS\\",
-    "options": {
-      "A": "Home tab",
-      "B": "Format tab",
-      "C": "Formula bar",
-      "D": "Design tab"
-    },
-    "answer": "c"
-  },
-  ]
+    "answer": "A"
+  }
+]
